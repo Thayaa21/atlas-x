@@ -8,3 +8,4 @@ matplotlib
 python-dotenv
 openai
 pyarrow
+fastapi
