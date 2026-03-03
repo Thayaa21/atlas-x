@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: fig-openai-proxy
+    runtime: python
+    buildCommand: pip install -r proxy/requirements.txt
+    startCommand: uvicorn proxy.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false          # you enter this manually in Render dashboard (never in repo)
+      - key: TEAM_KEY
+        sync: false          # e.g. "fig-team-2025" — share this with teammates
+      - key: DAILY_TOKEN_BUDGET
+        value: "100000"      # 100k tokens/day shared — edit as needed
