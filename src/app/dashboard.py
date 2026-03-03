@@ -4,11 +4,16 @@ import joblib
 import shap
 import matplotlib.pyplot as plt
 import os
+import sys
 from openai import OpenAI
 from dotenv import load_dotenv
 from pathlib import Path
-from src.utils.feature_map import FEATURE_LABELS
+# Add project root to Python path
+project_root = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(project_root))
 
+# Now use absolute import
+from src.utils.feature_map import FEATURE_LABELS
 # Load environment variables
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
