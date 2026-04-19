@@ -1,0 +1,69 @@
+{
+  "targets": {
+    "precision_min": 0.85,
+    "recall_min": 0.75
+  },
+  "segment_quantile_cuts": {
+    "vip_cut": 0.5672102390852383,
+    "regular_cut": 0.4568607068607064,
+    "d1_min": 0.0,
+    "d1_max": 640.0,
+    "d15_min": -83.0,
+    "d15_max": 879.0
+  },
+  "segments": {
+    "VIP": {
+      "selected": false,
+      "threshold": 0.72,
+      "precision": 0.7837837837837838,
+      "recall": 0.6,
+      "f1": 0.6796874999995087,
+      "business_cost": 117200.0,
+      "confusion_counts": {
+        "tp": 87,
+        "tn": 9890,
+        "fp": 24,
+        "fn": 58
+      }
+    },
+    "Regular": {
+      "selected": false,
+      "threshold": 0.88,
+      "precision": 0.8435277382645804,
+      "recall": 0.5183566433566433,
+      "f1": 0.6421223605842604,
+      "business_cost": 2215000.0,
+      "confusion_counts": {
+        "tp": 1186,
+        "tn": 61680,
+        "fp": 220,
+        "fn": 1102
+      }
+    },
+    "New": {
+      "selected": false,
+      "threshold": 0.8200000000000001,
+      "precision": 0.8478915662650602,
+      "recall": 0.6623529411764706,
+      "f1": 0.7437252311752011,
+      "business_cost": 1158100.0,
+      "confusion_counts": {
+        "tp": 1126,
+        "tn": 41959,
+        "fp": 202,
+        "fn": 574
+      }
+    }
+  },
+  "metadata": {
+    "model_path": "/Users/thayaananthan/Desktop/atlas-x/src/models/atlass_x_xgb_v3.pkl",
+    "data_path": "/Users/thayaananthan/Desktop/atlas-x/data/processed/train_full_features.parquet",
+    "random_state": 42,
+    "test_size": 0.2,
+    "threshold_grid": {
+      "min": 0.01,
+      "max": 0.99,
+      "num": 99
+    }
+  }
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "address": "204.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.025946,
+    "card_count": 1001,
+    "fraud_card_count": 304,
+    "fraud_card_rate_pct": 30.37
+  },
+  {
+    "address": "299.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.022249,
+    "card_count": 1061,
+    "fraud_card_count": 277,
+    "fraud_card_rate_pct": 26.11
+  },
+  {
+    "address": "325.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.024939,
+    "card_count": 875,
+    "fraud_card_count": 275,
+    "fraud_card_rate_pct": 31.43
+  },
+  {
+    "address": "264.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.017096,
+    "card_count": 1063,
+    "fraud_card_count": 252,
+    "fraud_card_rate_pct": 23.71
+  },
+  {
+    "address": "272.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.033358,
+    "card_count": 645,
+    "fraud_card_count": 231,
+    "fraud_card_rate_pct": 35.81
+  },
+  {
+    "address": "441.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.028502,
+    "card_count": 595,
+    "fraud_card_count": 229,
+    "fraud_card_rate_pct": 38.49
+  },
+  {
+    "address": "330.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.031379,
+    "card_count": 745,
+    "fraud_card_count": 220,
+    "fraud_card_rate_pct": 29.53
+  },
+  {
+    "address": "337.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.025914,
+    "card_count": 578,
+    "fraud_card_count": 206,
+    "fraud_card_rate_pct": 35.64
+  },
+  {
+    "address": "315.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.018771,
+    "card_count": 709,
+    "fraud_card_count": 203,
+    "fraud_card_rate_pct": 28.63
+  },
+  {
+    "address": "184.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.017674,
+    "card_count": 543,
+    "fraud_card_count": 201,
+    "fraud_card_rate_pct": 37.02
+  },
+  {
+    "address": "123.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.025553,
+    "card_count": 524,
+    "fraud_card_count": 197,
+    "fraud_card_rate_pct": 37.6
+  },
+  {
+    "address": "126.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.027918,
+    "card_count": 494,
+    "fraud_card_count": 192,
+    "fraud_card_rate_pct": 38.87
+  },
+  {
+    "address": "191.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.016815,
+    "card_count": 557,
+    "fraud_card_count": 182,
+    "fraud_card_rate_pct": 32.68
+  },
+  {
+    "address": "181.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.020766,
+    "card_count": 555,
+    "fraud_card_count": 167,
+    "fraud_card_rate_pct": 30.09
+  },
+  {
+    "address": "476.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.028917,
+    "card_count": 384,
+    "fraud_card_count": 154,
+    "fraud_card_rate_pct": 40.1
+  },
+  {
+    "address": "327.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.016168,
+    "card_count": 411,
+    "fraud_card_count": 151,
+    "fraud_card_rate_pct": 36.74
+  },
+  {
+    "address": "512.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.029151,
+    "card_count": 358,
+    "fraud_card_count": 148,
+    "fraud_card_rate_pct": 41.34
+  },
+  {
+    "address": "143.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.012121,
+    "card_count": 444,
+    "fraud_card_count": 139,
+    "fraud_card_rate_pct": 31.31
+  },
+  {
+    "address": "310.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.017909,
+    "card_count": 325,
+    "fraud_card_count": 139,
+    "fraud_card_rate_pct": 42.77
+  },
+  {
+    "address": "433.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.019268,
+    "card_count": 365,
+    "fraud_card_count": 134,
+    "fraud_card_rate_pct": 36.71
+  },
+  {
+    "address": "387.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.019821,
+    "card_count": 360,
+    "fraud_card_count": 132,
+    "fraud_card_rate_pct": 36.67
+  },
+  {
+    "address": "231.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.031928,
+    "card_count": 311,
+    "fraud_card_count": 131,
+    "fraud_card_rate_pct": 42.12
+  },
+  {
+    "address": "472.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.024289,
+    "card_count": 365,
+    "fraud_card_count": 128,
+    "fraud_card_rate_pct": 35.07
+  },
+  {
+    "address": "269.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.031898,
+    "card_count": 319,
+    "fraud_card_count": 123,
+    "fraud_card_rate_pct": 38.56
+  },
+  {
+    "address": "220.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.032967,
+    "card_count": 240,
+    "fraud_card_count": 121,
+    "fraud_card_rate_pct": 50.42
+  },
+  {
+    "address": "225.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.023697,
+    "card_count": 291,
+    "fraud_card_count": 120,
+    "fraud_card_rate_pct": 41.24
+  },
+  {
+    "address": "226.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.047236,
+    "card_count": 293,
+    "fraud_card_count": 111,
+    "fraud_card_rate_pct": 37.88
+  },
+  {
+    "address": "485.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.021593,
+    "card_count": 293,
+    "fraud_card_count": 110,
+    "fraud_card_rate_pct": 37.54
+  },
+  {
+    "address": "177.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.027689,
+    "card_count": 290,
+    "fraud_card_count": 106,
+    "fraud_card_rate_pct": 36.55
+  },
+  {
+    "address": "498.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.026549,
+    "card_count": 269,
+    "fraud_card_count": 105,
+    "fraud_card_rate_pct": 39.03
+  },
+  {
+    "address": "205.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.010705,
+    "card_count": 282,
+    "fraud_card_count": 99,
+    "fraud_card_rate_pct": 35.11
+  },
+  {
+    "address": "420.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.027851,
+    "card_count": 213,
+    "fraud_card_count": 99,
+    "fraud_card_rate_pct": 46.48
+  },
+  {
+    "address": "251.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.021093,
+    "card_count": 252,
+    "fraud_card_count": 96,
+    "fraud_card_rate_pct": 38.1
+  },
+  {
+    "address": "494.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.006944,
+    "card_count": 190,
+    "fraud_card_count": 86,
+    "fraud_card_rate_pct": 45.26
+  },
+  {
+    "address": "436.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.010972,
+    "card_count": 249,
+    "fraud_card_count": 85,
+    "fraud_card_rate_pct": 34.14
+  },
+  {
+    "address": "203.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.038674,
+    "card_count": 192,
+    "fraud_card_count": 82,
+    "fraud_card_rate_pct": 42.71
+  },
+  {
+    "address": "110.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.022329,
+    "card_count": 177,
+    "fraud_card_count": 78,
+    "fraud_card_rate_pct": 44.07
+  },
+  {
+    "address": "469.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.029605,
+    "card_count": 202,
+    "fraud_card_count": 75,
+    "fraud_card_rate_pct": 37.13
+  },
+  {
+    "address": "324.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.057078,
+    "card_count": 129,
+    "fraud_card_count": 73,
+    "fraud_card_rate_pct": 56.59
+  },
+  {
+    "address": "444.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.007673,
+    "card_count": 140,
+    "fraud_card_count": 56,
+    "fraud_card_rate_pct": 40.0
+  },
+  {
+    "address": "194.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.01194,
+    "card_count": 115,
+    "fraud_card_count": 56,
+    "fraud_card_rate_pct": 48.7
+  },
+  {
+    "address": "384.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.027119,
+    "card_count": 112,
+    "fraud_card_count": 56,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "address": "170.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.024096,
+    "card_count": 148,
+    "fraud_card_count": 53,
+    "fraud_card_rate_pct": 35.81
+  },
+  {
+    "address": "428.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.026415,
+    "card_count": 118,
+    "fraud_card_count": 53,
+    "fraud_card_rate_pct": 44.92
+  },
+  {
+    "address": "308.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.083942,
+    "card_count": 93,
+    "fraud_card_count": 52,
+    "fraud_card_rate_pct": 55.91
+  },
+  {
+    "address": "343.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.012158,
+    "card_count": 107,
+    "fraud_card_count": 51,
+    "fraud_card_rate_pct": 47.66
+  },
+  {
+    "address": "284.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.019608,
+    "card_count": 60,
+    "fraud_card_count": 51,
+    "fraud_card_rate_pct": 85.0
+  },
+  {
+    "address": "158.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.020468,
+    "card_count": 98,
+    "fraud_card_count": 42,
+    "fraud_card_rate_pct": 42.86
+  },
+  {
+    "address": "253.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.022624,
+    "card_count": 94,
+    "fraud_card_count": 42,
+    "fraud_card_rate_pct": 44.68
+  },
+  {
+    "address": "492.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.023041,
+    "card_count": 86,
+    "fraud_card_count": 38,
+    "fraud_card_rate_pct": 44.19
+  },
+  {
+    "address": "122.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.07,
+    "card_count": 67,
+    "fraud_card_count": 38,
+    "fraud_card_rate_pct": 56.72
+  },
+  {
+    "address": "465.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.100917,
+    "card_count": 48,
+    "fraud_card_count": 37,
+    "fraud_card_rate_pct": 77.08
+  },
+  {
+    "address": "448.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.017544,
+    "card_count": 71,
+    "fraud_card_count": 34,
+    "fraud_card_rate_pct": 47.89
+  },
+  {
+    "address": "161.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.195402,
+    "card_count": 34,
+    "fraud_card_count": 33,
+    "fraud_card_rate_pct": 97.06
+  },
+  {
+    "address": "130.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.088235,
+    "card_count": 31,
+    "fraud_card_count": 30,
+    "fraud_card_rate_pct": 96.77
+  },
+  {
+    "address": "502.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.016667,
+    "card_count": 48,
+    "fraud_card_count": 23,
+    "fraud_card_rate_pct": 47.92
+  },
+  {
+    "address": "511.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.058824,
+    "card_count": 22,
+    "fraud_card_count": 19,
+    "fraud_card_rate_pct": 86.36
+  },
+  {
+    "address": "536.0",
+    "country_code": "96.0",
+    "addr_fraud_rate": 0.135593,
+    "card_count": 33,
+    "fraud_card_count": 12,
+    "fraud_card_rate_pct": 36.36
+  },
+  {
+    "address": "148.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.0,
+    "card_count": 13,
+    "fraud_card_count": 12,
+    "fraud_card_rate_pct": 92.31
+  },
+  {
+    "address": "157.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.025,
+    "card_count": 17,
+    "fraud_card_count": 11,
+    "fraud_card_rate_pct": 64.71
+  },
+  {
+    "address": "296.0",
+    "country_code": "32.0",
+    "addr_fraud_rate": 0.223881,
+    "card_count": 55,
+    "fraud_card_count": 10,
+    "fraud_card_rate_pct": 18.18
+  },
+  {
+    "address": "418.0",
+    "country_code": "87.0",
+    "addr_fraud_rate": 0.038462,
+    "card_count": 23,
+    "fraud_card_count": 10,
+    "fraud_card_rate_pct": 43.48
+  },
+  {
+    "address": "486.0",
+    "country_code": "60.0",
+    "addr_fraud_rate": 0.0,
+    "card_count": 10,
+    "fraud_card_count": 8,
+    "fraud_card_rate_pct": 80.0
+  }
+]

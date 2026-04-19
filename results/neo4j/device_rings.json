@@ -1,0 +1,3146 @@
+[
+  {
+    "device": "desktop-Windows",
+    "device_type": "desktop",
+    "card_count": 2077,
+    "fraud_card_count": 529,
+    "avg_card_fraud_pct": 4.65,
+    "fraud_card_rate_pct": 25.47
+  },
+  {
+    "device": "mobile-iOS Device",
+    "device_type": "mobile",
+    "card_count": 1192,
+    "fraud_card_count": 363,
+    "avg_card_fraud_pct": 4.14,
+    "fraud_card_rate_pct": 30.45
+  },
+  {
+    "device": "desktop-MacOS",
+    "device_type": "desktop",
+    "card_count": 859,
+    "fraud_card_count": 265,
+    "avg_card_fraud_pct": 3.04,
+    "fraud_card_rate_pct": 30.85
+  },
+  {
+    "device": "desktop-Trident/7.0",
+    "device_type": "desktop",
+    "card_count": 657,
+    "fraud_card_count": 252,
+    "avg_card_fraud_pct": 3.85,
+    "fraud_card_rate_pct": 38.36
+  },
+  {
+    "device": "desktop-rv:11.0",
+    "device_type": "desktop",
+    "card_count": 243,
+    "fraud_card_count": 134,
+    "avg_card_fraud_pct": 4.57,
+    "fraud_card_rate_pct": 55.14
+  },
+  {
+    "device": "desktop-rv:57.0",
+    "device_type": "desktop",
+    "card_count": 102,
+    "fraud_card_count": 65,
+    "avg_card_fraud_pct": 5.59,
+    "fraud_card_rate_pct": 63.73
+  },
+  {
+    "device": "mobile-SM-G955U Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 59,
+    "fraud_card_count": 38,
+    "avg_card_fraud_pct": 4.84,
+    "fraud_card_rate_pct": 64.41
+  },
+  {
+    "device": "desktop-rv:59.0",
+    "device_type": "desktop",
+    "card_count": 42,
+    "fraud_card_count": 35,
+    "avg_card_fraud_pct": 7.02,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SM-G930V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 49,
+    "fraud_card_count": 32,
+    "avg_card_fraud_pct": 2.85,
+    "fraud_card_rate_pct": 65.31
+  },
+  {
+    "device": "mobile-SM-G610M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 33,
+    "fraud_card_count": 31,
+    "avg_card_fraud_pct": 14.7,
+    "fraud_card_rate_pct": 93.94
+  },
+  {
+    "device": "mobile-SM-G950U Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 45,
+    "fraud_card_count": 27,
+    "avg_card_fraud_pct": 4.94,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "desktop-rv:58.0",
+    "device_type": "desktop",
+    "card_count": 32,
+    "fraud_card_count": 26,
+    "avg_card_fraud_pct": 10.36,
+    "fraud_card_rate_pct": 81.25
+  },
+  {
+    "device": "mobile-SM-G935F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 32,
+    "fraud_card_count": 26,
+    "avg_card_fraud_pct": 11.42,
+    "fraud_card_rate_pct": 81.25
+  },
+  {
+    "device": "mobile-SM-J700M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 33,
+    "fraud_card_count": 25,
+    "avg_card_fraud_pct": 11.25,
+    "fraud_card_rate_pct": 75.76
+  },
+  {
+    "device": "mobile-SM-G531H Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 27,
+    "fraud_card_count": 25,
+    "avg_card_fraud_pct": 15.62,
+    "fraud_card_rate_pct": 92.59
+  },
+  {
+    "device": "mobile-SM-A300H Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 25,
+    "fraud_card_count": 25,
+    "avg_card_fraud_pct": 19.56,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-rv:52.0",
+    "device_type": "desktop",
+    "card_count": 42,
+    "fraud_card_count": 22,
+    "avg_card_fraud_pct": 2.79,
+    "fraud_card_rate_pct": 52.38
+  },
+  {
+    "device": "mobile-ALE-L23 Build/HuaweiALE-L23",
+    "device_type": "mobile",
+    "card_count": 24,
+    "fraud_card_count": 20,
+    "avg_card_fraud_pct": 15.15,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SAMSUNG",
+    "device_type": "mobile",
+    "card_count": 39,
+    "fraud_card_count": 19,
+    "avg_card_fraud_pct": 4.23,
+    "fraud_card_rate_pct": 48.72
+  },
+  {
+    "device": "mobile-SM-N950U Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 31,
+    "fraud_card_count": 19,
+    "avg_card_fraud_pct": 2.55,
+    "fraud_card_rate_pct": 61.29
+  },
+  {
+    "device": "mobile-SM-G950F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 26,
+    "fraud_card_count": 19,
+    "avg_card_fraud_pct": 12.03,
+    "fraud_card_rate_pct": 73.08
+  },
+  {
+    "device": "mobile-SM-G532M Build/MMB29T",
+    "device_type": "mobile",
+    "card_count": 21,
+    "fraud_card_count": 19,
+    "avg_card_fraud_pct": 13.92,
+    "fraud_card_rate_pct": 90.48
+  },
+  {
+    "device": "desktop-rv:48.0",
+    "device_type": "desktop",
+    "card_count": 29,
+    "fraud_card_count": 18,
+    "avg_card_fraud_pct": 3.89,
+    "fraud_card_rate_pct": 62.07
+  },
+  {
+    "device": "mobile-CAM-L03 Build/HUAWEICAM-L03",
+    "device_type": "mobile",
+    "card_count": 20,
+    "fraud_card_count": 18,
+    "avg_card_fraud_pct": 12.98,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G950U Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 21,
+    "fraud_card_count": 17,
+    "avg_card_fraud_pct": 5.11,
+    "fraud_card_rate_pct": 80.95
+  },
+  {
+    "device": "mobile-PRA-LX3 Build/HUAWEIPRA-LX3",
+    "device_type": "mobile",
+    "card_count": 18,
+    "fraud_card_count": 16,
+    "avg_card_fraud_pct": 14.09,
+    "fraud_card_rate_pct": 88.89
+  },
+  {
+    "device": "mobile-LG-M700 Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 17,
+    "fraud_card_count": 16,
+    "avg_card_fraud_pct": 12.2,
+    "fraud_card_rate_pct": 94.12
+  },
+  {
+    "device": "mobile-SM-J730GM Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 17,
+    "fraud_card_count": 16,
+    "avg_card_fraud_pct": 12.58,
+    "fraud_card_rate_pct": 94.12
+  },
+  {
+    "device": "mobile-XT1635-02 Build/NPN26.118-22-2",
+    "device_type": "mobile",
+    "card_count": 17,
+    "fraud_card_count": 16,
+    "avg_card_fraud_pct": 13.63,
+    "fraud_card_rate_pct": 94.12
+  },
+  {
+    "device": "mobile-Moto X Play Build/NPD26.48-24-1",
+    "device_type": "mobile",
+    "card_count": 18,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 11.78,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-HUAWEI TAG-L13 Build/HUAWEITAG-L13",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 12.85,
+    "fraud_card_rate_pct": 93.75
+  },
+  {
+    "device": "mobile-LG-D693n Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 11.85,
+    "fraud_card_rate_pct": 93.75
+  },
+  {
+    "device": "mobile-SM-G570M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 12.89,
+    "fraud_card_rate_pct": 93.75
+  },
+  {
+    "device": "mobile-SM-G955F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 15.24,
+    "fraud_card_rate_pct": 93.75
+  },
+  {
+    "device": "mobile-SM-J701M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 15,
+    "avg_card_fraud_pct": 12.74,
+    "fraud_card_rate_pct": 93.75
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G955U Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 18,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 2.98,
+    "fraud_card_rate_pct": 77.78
+  },
+  {
+    "device": "mobile-LG-X230 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 16,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 12.4,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-Moto Z2 Play Build/NPSS26.118-19-14",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 15.42,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-MotoG3 Build/MPIS24.65-33.1-2-16",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 17.86,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-TRT-L53 Build/HUAWEITRT-L53",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 13.75,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-WAS-LX3 Build/HUAWEIWAS-LX3",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 14,
+    "avg_card_fraud_pct": 21.25,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G935V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 18,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 3.29,
+    "fraud_card_rate_pct": 72.22
+  },
+  {
+    "device": "mobile-SM-A520F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 17,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 10.41,
+    "fraud_card_rate_pct": 76.47
+  },
+  {
+    "device": "mobile-SM-A720F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 15,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 14.56,
+    "fraud_card_rate_pct": 86.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J700M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 14.66,
+    "fraud_card_rate_pct": 92.86
+  },
+  {
+    "device": "mobile-BLADE V8 SE Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 16.44,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade V6 Plus Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 22.06,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K410 Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 12.12,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (4) Build/NPJ25.93-14.5",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 13,
+    "avg_card_fraud_pct": 13.81,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto E (4) Plus Build/NMA26.42-69",
+    "device_type": "desktop",
+    "card_count": 12,
+    "fraud_card_count": 12,
+    "avg_card_fraud_pct": 14.41,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K580 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 12,
+    "avg_card_fraud_pct": 12.21,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G Play Build/MPIS24.241-15.3-7",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 12,
+    "avg_card_fraud_pct": 12.92,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J320M Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 12,
+    "avg_card_fraud_pct": 13.12,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J510MN Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 15.05,
+    "fraud_card_rate_pct": 84.62
+  },
+  {
+    "device": "desktop-Moto G (4) Build/NPJ25.93-14.7",
+    "device_type": "desktop",
+    "card_count": 12,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 20.48,
+    "fraud_card_rate_pct": 91.67
+  },
+  {
+    "device": "mobile-SM-G925I Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 12.07,
+    "fraud_card_rate_pct": 91.67
+  },
+  {
+    "device": "mobile-LG-K530 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 13.62,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto E (4) Build/NMA26.42-69",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 17.23,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G532M Build/MMB29T",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 11,
+    "avg_card_fraud_pct": 10.28,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-rv:56.0",
+    "device_type": "desktop",
+    "card_count": 18,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 6.58,
+    "fraud_card_rate_pct": 55.56
+  },
+  {
+    "device": "mobile-SM-G930F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 18,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 5.33,
+    "fraud_card_rate_pct": 55.56
+  },
+  {
+    "device": "mobile-SM-G950U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 3.1,
+    "fraud_card_rate_pct": 71.43
+  },
+  {
+    "device": "mobile-MYA-L13 Build/HUAWEIMYA-L13",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 13.13,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-rv:59.0",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 13.09,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SM-A510M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 15.23,
+    "fraud_card_rate_pct": 90.91
+  },
+  {
+    "device": "mobile-SM-G920P Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 9.71,
+    "fraud_card_rate_pct": 90.91
+  },
+  {
+    "device": "mobile-SM-J500M Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 13.95,
+    "fraud_card_rate_pct": 90.91
+  },
+  {
+    "device": "mobile-SM-J710MN Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 12.73,
+    "fraud_card_rate_pct": 90.91
+  },
+  {
+    "device": "mobile-5025G Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 13.47,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI G7-L03 Build/HuaweiG7-L03",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 13.14,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI RIO-L03 Build/HUAWEIRIO-L03",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 11.83,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI VNS-L23 Build/HUAWEIVNS-L23",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 8.68,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H840 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 15.03,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-X180g Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 10,
+    "avg_card_fraud_pct": 11.67,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G930A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 15,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 3.85,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-SM-G930T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 15,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 2.67,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-Moto G Play Build/MPIS24.241-15.3-26",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 15.35,
+    "fraud_card_rate_pct": 81.82
+  },
+  {
+    "device": "desktop-Moto G (5) Build/NPP25.137-93",
+    "device_type": "desktop",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 11.46,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-LG-H650 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 13.74,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-LG-K500 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 9.94,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-Moto C Build/NRD90M.063",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 12.69,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-Moto G (4) Build/NPJS25.93-14-10",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 12.88,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "mobile-RNE-L03 Build/HUAWEIRNE-L03",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 9.72,
+    "fraud_card_rate_pct": 90.0
+  },
+  {
+    "device": "desktop-Moto E (4) Build/NMA26.42-69",
+    "device_type": "desktop",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 12.65,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-BAC-L03 Build/HUAWEIBAC-L03",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 11.03,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F3313 Build/37.0.A.2.108",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 13.95,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H870 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 12.67,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-X240 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 12.82,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-A500M Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 15.46,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G900M Build/LRX21T",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 17.88,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J700M Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 9,
+    "avg_card_fraud_pct": 28.29,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Linux x86_64",
+    "device_type": "desktop",
+    "card_count": 13,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 4.69,
+    "fraud_card_rate_pct": 61.54
+  },
+  {
+    "device": "desktop-Windows NT 6.1",
+    "device_type": "desktop",
+    "card_count": 11,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 5.85,
+    "fraud_card_rate_pct": 72.73
+  },
+  {
+    "device": "mobile-SM-N920V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 9.94,
+    "fraud_card_rate_pct": 72.73
+  },
+  {
+    "device": "mobile-Moto G (5) Plus Build/NPN25.137-92",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 17.61,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-HTC Desire 10 lifestyle Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 12.43,
+    "fraud_card_rate_pct": 88.89
+  },
+  {
+    "device": "mobile-SM-G935F Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 18.03,
+    "fraud_card_rate_pct": 88.89
+  },
+  {
+    "device": "desktop-LG-D320 Build/KOT49I.V10a",
+    "device_type": "desktop",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 23.31,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (5) Plus Build/NPN25.137-92",
+    "device_type": "desktop",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 13.45,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F3113 Build/33.3.A.1.97",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 9.33,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F3213 Build/36.1.A.1.86",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 13.23,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F5121 Build/34.3.A.0.252",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 17.74,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI CUN-L03 Build/HUAWEICUN-L03",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 21.13,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI VNS-L53 Build/HUAWEIVNS-L53",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 11.48,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K200 Build/MXB48T",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 13.55,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (5) Build/NPP25.137-72",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 17.99,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J730GM Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 15.08,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-N950F Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 8,
+    "avg_card_fraud_pct": 16.76,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-N950U Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 1.42,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-rv:57.0",
+    "device_type": "mobile",
+    "card_count": 14,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 4.16,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-Moto",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 2.37,
+    "fraud_card_rate_pct": 53.85
+  },
+  {
+    "device": "mobile-SM-G900V Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 13,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 2.13,
+    "fraud_card_rate_pct": 53.85
+  },
+  {
+    "device": "mobile-SM-G930P Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 1.61,
+    "fraud_card_rate_pct": 58.33
+  },
+  {
+    "device": "mobile-SM-G935T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 11,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 3.47,
+    "fraud_card_rate_pct": 63.64
+  },
+  {
+    "device": "mobile-SM-G920V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 10,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 3.96,
+    "fraud_card_rate_pct": 70.0
+  },
+  {
+    "device": "mobile-SM-N950U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 4.07,
+    "fraud_card_rate_pct": 77.78
+  },
+  {
+    "device": "mobile-Hisense L675 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 9.02,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-Moto E (4) Plus Build/NMA26.42-69",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 12.64,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-Moto Z (2",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 5.72,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-Redmi Note 4 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 17.14,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G950F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 12.85,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-SM-G955U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 14.49,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-TA-1039 Build/NMF26F",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 14.21,
+    "fraud_card_rate_pct": 87.5
+  },
+  {
+    "device": "mobile-5010G Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 12.96,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-8050G Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 10.81,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade A510 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 16.66,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F5121 Build/34.3.A.0.238",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 18.41,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-GT-I9060M Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 25.41,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-KFFOWI Build/LVY48F",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 10.69,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Lenovo A2016b30 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 15.06,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (5) Build/NPPS25.137-15-11",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 8.63,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G891A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 19.47,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G955F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 12.47,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G550T1 Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 8.6,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J105B Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 14.24,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J111M Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 7,
+    "avg_card_fraud_pct": 11.1,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G950F Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 5.72,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "desktop-Moto G (4) Build/NPJS25.93-14-13",
+    "device_type": "desktop",
+    "card_count": 8,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 12.95,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "desktop-rv:51.0",
+    "device_type": "desktop",
+    "card_count": 8,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 11.3,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-rv:58.0",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 10.54,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-LG-M250 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 10.67,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-M4 SS4456 Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 11.47,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-Moto G (4) Build/NPJ25.93-14.7",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 9.85,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-Nexus",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 5.73,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-Pixel",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 4.5,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J701M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 9.75,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-SM-G955F Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 8.19,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-Z981 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 5.67,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "mobile-es-us",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 7.14,
+    "fraud_card_rate_pct": 85.71
+  },
+  {
+    "device": "desktop-Moto E (4) Build/NMA26.42-19",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 10.98,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (5) Build/NPP25.137-82",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 17.86,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (5) Plus Build/NPN25.137-82",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 14.95,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-rv:47.0",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 7.18,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-5012G Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 18.76,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Android 5.1",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 12.86,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade L2 Plus Build/KOT49H",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 14.09,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HTC Desire 530 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 11.38,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HTC One A9s Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 9.24,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Ilium LT510 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 10.03,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-X165g Build/LRX21M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 11.34,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-X210 Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 15.07,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Lenovo PB2-650Y Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 20.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Lenovo-A6020l36 Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 14.74,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (4) Build/NPJS25.93-14-13",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 9.89,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (5) Build/NPP25.137-82",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 11.61,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G531H Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 12.05,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G610M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 22.3,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-N950F Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 15.03,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-A510M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 16.07,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G530H Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 27.88,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G570M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 15.59,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-XT1032 Build/LPBS23.13-56-2",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 10.38,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Y635-L03 Build/HuaweiY635-L03",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 6,
+    "avg_card_fraud_pct": 26.05,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-VS988 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 9,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 2.38,
+    "fraud_card_rate_pct": 55.56
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G935F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 7.02,
+    "fraud_card_rate_pct": 62.5
+  },
+  {
+    "device": "mobile-SM-G935P Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 1.79,
+    "fraud_card_rate_pct": 62.5
+  },
+  {
+    "device": "mobile-F3213 Build/36.0.A.2.146",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 6.91,
+    "fraud_card_rate_pct": 71.43
+  },
+  {
+    "device": "mobile-KFGIWI Build/LVY48F",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 5.57,
+    "fraud_card_rate_pct": 71.43
+  },
+  {
+    "device": "mobile-LGMP260 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 3.35,
+    "fraud_card_rate_pct": 71.43
+  },
+  {
+    "device": "mobile-SM-G610M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 7.45,
+    "fraud_card_rate_pct": 71.43
+  },
+  {
+    "device": "desktop-MDDRJS",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 3.9,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "desktop-Moto G (4) Build/NPJS25.93-14-15",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 5.9,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-5080A Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 8.0,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-Blade V580 Build/LMY47D",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.57,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-Ilium X510 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 12.25,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-LG-M400 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.34,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-Lenovo",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 7.61,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-Moto G (5) Build/NPP25.137-93",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.7,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SAMSUNG SM-A520F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 11.42,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SM-G965U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 3.14,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "mobile-SM-T710 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 6.12,
+    "fraud_card_rate_pct": 83.33
+  },
+  {
+    "device": "desktop-Moto G (5) Build/NPPS25.137-15-11",
+    "device_type": "desktop",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 12.52,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto Z (2",
+    "device_type": "desktop",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 11.73,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-SM-J700M Build/LMY48B",
+    "device_type": "desktop",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 30.14,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-5015A Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 9.29,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-5056A Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 15.55,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-BLL-L23 Build/HUAWEIBLL-L23",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 11.52,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade V6 Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 15.54,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-CHC-U03 Build/HuaweiCHC-U03",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 6.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-E2306 Build/26.3.A.1.33",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.8,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F3313 Build/37.0.A.2.248",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 7.46,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H542 Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 14.1,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H542 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 8.33,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-M4 SS4458 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 12.18,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (5) Plus Build/NPNS25.137-15-11",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 18.43,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J120H Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 16.24,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G530AZ Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 2.76,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SLA-L03 Build/HUAWEISLA-L03",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 15.59,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G355M Build/KOT49H",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.75,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J110M Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 5.22,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J500M Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 10.46,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T580 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 16.65,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-TA-1038 Build/NMF26O",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 15.16,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-VS5012 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 5,
+    "avg_card_fraud_pct": 51.57,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J327P Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 3.25,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-XT1585 Build/NCK25.118-10.5",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 1.27,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "desktop-rv:45.0",
+    "device_type": "desktop",
+    "card_count": 7,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.22,
+    "fraud_card_rate_pct": 57.14
+  },
+  {
+    "device": "mobile-KFDOWI Build/LVY48F",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 5.91,
+    "fraud_card_rate_pct": 57.14
+  },
+  {
+    "device": "mobile-Pixel Build/OPM1.171019.011",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 1.63,
+    "fraud_card_rate_pct": 57.14
+  },
+  {
+    "device": "desktop-Moto",
+    "device_type": "desktop",
+    "card_count": 6,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 5.83,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-FIG-LX3 Build/HUAWEIFIG-LX3",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 13.7,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-G3223 Build/42.0.A.4.101",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.42,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-HTC Desire 650 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.93,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-Hisense F23 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 13.56,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-LG-D331 Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 13.36,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-Microsoft",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 7.41,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-Moto G Play Build/NPIS26.48-36-2",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 9.48,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J327T1 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 9.78,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J700T Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.8,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-T810 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.14,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-SM-J120H Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 6.2,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-SM-T550 Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.23,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-VS995 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 2.07,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "mobile-moto x4 Build/OPWS27.57-40-6",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 21.53,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "device": "desktop-ALE-L23 Build/HuaweiALE-L23",
+    "device_type": "desktop",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.73,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-SM-A300H Build/LRX22G",
+    "device_type": "desktop",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-SM-G900M Build/LRX21T",
+    "device_type": "desktop",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 31.88,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-rv:49.0",
+    "device_type": "desktop",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.2,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-ALP-L09 Build/HUAWEIALP-L09S",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.17,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-BLADE A602 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 22.02,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-BLADE L7 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 9.92,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade V6 Max Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 11.89,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-E2306 Build/26.1.A.3.111",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 8.78,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F5121 Build/34.3.A.0.228",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 13.95,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-G3313 Build/43.0.A.5.79",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 11.83,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HTC Desire 626s Build/LMY47O",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 12.53,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HUAWEI NXT-L09 Build/HUAWEINXT-L09",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 20.4,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Hisense U963 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 16.67,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Ilium X710 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 11.42,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H420 Build/LRX21Y",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 18.74,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H840 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 18.55,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-M320 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 11.25,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-X220 Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.38,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-MOT-A6020l37 Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 17.76,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto E (4) Build/NMA26.42-19",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 10.68,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Pixel 2 Build/OPM1.171019.011",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 4.98,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Pixel XL Build/OPM1.171019.011",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 3.65,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-A720F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 5.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G928A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 9.97,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-A510M Build/LMY47X",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 47.32,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G530H Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 34.18,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-N910T Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 1.55,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-N920A Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 8.1,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T113NU Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 15.19,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T377V Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 7.35,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T530NU Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 3.6,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T560 Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 7.69,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-VS425PP Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 57.54,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-XT1064 Build/MPB24.65-34-3",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 13.6,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-hi6210sft Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 4,
+    "avg_card_fraud_pct": 19.8,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G930F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 12,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.99,
+    "fraud_card_rate_pct": 25.0
+  },
+  {
+    "device": "mobile-Redmi 4X Build/N2G47H",
+    "device_type": "mobile",
+    "card_count": 7,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.86,
+    "fraud_card_rate_pct": 42.86
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G930A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 6,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 1.71,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "desktop-rv:60.0",
+    "device_type": "desktop",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.17,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-N950U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.71,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G935A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 1.69,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-SM-J327T1 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.85,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-XT1650",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 17.04,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-XT1650 Build/NCLS26.118-23-13-3",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.5,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "device": "mobile-2PS64 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.66,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-LGLS775 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.3,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-M4 SS4453 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.57,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-Moto G (5) Build/NPP25.137-38",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.0,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-Pixel 2 Build/OPM1.171019.021",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.81,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-Pixel 2 XL Build/OPM1.171019.011",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.42,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G891A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.47,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-G920A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.51,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SGH-I337M Build/LRX22C",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 8.44,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-G925T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.73,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-G928G Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 7.89,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-G928T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.33,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-J200M Build/LMY47X",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.59,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-N910V Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.87,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-S727VL Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 11.39,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-SM-T820 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.68,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "mobile-rv:60.0",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.51,
+    "fraud_card_rate_pct": 75.0
+  },
+  {
+    "device": "desktop-Moto G (4) Build/NPJS25.93-14-10",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.43,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (4) Build/NPJS25.93-14-8.1-4",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 17.27,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (5) Plus Build/NPNS25.137-15-11",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.93,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-Moto G (5) Plus Build/NPNS25.137-92-4",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.97,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "desktop-rv:55.0",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.97,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-5011A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 9.87,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-5054S Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.38,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-BLU",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.97,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Blade L5 Build/LMY47I",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 17.08,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-CRO-L03 Build/HUAWEICRO-L03",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 7.43,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-E5506 Build/29.1.A.0.101",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 9.75,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-E5606 Build/30.2.A.1.21",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 4.56,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F5321 Build/34.3.A.0.238",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 8.84,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-F8331 Build/41.2.A.7.76",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 18.02,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-GT-I9060L Build/JDQ39",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.78,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-HTC One_M8 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 17.98,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Hisense L675 PRO Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.93,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Ilium X520 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 12.39,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-KFTHWI Build/KTU84M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H500 Build/LRX21Y",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 9.82,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H811 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.69,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-H871",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 1.32,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K220 Build/MXB48T",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.1,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K430 Build/MRA58K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.13,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-K530 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 9.06,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-LG-LS997 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 1.17,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Lenovo K33b36 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.12,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Mi A1 Build/N2G47H",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.33,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto C Plus Build/NRD90M.05.034",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.21,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G (5) Plus Build/NPN25.137-72",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.97,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Moto G Play Build/NPIS26.48-36-5",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 7.06,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Nexus 6 Build/N6F27M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.91,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-A510M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.05,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G550T1 Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 11.49,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G570M Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 12.91,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G610M Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 7.06,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J500M Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.77,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SAMSUNG-SM-T377A Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.0,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-A320Y Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.46,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-A530F Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.03,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-E500M Build/KTU84P",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 15.26,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G550T Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.72,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G800M Build/KOT49H",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 20.1,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G850M Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 20.87,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G900P Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.42,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G920I Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.59,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G920T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 2.88,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G925V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 6.94,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-G960U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 3.6,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J100VPP Build/LMY48B",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 14.9,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J530GM Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 11.15,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-J700T Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.28,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-P580 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 16.46,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T110 Build/JDQ39",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 7.57,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-SM-T560NU Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.73,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-TA-1039 Build/N2G47H",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 10.14,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-XT1563 Build/MPD24.107-52",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 13.12,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-XT1572 Build/NPHS25.200-15-8",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 9.26,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-Z835 Build/NMF26V",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 3,
+    "avg_card_fraud_pct": 5.82,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "device": "mobile-EVA-L09 Build/HUAWEIEVA-L09",
+    "device_type": "mobile",
+    "card_count": 8,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 4.1,
+    "fraud_card_rate_pct": 25.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-T580 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 3.77,
+    "fraud_card_rate_pct": 40.0
+  },
+  {
+    "device": "mobile-SM-N920T Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 5,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 1.27,
+    "fraud_card_rate_pct": 40.0
+  },
+  {
+    "device": "mobile-MotoE2(4G-LTE",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 3.5,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G925F Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 8.52,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-SM-A710M Build/LMY47X",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 6.24,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "mobile-SM-T350 Build/NMF26X",
+    "device_type": "mobile",
+    "card_count": 4,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 4.15,
+    "fraud_card_rate_pct": 50.0
+  },
+  {
+    "device": "desktop-Linux i686",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.13,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "desktop-Windows NT 6.2",
+    "device_type": "desktop",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 6.04,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-2PYB2",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 3.01,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Android 7.0",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 8.45,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-C6743 Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.06,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-F8331",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 4.76,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-FRD-L09 Build/HUAWEIFRD-L09",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.71,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-KFSUWI Build/LVY48F",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 10.81,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-LG-H872 Build/NRD90U",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.59,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Lenovo A6020l37 Build/LMY47V",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 3.53,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Lenovo TB3-710F Build/LRX21M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 9.51,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Moto G (5S",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 16.06,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Moto G Play Build/NPI26.48-36",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 9.08,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Nexus 6P Build/OPR5.170623.011",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.02,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-REVVLPLUS",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.67,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Redmi Note 3 Build/MMB29M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 12.46,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G920I Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 9.04,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G950F Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 7.79,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-G955U Build/R16NW",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 4.47,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-J327A Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 1.39,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SAMSUNG SM-T530NU Build/LRX22G",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.21,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SM-G928V Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.49,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SM-G930U Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 3.92,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SM-T713 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 1.86,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SM-T800 Build/MMB29K",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.39,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-SM-T813 Build/NRD90M",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.61,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-XT1021 Build/KXC21.5-40",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 16.5,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-XT1650 Build/NCLS26.118-23-13-6-5",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 2.62,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-Z983 Build/NMF26F",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 1.88,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-moto",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 8.86,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "device": "mobile-moto x4 Build/NPW26.83-42",
+    "device_type": "mobile",
+    "card_count": 3,
+    "fraud_card_count": 2,
+    "avg_card_fraud_pct": 7.04,
+    "fraud_card_rate_pct": 66.67
+  }
+]

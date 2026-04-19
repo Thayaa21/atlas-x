@@ -9,3 +9,32 @@ python-dotenv
 openai
 pyarrow
 fastapi
+
+# Production / serving
+uvicorn[standard]
+orjson
+httpx
+
+# Messaging / streaming
+aiokafka
+
+# Graph DB
+neo4j
+
+# Caching / state
+redis
+
+# Postgres (async driver)
+asyncpg
+
+# Metrics
+prometheus-fastapi-instrumentator
+psutil
+
+# RL / Federated learning
+torch
+flwr
+
+# Training utilities
+joblib
+aiohttp>=3.9

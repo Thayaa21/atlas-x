@@ -1,0 +1,21 @@
+{
+  "episodes": 100000,
+  "action_counts": {
+    "BLOCK": 15073,
+    "FLAG": 13327,
+    "APPROVE": 26730,
+    "AUTO_APPROVE": 44870
+  },
+  "action_space": [
+    "BLOCK",
+    "FLAG",
+    "APPROVE",
+    "AUTO_APPROVE"
+  ],
+  "state_features": [
+    "fraud_prob",
+    "graph_risk",
+    "customer_segment",
+    "market_context"
+  ]
+}
