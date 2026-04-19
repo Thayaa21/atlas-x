@@ -1,7 +1,35 @@
-# .gitignore
-.env
+# Python
 .venv/
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Secrets
+.env
+
+# Data (large files)
 data/raw/
 data/processed/
+
+# Models (large binaries)
 *.pkl
+*.model
+
+# Frontend dependencies
+frontend/node_modules/
+frontend/.vite/
+
+# Logs
+*.log
+/tmp/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
