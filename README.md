@@ -445,13 +445,3 @@ See [docs/API.md](docs/API.md) for full endpoint reference with curl examples.
 Interactive Swagger UI: `http://localhost:8001/docs`
 
 ---
-
-## License
-
-MIT — see `LICENSE`.
-
----
-
-## Author
-
-Thayaananthan Kanagaraj
