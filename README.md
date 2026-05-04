@@ -454,7 +454,7 @@ MIT — see `LICENSE`.
 
 ## Author
 
-Thayaananthan Kanagaraj
-Xiu-Wen Yeh (Vian) 
-Muskaan Nolastname 
-Karthikeyan Sivasubramanian
+Thayaananthan Kanagaraj. 
+Xiu-Wen Yeh (Vian). 
+Muskaan Nolastname. 
+Karthikeyan Sivasubramanian. 
