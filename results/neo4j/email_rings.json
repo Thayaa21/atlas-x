@@ -1,0 +1,426 @@
+[
+  {
+    "email_domain": "gmail.com",
+    "email_node_fraud_rate": 0.043351,
+    "email_fraud_txn": 1983,
+    "card_count": 5043,
+    "fraud_card_count": 767,
+    "fraud_card_rate_pct": 15.21
+  },
+  {
+    "email_domain": "yahoo.com",
+    "email_node_fraud_rate": 0.023098,
+    "email_fraud_txn": 469,
+    "card_count": 3048,
+    "fraud_card_count": 545,
+    "fraud_card_rate_pct": 17.88
+  },
+  {
+    "email_domain": "anonymous.com",
+    "email_node_fraud_rate": 0.020764,
+    "email_fraud_txn": 150,
+    "card_count": 2166,
+    "fraud_card_count": 509,
+    "fraud_card_rate_pct": 23.5
+  },
+  {
+    "email_domain": "hotmail.com",
+    "email_node_fraud_rate": 0.053307,
+    "email_fraud_txn": 478,
+    "card_count": 1543,
+    "fraud_card_count": 500,
+    "fraud_card_rate_pct": 32.4
+  },
+  {
+    "email_domain": "aol.com",
+    "email_node_fraud_rate": 0.02064,
+    "email_fraud_txn": 118,
+    "card_count": 1298,
+    "fraud_card_count": 383,
+    "fraud_card_rate_pct": 29.51
+  },
+  {
+    "email_domain": "icloud.com",
+    "email_node_fraud_rate": 0.031949,
+    "email_fraud_txn": 40,
+    "card_count": 512,
+    "fraud_card_count": 229,
+    "fraud_card_rate_pct": 44.73
+  },
+  {
+    "email_domain": "outlook.com",
+    "email_node_fraud_rate": 0.106806,
+    "email_fraud_txn": 102,
+    "card_count": 383,
+    "fraud_card_count": 218,
+    "fraud_card_rate_pct": 56.92
+  },
+  {
+    "email_domain": "comcast.net",
+    "email_node_fraud_rate": 0.028093,
+    "email_fraud_txn": 47,
+    "card_count": 590,
+    "fraud_card_count": 211,
+    "fraud_card_rate_pct": 35.76
+  },
+  {
+    "email_domain": "live.com",
+    "email_node_fraud_rate": 0.024077,
+    "email_fraud_txn": 15,
+    "card_count": 330,
+    "fraud_card_count": 173,
+    "fraud_card_rate_pct": 52.42
+  },
+  {
+    "email_domain": "msn.com",
+    "email_node_fraud_rate": 0.025958,
+    "email_fraud_txn": 21,
+    "card_count": 360,
+    "fraud_card_count": 164,
+    "fraud_card_rate_pct": 45.56
+  },
+  {
+    "email_domain": "att.net",
+    "email_node_fraud_rate": 0.008631,
+    "email_fraud_txn": 7,
+    "card_count": 345,
+    "fraud_card_count": 153,
+    "fraud_card_rate_pct": 44.35
+  },
+  {
+    "email_domain": "ymail.com",
+    "email_node_fraud_rate": 0.018868,
+    "email_fraud_txn": 9,
+    "card_count": 237,
+    "fraud_card_count": 124,
+    "fraud_card_rate_pct": 52.32
+  },
+  {
+    "email_domain": "sbcglobal.net",
+    "email_node_fraud_rate": 0.006369,
+    "email_fraud_txn": 4,
+    "card_count": 276,
+    "fraud_card_count": 120,
+    "fraud_card_rate_pct": 43.48
+  },
+  {
+    "email_domain": "verizon.net",
+    "email_node_fraud_rate": 0.001832,
+    "email_fraud_txn": 1,
+    "card_count": 218,
+    "fraud_card_count": 114,
+    "fraud_card_rate_pct": 52.29
+  },
+  {
+    "email_domain": "me.com",
+    "email_node_fraud_rate": 0.013793,
+    "email_fraud_txn": 4,
+    "card_count": 165,
+    "fraud_card_count": 89,
+    "fraud_card_rate_pct": 53.94
+  },
+  {
+    "email_domain": "bellsouth.net",
+    "email_node_fraud_rate": 0.04,
+    "email_fraud_txn": 16,
+    "card_count": 203,
+    "fraud_card_count": 85,
+    "fraud_card_rate_pct": 41.87
+  },
+  {
+    "email_domain": "cox.net",
+    "email_node_fraud_rate": 0.01938,
+    "email_fraud_txn": 5,
+    "card_count": 150,
+    "fraud_card_count": 69,
+    "fraud_card_rate_pct": 46.0
+  },
+  {
+    "email_domain": "yahoo.com.mx",
+    "email_node_fraud_rate": 0.00974,
+    "email_fraud_txn": 3,
+    "card_count": 80,
+    "fraud_card_count": 64,
+    "fraud_card_rate_pct": 80.0
+  },
+  {
+    "email_domain": "rocketmail.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 86,
+    "fraud_card_count": 54,
+    "fraud_card_rate_pct": 62.79
+  },
+  {
+    "email_domain": "mail.com",
+    "email_node_fraud_rate": 0.232323,
+    "email_fraud_txn": 23,
+    "card_count": 72,
+    "fraud_card_count": 52,
+    "fraud_card_rate_pct": 72.22
+  },
+  {
+    "email_domain": "charter.net",
+    "email_node_fraud_rate": 0.019481,
+    "email_fraud_txn": 3,
+    "card_count": 88,
+    "fraud_card_count": 48,
+    "fraud_card_rate_pct": 54.55
+  },
+  {
+    "email_domain": "optonline.net",
+    "email_node_fraud_rate": 0.020101,
+    "email_fraud_txn": 4,
+    "card_count": 75,
+    "fraud_card_count": 45,
+    "fraud_card_rate_pct": 60.0
+  },
+  {
+    "email_domain": "live.com.mx",
+    "email_node_fraud_rate": 0.071429,
+    "email_fraud_txn": 10,
+    "card_count": 47,
+    "fraud_card_count": 43,
+    "fraud_card_rate_pct": 91.49
+  },
+  {
+    "email_domain": "earthlink.net",
+    "email_node_fraud_rate": 0.019048,
+    "email_fraud_txn": 2,
+    "card_count": 64,
+    "fraud_card_count": 41,
+    "fraud_card_rate_pct": 64.06
+  },
+  {
+    "email_domain": "mac.com",
+    "email_node_fraud_rate": 0.064103,
+    "email_fraud_txn": 5,
+    "card_count": 62,
+    "fraud_card_count": 41,
+    "fraud_card_rate_pct": 66.13
+  },
+  {
+    "email_domain": "hotmail.es",
+    "email_node_fraud_rate": 0.082353,
+    "email_fraud_txn": 7,
+    "card_count": 41,
+    "fraud_card_count": 37,
+    "fraud_card_rate_pct": 90.24
+  },
+  {
+    "email_domain": "gmail",
+    "email_node_fraud_rate": 0.009901,
+    "email_fraud_txn": 1,
+    "card_count": 67,
+    "fraud_card_count": 36,
+    "fraud_card_rate_pct": 53.73
+  },
+  {
+    "email_domain": "outlook.es",
+    "email_node_fraud_rate": 0.122449,
+    "email_fraud_txn": 12,
+    "card_count": 39,
+    "fraud_card_count": 36,
+    "fraud_card_rate_pct": 92.31
+  },
+  {
+    "email_domain": "juno.com",
+    "email_node_fraud_rate": 0.045455,
+    "email_fraud_txn": 3,
+    "card_count": 46,
+    "fraud_card_count": 32,
+    "fraud_card_rate_pct": 69.57
+  },
+  {
+    "email_domain": "aim.com",
+    "email_node_fraud_rate": 0.181818,
+    "email_fraud_txn": 10,
+    "card_count": 38,
+    "fraud_card_count": 25,
+    "fraud_card_rate_pct": 65.79
+  },
+  {
+    "email_domain": "embarqmail.com",
+    "email_node_fraud_rate": 0.037037,
+    "email_fraud_txn": 2,
+    "card_count": 32,
+    "fraud_card_count": 25,
+    "fraud_card_rate_pct": 78.13
+  },
+  {
+    "email_domain": "frontier.com",
+    "email_node_fraud_rate": 0.018868,
+    "email_fraud_txn": 1,
+    "card_count": 42,
+    "fraud_card_count": 22,
+    "fraud_card_rate_pct": 52.38
+  },
+  {
+    "email_domain": "prodigy.net.mx",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 22,
+    "fraud_card_count": 22,
+    "fraud_card_rate_pct": 100.0
+  },
+  {
+    "email_domain": "netzero.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 30,
+    "fraud_card_count": 21,
+    "fraud_card_rate_pct": 70.0
+  },
+  {
+    "email_domain": "twc.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 33,
+    "fraud_card_count": 20,
+    "fraud_card_rate_pct": 60.61
+  },
+  {
+    "email_domain": "roadrunner.com",
+    "email_node_fraud_rate": 0.015873,
+    "email_fraud_txn": 1,
+    "card_count": 39,
+    "fraud_card_count": 19,
+    "fraud_card_rate_pct": 48.72
+  },
+  {
+    "email_domain": "cfl.rr.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 25,
+    "fraud_card_count": 18,
+    "fraud_card_rate_pct": 72.0
+  },
+  {
+    "email_domain": "centurylink.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 30,
+    "fraud_card_count": 17,
+    "fraud_card_rate_pct": 56.67
+  },
+  {
+    "email_domain": "windstream.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 34,
+    "fraud_card_count": 16,
+    "fraud_card_rate_pct": 47.06
+  },
+  {
+    "email_domain": "netzero.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 28,
+    "fraud_card_count": 16,
+    "fraud_card_rate_pct": 57.14
+  },
+  {
+    "email_domain": "suddenlink.net",
+    "email_node_fraud_rate": 0.025641,
+    "email_fraud_txn": 1,
+    "card_count": 27,
+    "fraud_card_count": 14,
+    "fraud_card_rate_pct": 51.85
+  },
+  {
+    "email_domain": "frontiernet.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 26,
+    "fraud_card_count": 11,
+    "fraud_card_rate_pct": 42.31
+  },
+  {
+    "email_domain": "cableone.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 18,
+    "fraud_card_count": 11,
+    "fraud_card_rate_pct": 61.11
+  },
+  {
+    "email_domain": "q.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 25,
+    "fraud_card_count": 10,
+    "fraud_card_rate_pct": 40.0
+  },
+  {
+    "email_domain": "protonmail.com",
+    "email_node_fraud_rate": 0.4,
+    "email_fraud_txn": 8,
+    "card_count": 15,
+    "fraud_card_count": 10,
+    "fraud_card_rate_pct": 66.67
+  },
+  {
+    "email_domain": "ptd.net",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 13,
+    "fraud_card_count": 10,
+    "fraud_card_rate_pct": 76.92
+  },
+  {
+    "email_domain": "yahoo.es",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 16,
+    "fraud_card_count": 9,
+    "fraud_card_rate_pct": 56.25
+  },
+  {
+    "email_domain": "web.de",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 30,
+    "fraud_card_count": 4,
+    "fraud_card_rate_pct": 13.33
+  },
+  {
+    "email_domain": "yahoo.fr",
+    "email_node_fraud_rate": 0.0625,
+    "email_fraud_txn": 2,
+    "card_count": 23,
+    "fraud_card_count": 4,
+    "fraud_card_rate_pct": 17.39
+  },
+  {
+    "email_domain": "hotmail.co.uk",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 19,
+    "fraud_card_count": 4,
+    "fraud_card_rate_pct": 21.05
+  },
+  {
+    "email_domain": "hotmail.fr",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 39,
+    "fraud_card_count": 3,
+    "fraud_card_rate_pct": 7.69
+  },
+  {
+    "email_domain": "sc.rr.com",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 7,
+    "fraud_card_count": 3,
+    "fraud_card_rate_pct": 42.86
+  },
+  {
+    "email_domain": "yahoo.co.uk",
+    "email_node_fraud_rate": 0.0,
+    "email_fraud_txn": 0,
+    "card_count": 6,
+    "fraud_card_count": 3,
+    "fraud_card_rate_pct": 50.0
+  }
+]

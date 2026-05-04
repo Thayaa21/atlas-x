@@ -1,0 +1,41 @@
+{
+  "holdout_size": 118108,
+  "fraud_rate_in_holdout": 0.0349933958749619,
+  "threshold_constraints": {
+    "precision_min": 0.7,
+    "recall_min": 0.75,
+    "constraints_met": false
+  },
+  "segment_thresholds_used": {
+    "VIP": 0.72,
+    "Regular": 0.88,
+    "New": 0.8200000000000001
+  },
+  "metrics_at_segment_thresholds": {
+    "roc_auc": 0.9527782213118143,
+    "precision": 0.8432337434094903,
+    "recall": 0.5804500362932494,
+    "f1": 0.6875895672112353,
+    "false_decline_rate": 0.00391313884623821,
+    "confusion_matrix": {
+      "tn": 113529,
+      "fp": 446,
+      "fn": 1734,
+      "tp": 2399
+    }
+  },
+  "optimal_threshold": 0.7717443108558655,
+  "metrics_at_optimal_threshold": {
+    "roc_auc": 0.9527782213118143,
+    "precision": 0.6999493157627977,
+    "recall": 0.6682796999758045,
+    "f1": 0.683747988612452,
+    "false_decline_rate": 0.010388243035753454,
+    "confusion_matrix": {
+      "tn": 112791,
+      "fp": 1184,
+      "fn": 1371,
+      "tp": 2762
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Feature 6: PostgreSQL 16 with pgvector extension for HNSW similarity search
+FROM postgres:16
+
+# Install pgvector from apt (matches the postgres:16 image's ICU/glibc versions)
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+       postgresql-16-pgvector \
+    && rm -rf /var/lib/apt/lists/*

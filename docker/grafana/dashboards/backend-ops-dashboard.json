@@ -1,0 +1,221 @@
+{
+  "__inputs": [],
+  "__requires": [
+    { "type": "panel", "id": "timeseries", "name": "Time series" },
+    { "type": "panel", "id": "stat",       "name": "Stat" },
+    { "type": "panel", "id": "gauge",      "name": "Gauge" },
+    { "type": "panel", "id": "piechart",   "name": "Pie chart" },
+    { "type": "panel", "id": "histogram",  "name": "Histogram" },
+    { "type": "datasource", "id": "prometheus", "name": "Prometheus" }
+  ],
+  "annotations": { "list": [] },
+  "description": "ATLAS-X Backend Operations Dashboard – System Health, Performance, Business Metrics, Model Monitoring",
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 1,
+  "id": null,
+  "links": [],
+  "liveNow": true,
+  "panels": [
+
+    { "collapsed": false, "gridPos": { "h": 1, "w": 24, "x": 0, "y": 0 },
+      "id": 100, "title": "ROW 1 – SYSTEM HEALTH", "type": "row" },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "thresholds": { "mode": "absolute", "steps": [
+            { "color": "red",   "value": null },
+            { "color": "green", "value": 1 }
+          ]},
+          "mappings": [
+            { "options": { "0": { "text": "DOWN" }, "1": { "text": "UP" } }, "type": "value" }
+          ]
+        }
+      },
+      "gridPos": { "h": 4, "w": 4, "x": 0, "y": 1 },
+      "id": 1,
+      "options": { "reduceOptions": { "calcs": ["lastNotNull"] }, "orientation": "auto", "textMode": "auto", "colorMode": "background" },
+      "targets": [{ "expr": "up{job=\"api\"}", "legendFormat": "API", "refId": "A" }],
+      "title": "API Uptime",
+      "type": "stat"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "reqps", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 10, "x": 4, "y": 1 },
+      "id": 2,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "sum by (status) (rate(http_server_request_duration_seconds_count[5m]))", "legendFormat": "{{status}}", "refId": "A" }
+      ],
+      "title": "HTTP Response Codes (req/s)",
+      "type": "timeseries"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "percentunit", "color": { "mode": "thresholds" },
+        "thresholds": { "mode": "absolute", "steps": [
+          { "color": "green", "value": null },
+          { "color": "yellow", "value": 0.01 },
+          { "color": "red",    "value": 0.05 }
+        ]}
+      }},
+      "gridPos": { "h": 4, "w": 5, "x": 14, "y": 1 },
+      "id": 3,
+      "options": { "reduceOptions": { "calcs": ["lastNotNull"] }, "colorMode": "background" },
+      "targets": [
+        { "expr": "sum(rate(http_server_request_duration_seconds_count{status=~\"5..\"}[5m])) / sum(rate(http_server_request_duration_seconds_count[5m]))", "legendFormat": "Error Rate", "refId": "A" }
+      ],
+      "title": "5xx Error Rate",
+      "type": "stat"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "short", "color": { "mode": "thresholds" },
+        "thresholds": { "mode": "absolute", "steps": [
+          { "color": "green", "value": null },
+          { "color": "yellow", "value": 3 },
+          { "color": "red",    "value": 5 }
+        ]}
+      }},
+      "gridPos": { "h": 4, "w": 5, "x": 19, "y": 1 },
+      "id": 4,
+      "options": { "reduceOptions": { "calcs": ["lastNotNull"] }, "colorMode": "background" },
+      "targets": [
+        { "expr": "count(up == 1)", "legendFormat": "Containers Up", "refId": "A" }
+      ],
+      "title": "Containers Up",
+      "type": "stat"
+    },
+
+    { "collapsed": false, "gridPos": { "h": 1, "w": 24, "x": 0, "y": 9 },
+      "id": 101, "title": "ROW 2 – PERFORMANCE METRICS", "type": "row" },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "s", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 10 },
+      "id": 5,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "histogram_quantile(0.50, sum(rate(http_server_request_duration_seconds_bucket{route=~\"/api.*\"}[5m])) by (le))", "legendFormat": "p50", "refId": "A" },
+        { "expr": "histogram_quantile(0.95, sum(rate(http_server_request_duration_seconds_bucket{route=~\"/api.*\"}[5m])) by (le))", "legendFormat": "p95", "refId": "B" },
+        { "expr": "histogram_quantile(0.99, sum(rate(http_server_request_duration_seconds_bucket{route=~\"/api.*\"}[5m])) by (le))", "legendFormat": "p99", "refId": "C" }
+      ],
+      "title": "API Latency p50 / p95 / p99",
+      "type": "timeseries"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "short", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 10 },
+      "id": 6,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "kafka_consumer_lag_sum", "legendFormat": "Consumer Lag", "refId": "A" },
+        { "expr": "pg_stat_activity_count", "legendFormat": "PG Connections", "refId": "B" }
+      ],
+      "title": "Kafka Consumer Lag + PostgreSQL Connections",
+      "type": "timeseries"
+    },
+
+    { "collapsed": false, "gridPos": { "h": 1, "w": 24, "x": 0, "y": 18 },
+      "id": 102, "title": "ROW 3 – BUSINESS METRICS", "type": "row" },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "percentunit", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 19 },
+      "id": 7,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "rate(http_server_request_duration_seconds_count{route=\"/api/v1/predict\",status=\"200\"}[5m])", "legendFormat": "Predictions/s", "refId": "A" }
+      ],
+      "title": "Transactions Per Second",
+      "type": "timeseries"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 6, "x": 12, "y": 19 },
+      "id": 8,
+      "options": { "legend": { "showLegend": true, "placement": "right" }, "pieType": "pie" },
+      "targets": [
+        { "expr": "sum by (decision) (atlasx_decisions_total)", "legendFormat": "{{decision}}", "refId": "A" }
+      ],
+      "title": "Decision Distribution (APPROVE / FLAG / BLOCK)",
+      "type": "piechart"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "percentunit", "color": { "mode": "thresholds" },
+        "thresholds": { "mode": "absolute", "steps": [
+          { "color": "green",  "value": null },
+          { "color": "yellow", "value": 0.05 },
+          { "color": "red",    "value": 0.15 }
+        ]}
+      }},
+      "gridPos": { "h": 8, "w": 6, "x": 18, "y": 19 },
+      "id": 9,
+      "options": { "reduceOptions": { "calcs": ["lastNotNull"] }, "colorMode": "background", "orientation": "auto" },
+      "targets": [
+        { "expr": "rate(http_server_request_duration_seconds_count{route=\"/api/v1/predict\",status=\"200\"}[1h]) / rate(http_server_request_duration_seconds_count{route=\"/api/v1/predict\",status=\"200\"}[1h] offset 1h) - 1", "legendFormat": "Hourly Trend", "refId": "A" }
+      ],
+      "title": "Hourly Fraud Trend (vs prev hour)",
+      "type": "stat"
+    },
+
+    { "collapsed": false, "gridPos": { "h": 1, "w": 24, "x": 0, "y": 27 },
+      "id": 103, "title": "ROW 4 – MODEL MONITORING", "type": "row" },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "s", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 28 },
+      "id": 10,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "histogram_quantile(0.50, sum(rate(http_server_request_duration_seconds_bucket{route=\"/api/v1/predict\"}[5m])) by (le))", "legendFormat": "Predict p50", "refId": "A" },
+        { "expr": "histogram_quantile(0.50, sum(rate(http_server_request_duration_seconds_bucket{route=\"/api/v1/explain\"}[5m])) by (le))", "legendFormat": "Explain/SHAP p50", "refId": "B" }
+      ],
+      "title": "Model Inference Latency (Predict vs SHAP)",
+      "type": "timeseries"
+    },
+
+    {
+      "datasource": "Prometheus",
+      "fieldConfig": { "defaults": { "unit": "reqps", "color": { "mode": "palette-classic" } } },
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 28 },
+      "id": 11,
+      "options": { "legend": { "showLegend": true } },
+      "targets": [
+        { "expr": "rate(http_server_request_duration_seconds_count{route=\"/api/v1/explain\"}[5m])", "legendFormat": "SHAP Explain req/s", "refId": "A" },
+        { "expr": "rate(http_server_request_duration_seconds_count{route=\"/api/v1/graph/rings\"}[5m])", "legendFormat": "Graph Ring req/s", "refId": "B" },
+        { "expr": "rate(http_server_request_duration_seconds_count{route=\"/api/v1/similar/{transaction_id}\"}[5m])", "legendFormat": "pgvector Similarity req/s", "refId": "C" }
+      ],
+      "title": "Feature Usage (SHAP / Graph / pgvector)",
+      "type": "timeseries"
+    }
+
+  ],
+  "refresh": "5s",
+  "schemaVersion": 39,
+  "style": "dark",
+  "tags": ["atlasx", "fraud", "ops"],
+  "templating": { "list": [] },
+  "time": { "from": "now-1h", "to": "now" },
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "ATLAS-X Backend Ops Dashboard",
+  "uid": "atlasx-backend-ops",
+  "version": 1
+}

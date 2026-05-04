@@ -1,0 +1,46 @@
+{
+  "holdout_size": 118108,
+  "total_fraud": 4133,
+  "segment_thresholds": {
+    "VIP": 0.72,
+    "Regular": 0.88,
+    "New": 0.8200000000000001
+  },
+  "v3_baseline": {
+    "roc_auc": 0.9528,
+    "precision": 0.8432,
+    "recall": 0.5805,
+    "f1": 0.6876,
+    "tn": 113529,
+    "fp": 446,
+    "fn": 1734,
+    "tp": 2399
+  },
+  "v4_graph": {
+    "roc_auc": 0.9573,
+    "precision": 0.8475,
+    "recall": 0.5918,
+    "f1": 0.697,
+    "tn": 113535,
+    "fp": 440,
+    "fn": 1687,
+    "tp": 2446
+  },
+  "delta": {
+    "recall": 0.0113,
+    "precision": 0.0043,
+    "f1": 0.0094,
+    "roc_auc": 0.0045,
+    "delta_tp": 47,
+    "delta_fp": -6,
+    "delta_fn": -47
+  },
+  "graph_feature_importances": {
+    "device_fraud_rate": 0.002554,
+    "device_card_velocity": 0.004349,
+    "connected_fraud_cards": 0.006814,
+    "email_fraud_rate": 0.00149,
+    "address_fraud_rate": 0.001631,
+    "graph_risk_score": 0.002658
+  }
+}

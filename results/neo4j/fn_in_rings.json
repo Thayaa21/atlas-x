@@ -1,0 +1,4034 @@
+[
+  {
+    "card": "6019-583.0-150.0",
+    "device_connected_frauds": 655,
+    "email_connected_frauds": 853,
+    "address_connected_frauds": 687,
+    "total_connections": 2195
+  },
+  {
+    "card": "15066-170.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 853,
+    "address_connected_frauds": 681,
+    "total_connections": 2184
+  },
+  {
+    "card": "10616-583.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 680,
+    "total_connections": 2182
+  },
+  {
+    "card": "16075-514.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 677,
+    "total_connections": 2179
+  },
+  {
+    "card": "2616-327.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 676,
+    "total_connections": 2177
+  },
+  {
+    "card": "16659-170.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 676,
+    "total_connections": 2176
+  },
+  {
+    "card": "7585-553.0-150.0",
+    "device_connected_frauds": 651,
+    "email_connected_frauds": 854,
+    "address_connected_frauds": 670,
+    "total_connections": 2175
+  },
+  {
+    "card": "10486-514.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 853,
+    "address_connected_frauds": 672,
+    "total_connections": 2175
+  },
+  {
+    "card": "7861-494.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 674,
+    "total_connections": 2173
+  },
+  {
+    "card": "15063-514.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 671,
+    "total_connections": 2173
+  },
+  {
+    "card": "9803-583.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 671,
+    "total_connections": 2171
+  },
+  {
+    "card": "9500-321.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 670,
+    "total_connections": 2171
+  },
+  {
+    "card": "1893-514.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 673,
+    "total_connections": 2170
+  },
+  {
+    "card": "2803-100.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 666,
+    "total_connections": 2165
+  },
+  {
+    "card": "8695-170.0-150.0",
+    "device_connected_frauds": 652,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 659,
+    "total_connections": 2162
+  },
+  {
+    "card": "3821-111.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 661,
+    "total_connections": 2161
+  },
+  {
+    "card": "7919-194.0-150.0",
+    "device_connected_frauds": 629,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 681,
+    "total_connections": 2161
+  },
+  {
+    "card": "5938-111.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 661,
+    "total_connections": 2161
+  },
+  {
+    "card": "17188-321.0-150.0",
+    "device_connected_frauds": 651,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 657,
+    "total_connections": 2159
+  },
+  {
+    "card": "9002-453.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 666,
+    "total_connections": 2159
+  },
+  {
+    "card": "3682-264.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 662,
+    "total_connections": 2158
+  },
+  {
+    "card": "6741-583.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 664,
+    "total_connections": 2157
+  },
+  {
+    "card": "2455-321.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 659,
+    "total_connections": 2157
+  },
+  {
+    "card": "18268-583.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 661,
+    "total_connections": 2156
+  },
+  {
+    "card": "8135-247.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 662,
+    "total_connections": 2154
+  },
+  {
+    "card": "6054-327.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 658,
+    "total_connections": 2153
+  },
+  {
+    "card": "12581-453.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 656,
+    "total_connections": 2152
+  },
+  {
+    "card": "14479-387.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 657,
+    "total_connections": 2152
+  },
+  {
+    "card": "16255-470.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 669,
+    "total_connections": 2146
+  },
+  {
+    "card": "18227-583.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 653,
+    "total_connections": 2145
+  },
+  {
+    "card": "8406-264.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 658,
+    "total_connections": 2143
+  },
+  {
+    "card": "13844-583.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 652,
+    "total_connections": 2142
+  },
+  {
+    "card": "6344-327.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 649,
+    "total_connections": 2141
+  },
+  {
+    "card": "11919-170.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 648,
+    "total_connections": 2141
+  },
+  {
+    "card": "12577-268.0-150.0",
+    "device_connected_frauds": 616,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 675,
+    "total_connections": 2140
+  },
+  {
+    "card": "7800-268.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 645,
+    "total_connections": 2140
+  },
+  {
+    "card": "10112-360.0-150.0",
+    "device_connected_frauds": 616,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 674,
+    "total_connections": 2139
+  },
+  {
+    "card": "1724-583.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 641,
+    "total_connections": 2138
+  },
+  {
+    "card": "9749-181.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 646,
+    "total_connections": 2138
+  },
+  {
+    "card": "14182-562.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 640,
+    "total_connections": 2137
+  },
+  {
+    "card": "11106-100.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 641,
+    "total_connections": 2136
+  },
+  {
+    "card": "8320-476.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 670,
+    "total_connections": 2134
+  },
+  {
+    "card": "4141-404.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 635,
+    "total_connections": 2133
+  },
+  {
+    "card": "16560-476.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 670,
+    "total_connections": 2133
+  },
+  {
+    "card": "2039-562.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 635,
+    "total_connections": 2131
+  },
+  {
+    "card": "6053-122.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 653,
+    "total_connections": 2131
+  },
+  {
+    "card": "4151-404.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 640,
+    "total_connections": 2131
+  },
+  {
+    "card": "12501-490.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 630,
+    "total_connections": 2129
+  },
+  {
+    "card": "2392-360.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 664,
+    "total_connections": 2126
+  },
+  {
+    "card": "2755-404.0-150.0",
+    "device_connected_frauds": 628,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 650,
+    "total_connections": 2124
+  },
+  {
+    "card": "5901-583.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 630,
+    "total_connections": 2123
+  },
+  {
+    "card": "3278-453.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 631,
+    "total_connections": 2122
+  },
+  {
+    "card": "2884-490.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 853,
+    "address_connected_frauds": 616,
+    "total_connections": 2118
+  },
+  {
+    "card": "12544-321.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 618,
+    "total_connections": 2116
+  },
+  {
+    "card": "14128-170.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 623,
+    "total_connections": 2114
+  },
+  {
+    "card": "12695-490.0-150.0",
+    "device_connected_frauds": 651,
+    "email_connected_frauds": 853,
+    "address_connected_frauds": 609,
+    "total_connections": 2113
+  },
+  {
+    "card": "11862-562.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 623,
+    "total_connections": 2113
+  },
+  {
+    "card": "1444-490.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 627,
+    "total_connections": 2111
+  },
+  {
+    "card": "3334-583.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 621,
+    "total_connections": 2110
+  },
+  {
+    "card": "18132-567.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 610,
+    "total_connections": 2110
+  },
+  {
+    "card": "12839-321.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 613,
+    "total_connections": 2108
+  },
+  {
+    "card": "11839-490.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 604,
+    "total_connections": 2104
+  },
+  {
+    "card": "16326-321.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 608,
+    "total_connections": 2102
+  },
+  {
+    "card": "17480-181.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 608,
+    "total_connections": 2100
+  },
+  {
+    "card": "11207-361.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 598,
+    "total_connections": 2098
+  },
+  {
+    "card": "16132-111.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 598,
+    "total_connections": 2097
+  },
+  {
+    "card": "15333-562.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 604,
+    "total_connections": 2097
+  },
+  {
+    "card": "7508-321.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 600,
+    "total_connections": 2096
+  },
+  {
+    "card": "7826-481.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 595,
+    "total_connections": 2095
+  },
+  {
+    "card": "11690-111.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 603,
+    "total_connections": 2092
+  },
+  {
+    "card": "8140-453.0-150.0",
+    "device_connected_frauds": 636,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 610,
+    "total_connections": 2092
+  },
+  {
+    "card": "10023-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 596,
+    "total_connections": 2089
+  },
+  {
+    "card": "7207-111.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 587,
+    "total_connections": 2083
+  },
+  {
+    "card": "14037-111.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 595,
+    "total_connections": 2082
+  },
+  {
+    "card": "12883-404.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 591,
+    "total_connections": 2081
+  },
+  {
+    "card": "13249-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 586,
+    "total_connections": 2079
+  },
+  {
+    "card": "12116-404.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 609,
+    "total_connections": 2079
+  },
+  {
+    "card": "6530-206.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 674,
+    "total_connections": 2074
+  },
+  {
+    "card": "1675-174.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 572,
+    "total_connections": 2068
+  },
+  {
+    "card": "1974-111.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 588,
+    "total_connections": 2068
+  },
+  {
+    "card": "9098-170.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 585,
+    "total_connections": 2067
+  },
+  {
+    "card": "9479-562.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 607,
+    "total_connections": 2066
+  },
+  {
+    "card": "5997-514.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 576,
+    "total_connections": 2065
+  },
+  {
+    "card": "7664-490.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 582,
+    "total_connections": 2064
+  },
+  {
+    "card": "4806-490.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 577,
+    "total_connections": 2063
+  },
+  {
+    "card": "17399-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 569,
+    "total_connections": 2063
+  },
+  {
+    "card": "2157-111.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 567,
+    "total_connections": 2061
+  },
+  {
+    "card": "12598-111.0-150.0",
+    "device_connected_frauds": 629,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 579,
+    "total_connections": 2056
+  },
+  {
+    "card": "15497-490.0-150.0",
+    "device_connected_frauds": 651,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 546,
+    "total_connections": 2049
+  },
+  {
+    "card": "1214-174.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 559,
+    "total_connections": 2048
+  },
+  {
+    "card": "2772-512.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 550,
+    "total_connections": 2047
+  },
+  {
+    "card": "10057-225.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 549,
+    "total_connections": 2046
+  },
+  {
+    "card": "4436-174.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 550,
+    "total_connections": 2045
+  },
+  {
+    "card": "16661-490.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 553,
+    "total_connections": 2044
+  },
+  {
+    "card": "17321-111.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 550,
+    "total_connections": 2042
+  },
+  {
+    "card": "6951-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 550,
+    "total_connections": 2041
+  },
+  {
+    "card": "5033-269.0-150.0",
+    "device_connected_frauds": 615,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 577,
+    "total_connections": 2041
+  },
+  {
+    "card": "1684-514.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 563,
+    "total_connections": 2040
+  },
+  {
+    "card": "6174-490.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 543,
+    "total_connections": 2036
+  },
+  {
+    "card": "9175-111.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 555,
+    "total_connections": 2036
+  },
+  {
+    "card": "14259-111.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 553,
+    "total_connections": 2033
+  },
+  {
+    "card": "1939-360.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 656,
+    "total_connections": 2031
+  },
+  {
+    "card": "4272-111.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 534,
+    "total_connections": 2030
+  },
+  {
+    "card": "15205-270.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 656,
+    "total_connections": 2030
+  },
+  {
+    "card": "6832-134.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 620,
+    "total_connections": 2028
+  },
+  {
+    "card": "15007-583.0-150.0",
+    "device_connected_frauds": 616,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 580,
+    "total_connections": 2024
+  },
+  {
+    "card": "1342-514.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 529,
+    "total_connections": 2023
+  },
+  {
+    "card": "7005-111.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 529,
+    "total_connections": 2022
+  },
+  {
+    "card": "9112-250.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 526,
+    "total_connections": 2022
+  },
+  {
+    "card": "3178-490.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 531,
+    "total_connections": 2022
+  },
+  {
+    "card": "8380-512.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 544,
+    "total_connections": 2019
+  },
+  {
+    "card": "8117-490.0-150.0",
+    "device_connected_frauds": 634,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 539,
+    "total_connections": 2019
+  },
+  {
+    "card": "8868-205.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 645,
+    "total_connections": 2017
+  },
+  {
+    "card": "15484-418.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 534,
+    "total_connections": 2015
+  },
+  {
+    "card": "12686-215.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 531,
+    "total_connections": 2014
+  },
+  {
+    "card": "16115-431.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 559,
+    "total_connections": 2010
+  },
+  {
+    "card": "15359-562.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 521,
+    "total_connections": 2010
+  },
+  {
+    "card": "7815-161.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 526,
+    "total_connections": 2008
+  },
+  {
+    "card": "12253-170.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 543,
+    "total_connections": 2008
+  },
+  {
+    "card": "11233-321.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 537,
+    "total_connections": 2007
+  },
+  {
+    "card": "7676-512.0-150.0",
+    "device_connected_frauds": 637,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 519,
+    "total_connections": 2006
+  },
+  {
+    "card": "14643-529.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 549,
+    "total_connections": 2005
+  },
+  {
+    "card": "9350-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 510,
+    "total_connections": 2003
+  },
+  {
+    "card": "14065-298.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 515,
+    "total_connections": 2003
+  },
+  {
+    "card": "18375-174.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 516,
+    "total_connections": 2003
+  },
+  {
+    "card": "14426-111.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 543,
+    "total_connections": 2003
+  },
+  {
+    "card": "10770-264.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 528,
+    "total_connections": 2002
+  },
+  {
+    "card": "3507-NA-150.0",
+    "device_connected_frauds": 634,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 523,
+    "total_connections": 2000
+  },
+  {
+    "card": "17131-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 507,
+    "total_connections": 1999
+  },
+  {
+    "card": "14290-512.0-150.0",
+    "device_connected_frauds": 634,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 514,
+    "total_connections": 1995
+  },
+  {
+    "card": "13526-529.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 520,
+    "total_connections": 1994
+  },
+  {
+    "card": "13220-562.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 506,
+    "total_connections": 1994
+  },
+  {
+    "card": "15651-417.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 501,
+    "total_connections": 1993
+  },
+  {
+    "card": "8394-490.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 509,
+    "total_connections": 1991
+  },
+  {
+    "card": "13481-445.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 499,
+    "total_connections": 1986
+  },
+  {
+    "card": "5167-361.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 490,
+    "total_connections": 1984
+  },
+  {
+    "card": "4090-490.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 489,
+    "total_connections": 1983
+  },
+  {
+    "card": "4208-490.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 493,
+    "total_connections": 1982
+  },
+  {
+    "card": "14318-321.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 504,
+    "total_connections": 1979
+  },
+  {
+    "card": "17396-321.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 488,
+    "total_connections": 1978
+  },
+  {
+    "card": "2744-490.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 484,
+    "total_connections": 1977
+  },
+  {
+    "card": "2263-174.0-150.0",
+    "device_connected_frauds": 628,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 502,
+    "total_connections": 1976
+  },
+  {
+    "card": "17400-174.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 477,
+    "total_connections": 1971
+  },
+  {
+    "card": "10960-567.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 475,
+    "total_connections": 1970
+  },
+  {
+    "card": "4121-361.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 474,
+    "total_connections": 1970
+  },
+  {
+    "card": "9400-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 478,
+    "total_connections": 1969
+  },
+  {
+    "card": "4039-399.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 497,
+    "total_connections": 1967
+  },
+  {
+    "card": "17286-100.0-150.0",
+    "device_connected_frauds": 570,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 567,
+    "total_connections": 1965
+  },
+  {
+    "card": "12932-361.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 500,
+    "total_connections": 1964
+  },
+  {
+    "card": "1546-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 478,
+    "total_connections": 1964
+  },
+  {
+    "card": "11218-579.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 469,
+    "total_connections": 1963
+  },
+  {
+    "card": "10925-543.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 598,
+    "total_connections": 1962
+  },
+  {
+    "card": "1804-161.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 466,
+    "total_connections": 1961
+  },
+  {
+    "card": "5254-414.0-143.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 499,
+    "total_connections": 1958
+  },
+  {
+    "card": "10447-490.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 466,
+    "total_connections": 1958
+  },
+  {
+    "card": "17055-393.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 462,
+    "total_connections": 1956
+  },
+  {
+    "card": "17933-512.0-150.0",
+    "device_connected_frauds": 630,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 479,
+    "total_connections": 1952
+  },
+  {
+    "card": "15063-NA-150.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 577,
+    "total_connections": 1951
+  },
+  {
+    "card": "4030-174.0-150.0",
+    "device_connected_frauds": 629,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 469,
+    "total_connections": 1946
+  },
+  {
+    "card": "13780-298.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 454,
+    "total_connections": 1943
+  },
+  {
+    "card": "11157-215.0-150.0",
+    "device_connected_frauds": 628,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 466,
+    "total_connections": 1941
+  },
+  {
+    "card": "16485-174.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 453,
+    "total_connections": 1941
+  },
+  {
+    "card": "8717-489.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 489,
+    "total_connections": 1940
+  },
+  {
+    "card": "12260-236.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 461,
+    "total_connections": 1940
+  },
+  {
+    "card": "15851-225.0-150.0",
+    "device_connected_frauds": 636,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 458,
+    "total_connections": 1940
+  },
+  {
+    "card": "1906-445.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 833,
+    "address_connected_frauds": 493,
+    "total_connections": 1940
+  },
+  {
+    "card": "3602-119.0-150.0",
+    "device_connected_frauds": 587,
+    "email_connected_frauds": 838,
+    "address_connected_frauds": 507,
+    "total_connections": 1932
+  },
+  {
+    "card": "6457-321.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 457,
+    "total_connections": 1930
+  },
+  {
+    "card": "18366-111.0-150.0",
+    "device_connected_frauds": 616,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 467,
+    "total_connections": 1929
+  },
+  {
+    "card": "6170-174.0-150.0",
+    "device_connected_frauds": 650,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 432,
+    "total_connections": 1929
+  },
+  {
+    "card": "3277-111.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 450,
+    "total_connections": 1928
+  },
+  {
+    "card": "13052-254.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 471,
+    "total_connections": 1927
+  },
+  {
+    "card": "14649-548.0-150.0",
+    "device_connected_frauds": 638,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 443,
+    "total_connections": 1926
+  },
+  {
+    "card": "2581-445.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 835,
+    "address_connected_frauds": 476,
+    "total_connections": 1925
+  },
+  {
+    "card": "14631-476.0-150.0",
+    "device_connected_frauds": 531,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 546,
+    "total_connections": 1918
+  },
+  {
+    "card": "17217-111.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 440,
+    "total_connections": 1917
+  },
+  {
+    "card": "2695-215.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 438,
+    "total_connections": 1915
+  },
+  {
+    "card": "8528-215.0-150.0",
+    "device_connected_frauds": 648,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 419,
+    "total_connections": 1915
+  },
+  {
+    "card": "1078-512.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 454,
+    "total_connections": 1914
+  },
+  {
+    "card": "15757-322.0-150.0",
+    "device_connected_frauds": 636,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 426,
+    "total_connections": 1906
+  },
+  {
+    "card": "2377-203.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 652,
+    "total_connections": 1905
+  },
+  {
+    "card": "12668-170.0-150.0",
+    "device_connected_frauds": 569,
+    "email_connected_frauds": 827,
+    "address_connected_frauds": 509,
+    "total_connections": 1905
+  },
+  {
+    "card": "8613-272.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 423,
+    "total_connections": 1900
+  },
+  {
+    "card": "11925-553.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 419,
+    "total_connections": 1900
+  },
+  {
+    "card": "15385-111.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 422,
+    "total_connections": 1899
+  },
+  {
+    "card": "4778-111.0-150.0",
+    "device_connected_frauds": 645,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 468,
+    "total_connections": 1899
+  },
+  {
+    "card": "5222-111.0-150.0",
+    "device_connected_frauds": 587,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 468,
+    "total_connections": 1897
+  },
+  {
+    "card": "9323-111.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 429,
+    "total_connections": 1897
+  },
+  {
+    "card": "9364-225.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 438,
+    "total_connections": 1896
+  },
+  {
+    "card": "16876-490.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 414,
+    "total_connections": 1892
+  },
+  {
+    "card": "2939-111.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 824,
+    "address_connected_frauds": 499,
+    "total_connections": 1888
+  },
+  {
+    "card": "5964-268.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 557,
+    "total_connections": 1887
+  },
+  {
+    "card": "12615-489.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 405,
+    "total_connections": 1883
+  },
+  {
+    "card": "8898-583.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 481,
+    "total_connections": 1881
+  },
+  {
+    "card": "16849-562.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 794,
+    "address_connected_frauds": 448,
+    "total_connections": 1875
+  },
+  {
+    "card": "10989-360.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 663,
+    "total_connections": 1874
+  },
+  {
+    "card": "13108-215.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 412,
+    "total_connections": 1874
+  },
+  {
+    "card": "6292-298.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 393,
+    "total_connections": 1868
+  },
+  {
+    "card": "18249-360.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 658,
+    "total_connections": 1868
+  },
+  {
+    "card": "15986-360.0-150.0",
+    "device_connected_frauds": 363,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 658,
+    "total_connections": 1867
+  },
+  {
+    "card": "17868-148.0-150.0",
+    "device_connected_frauds": 636,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 386,
+    "total_connections": 1864
+  },
+  {
+    "card": "11849-271.0-150.0",
+    "device_connected_frauds": 634,
+    "email_connected_frauds": 830,
+    "address_connected_frauds": 393,
+    "total_connections": 1857
+  },
+  {
+    "card": "8900-385.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 400,
+    "total_connections": 1857
+  },
+  {
+    "card": "15773-226.0-150.0",
+    "device_connected_frauds": 568,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 447,
+    "total_connections": 1856
+  },
+  {
+    "card": "3274-514.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 820,
+    "address_connected_frauds": 469,
+    "total_connections": 1854
+  },
+  {
+    "card": "16972-174.0-150.0",
+    "device_connected_frauds": 646,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 360,
+    "total_connections": 1853
+  },
+  {
+    "card": "10047-111.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 799,
+    "address_connected_frauds": 435,
+    "total_connections": 1848
+  },
+  {
+    "card": "14902-588.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 831,
+    "address_connected_frauds": 403,
+    "total_connections": 1848
+  },
+  {
+    "card": "18190-170.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 472,
+    "total_connections": 1842
+  },
+  {
+    "card": "18018-452.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 379,
+    "total_connections": 1840
+  },
+  {
+    "card": "5355-360.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 471,
+    "total_connections": 1838
+  },
+  {
+    "card": "11899-564.0-150.0",
+    "device_connected_frauds": 616,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 378,
+    "total_connections": 1837
+  },
+  {
+    "card": "6782-399.0-150.0",
+    "device_connected_frauds": 569,
+    "email_connected_frauds": 794,
+    "address_connected_frauds": 470,
+    "total_connections": 1833
+  },
+  {
+    "card": "13234-298.0-150.0",
+    "device_connected_frauds": 532,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 455,
+    "total_connections": 1831
+  },
+  {
+    "card": "12538-543.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 618,
+    "total_connections": 1826
+  },
+  {
+    "card": "6542-174.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 832,
+    "address_connected_frauds": 380,
+    "total_connections": 1826
+  },
+  {
+    "card": "10682-514.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 381,
+    "total_connections": 1823
+  },
+  {
+    "card": "5170-184.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 413,
+    "total_connections": 1823
+  },
+  {
+    "card": "16435-298.0-150.0",
+    "device_connected_frauds": 649,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 327,
+    "total_connections": 1822
+  },
+  {
+    "card": "17999-482.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 475,
+    "total_connections": 1817
+  },
+  {
+    "card": "15775-481.0-150.0",
+    "device_connected_frauds": 532,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 483,
+    "total_connections": 1817
+  },
+  {
+    "card": "18117-170.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 824,
+    "address_connected_frauds": 462,
+    "total_connections": 1814
+  },
+  {
+    "card": "16630-242.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 806,
+    "address_connected_frauds": 645,
+    "total_connections": 1813
+  },
+  {
+    "card": "11755-174.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 797,
+    "address_connected_frauds": 385,
+    "total_connections": 1809
+  },
+  {
+    "card": "5909-399.0-150.0",
+    "device_connected_frauds": 629,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 390,
+    "total_connections": 1805
+  },
+  {
+    "card": "2903-562.0-150.0",
+    "device_connected_frauds": 647,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 314,
+    "total_connections": 1804
+  },
+  {
+    "card": "4153-549.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 329,
+    "total_connections": 1802
+  },
+  {
+    "card": "12037-595.0-150.0",
+    "device_connected_frauds": 615,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 338,
+    "total_connections": 1801
+  },
+  {
+    "card": "3801-548.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 325,
+    "total_connections": 1801
+  },
+  {
+    "card": "6697-111.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 318,
+    "total_connections": 1800
+  },
+  {
+    "card": "14544-399.0-150.0",
+    "device_connected_frauds": 635,
+    "email_connected_frauds": 769,
+    "address_connected_frauds": 393,
+    "total_connections": 1797
+  },
+  {
+    "card": "16998-562.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 343,
+    "total_connections": 1792
+  },
+  {
+    "card": "9026-545.0-185.0",
+    "device_connected_frauds": 595,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 347,
+    "total_connections": 1789
+  },
+  {
+    "card": "14415-481.0-150.0",
+    "device_connected_frauds": 372,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 594,
+    "total_connections": 1784
+  },
+  {
+    "card": "7638-174.0-150.0",
+    "device_connected_frauds": 363,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 573,
+    "total_connections": 1778
+  },
+  {
+    "card": "4702-111.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 834,
+    "address_connected_frauds": 413,
+    "total_connections": 1775
+  },
+  {
+    "card": "17714-514.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 361,
+    "total_connections": 1774
+  },
+  {
+    "card": "6739-264.0-150.0",
+    "device_connected_frauds": 485,
+    "email_connected_frauds": 803,
+    "address_connected_frauds": 483,
+    "total_connections": 1771
+  },
+  {
+    "card": "7900-345.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 311,
+    "total_connections": 1767
+  },
+  {
+    "card": "8139-327.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 819,
+    "address_connected_frauds": 539,
+    "total_connections": 1767
+  },
+  {
+    "card": "16188-178.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 827,
+    "address_connected_frauds": 402,
+    "total_connections": 1757
+  },
+  {
+    "card": "16314-400.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 282,
+    "total_connections": 1751
+  },
+  {
+    "card": "10594-221.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 827,
+    "address_connected_frauds": 355,
+    "total_connections": 1747
+  },
+  {
+    "card": "11972-134.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 416,
+    "total_connections": 1746
+  },
+  {
+    "card": "4921-475.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 286,
+    "total_connections": 1744
+  },
+  {
+    "card": "8347-393.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 377,
+    "total_connections": 1744
+  },
+  {
+    "card": "11555-216.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 427,
+    "total_connections": 1743
+  },
+  {
+    "card": "14229-361.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 829,
+    "address_connected_frauds": 386,
+    "total_connections": 1743
+  },
+  {
+    "card": "3368-572.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 366,
+    "total_connections": 1736
+  },
+  {
+    "card": "17394-351.0-106.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 303,
+    "total_connections": 1731
+  },
+  {
+    "card": "11027-154.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 830,
+    "address_connected_frauds": 332,
+    "total_connections": 1727
+  },
+  {
+    "card": "7648-357.0-150.0",
+    "device_connected_frauds": 627,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 280,
+    "total_connections": 1723
+  },
+  {
+    "card": "12382-566.0-150.0",
+    "device_connected_frauds": 532,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 342,
+    "total_connections": 1718
+  },
+  {
+    "card": "13256-583.0-150.0",
+    "device_connected_frauds": 441,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 466,
+    "total_connections": 1717
+  },
+  {
+    "card": "13734-491.0-150.0",
+    "device_connected_frauds": 629,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 268,
+    "total_connections": 1711
+  },
+  {
+    "card": "9708-562.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 511,
+    "total_connections": 1710
+  },
+  {
+    "card": "7757-514.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 782,
+    "address_connected_frauds": 396,
+    "total_connections": 1706
+  },
+  {
+    "card": "3052-181.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 284,
+    "total_connections": 1703
+  },
+  {
+    "card": "6369-308.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 332,
+    "total_connections": 1701
+  },
+  {
+    "card": "4347-111.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 352,
+    "total_connections": 1698
+  },
+  {
+    "card": "11987-216.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 377,
+    "total_connections": 1697
+  },
+  {
+    "card": "11162-346.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 443,
+    "total_connections": 1696
+  },
+  {
+    "card": "2947-380.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 824,
+    "address_connected_frauds": 344,
+    "total_connections": 1696
+  },
+  {
+    "card": "13285-181.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 360,
+    "total_connections": 1696
+  },
+  {
+    "card": "5287-553.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 838,
+    "address_connected_frauds": 323,
+    "total_connections": 1689
+  },
+  {
+    "card": "15142-512.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 823,
+    "address_connected_frauds": 311,
+    "total_connections": 1684
+  },
+  {
+    "card": "1960-399.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 776,
+    "address_connected_frauds": 334,
+    "total_connections": 1675
+  },
+  {
+    "card": "10972-111.0-150.0",
+    "device_connected_frauds": 633,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 221,
+    "total_connections": 1672
+  },
+  {
+    "card": "6068-360.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 507,
+    "total_connections": 1671
+  },
+  {
+    "card": "1516-111.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 776,
+    "address_connected_frauds": 366,
+    "total_connections": 1670
+  },
+  {
+    "card": "15691-111.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 333,
+    "total_connections": 1664
+  },
+  {
+    "card": "8830-250.0-150.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 284,
+    "total_connections": 1648
+  },
+  {
+    "card": "18370-547.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 289,
+    "total_connections": 1645
+  },
+  {
+    "card": "14628-600.0-150.0",
+    "device_connected_frauds": 614,
+    "email_connected_frauds": 829,
+    "address_connected_frauds": 200,
+    "total_connections": 1643
+  },
+  {
+    "card": "6630-267.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 827,
+    "address_connected_frauds": 403,
+    "total_connections": 1639
+  },
+  {
+    "card": "10145-490.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 323,
+    "total_connections": 1637
+  },
+  {
+    "card": "14509-532.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 820,
+    "address_connected_frauds": 447,
+    "total_connections": 1629
+  },
+  {
+    "card": "16858-214.0-150.0",
+    "device_connected_frauds": 419,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 368,
+    "total_connections": 1626
+  },
+  {
+    "card": "7438-225.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 804,
+    "address_connected_frauds": 447,
+    "total_connections": 1613
+  },
+  {
+    "card": "6877-550.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 402,
+    "total_connections": 1609
+  },
+  {
+    "card": "9885-481.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 353,
+    "total_connections": 1603
+  },
+  {
+    "card": "10239-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 251,
+    "total_connections": 1593
+  },
+  {
+    "card": "7170-514.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 669,
+    "address_connected_frauds": 384,
+    "total_connections": 1581
+  },
+  {
+    "card": "8187-NA-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 815,
+    "address_connected_frauds": 513,
+    "total_connections": 1579
+  },
+  {
+    "card": "3094-276.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 369,
+    "total_connections": 1577
+  },
+  {
+    "card": "7197-111.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 230,
+    "total_connections": 1576
+  },
+  {
+    "card": "2738-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 276,
+    "total_connections": 1570
+  },
+  {
+    "card": "16399-216.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 276,
+    "total_connections": 1570
+  },
+  {
+    "card": "1556-314.0-150.0",
+    "device_connected_frauds": 387,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 334,
+    "total_connections": 1569
+  },
+  {
+    "card": "12163-299.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 349,
+    "total_connections": 1553
+  },
+  {
+    "card": "8058-174.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 219,
+    "total_connections": 1549
+  },
+  {
+    "card": "2101-481.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 497,
+    "total_connections": 1546
+  },
+  {
+    "card": "1914-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 219,
+    "total_connections": 1545
+  },
+  {
+    "card": "15446-460.0-150.0",
+    "device_connected_frauds": 443,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 262,
+    "total_connections": 1544
+  },
+  {
+    "card": "10922-444.0-150.0",
+    "device_connected_frauds": 584,
+    "email_connected_frauds": 793,
+    "address_connected_frauds": 164,
+    "total_connections": 1541
+  },
+  {
+    "card": "1047-560.0-150.0",
+    "device_connected_frauds": 365,
+    "email_connected_frauds": 800,
+    "address_connected_frauds": 373,
+    "total_connections": 1538
+  },
+  {
+    "card": "13623-585.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 332,
+    "total_connections": 1536
+  },
+  {
+    "card": "11848-399.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 230,
+    "total_connections": 1524
+  },
+  {
+    "card": "15574-111.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 228,
+    "total_connections": 1522
+  },
+  {
+    "card": "2616-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 668,
+    "total_connections": 1519
+  },
+  {
+    "card": "8225-543.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 343,
+    "total_connections": 1519
+  },
+  {
+    "card": "3710-555.0-150.0",
+    "device_connected_frauds": 531,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 200,
+    "total_connections": 1517
+  },
+  {
+    "card": "5376-111.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 438,
+    "total_connections": 1516
+  },
+  {
+    "card": "9992-455.0-150.0",
+    "device_connected_frauds": 1,
+    "email_connected_frauds": 849,
+    "address_connected_frauds": 662,
+    "total_connections": 1512
+  },
+  {
+    "card": "12469-360.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 658,
+    "total_connections": 1509
+  },
+  {
+    "card": "15885-545.0-185.0",
+    "device_connected_frauds": 583,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 72,
+    "total_connections": 1505
+  },
+  {
+    "card": "17998-215.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 280,
+    "total_connections": 1503
+  },
+  {
+    "card": "3154-408.0-185.0",
+    "device_connected_frauds": 578,
+    "email_connected_frauds": 851,
+    "address_connected_frauds": 73,
+    "total_connections": 1502
+  },
+  {
+    "card": "3553-180.0-150.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 130,
+    "total_connections": 1497
+  },
+  {
+    "card": "11298-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 827,
+    "address_connected_frauds": 141,
+    "total_connections": 1496
+  },
+  {
+    "card": "2562-439.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 202,
+    "total_connections": 1496
+  },
+  {
+    "card": "9480-170.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 648,
+    "total_connections": 1495
+  },
+  {
+    "card": "14079-360.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 650,
+    "total_connections": 1494
+  },
+  {
+    "card": "5993-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 776,
+    "address_connected_frauds": 186,
+    "total_connections": 1490
+  },
+  {
+    "card": "13832-375.0-185.0",
+    "device_connected_frauds": 572,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 69,
+    "total_connections": 1488
+  },
+  {
+    "card": "3681-513.0-150.0",
+    "device_connected_frauds": 1,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 658,
+    "total_connections": 1487
+  },
+  {
+    "card": "12552-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 685,
+    "address_connected_frauds": 274,
+    "total_connections": 1487
+  },
+  {
+    "card": "4461-375.0-185.0",
+    "device_connected_frauds": 566,
+    "email_connected_frauds": 852,
+    "address_connected_frauds": 68,
+    "total_connections": 1486
+  },
+  {
+    "card": "5812-408.0-185.0",
+    "device_connected_frauds": 565,
+    "email_connected_frauds": 850,
+    "address_connected_frauds": 70,
+    "total_connections": 1485
+  },
+  {
+    "card": "5663-403.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 316,
+    "total_connections": 1483
+  },
+  {
+    "card": "16136-204.0-185.0",
+    "device_connected_frauds": 568,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 70,
+    "total_connections": 1482
+  },
+  {
+    "card": "9300-103.0-185.0",
+    "device_connected_frauds": 566,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 69,
+    "total_connections": 1482
+  },
+  {
+    "card": "11201-103.0-185.0",
+    "device_connected_frauds": 562,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 70,
+    "total_connections": 1479
+  },
+  {
+    "card": "9633-130.0-185.0",
+    "device_connected_frauds": 571,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 60,
+    "total_connections": 1479
+  },
+  {
+    "card": "17644-390.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 779,
+    "address_connected_frauds": 290,
+    "total_connections": 1478
+  },
+  {
+    "card": "4504-500.0-185.0",
+    "device_connected_frauds": 559,
+    "email_connected_frauds": 848,
+    "address_connected_frauds": 70,
+    "total_connections": 1477
+  },
+  {
+    "card": "2256-545.0-185.0",
+    "device_connected_frauds": 562,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 69,
+    "total_connections": 1475
+  },
+  {
+    "card": "16062-500.0-185.0",
+    "device_connected_frauds": 557,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 70,
+    "total_connections": 1474
+  },
+  {
+    "card": "11727-301.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 268,
+    "total_connections": 1474
+  },
+  {
+    "card": "14276-177.0-185.0",
+    "device_connected_frauds": 559,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 68,
+    "total_connections": 1473
+  },
+  {
+    "card": "8755-500.0-185.0",
+    "device_connected_frauds": 560,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 68,
+    "total_connections": 1472
+  },
+  {
+    "card": "10876-104.0-185.0",
+    "device_connected_frauds": 563,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 65,
+    "total_connections": 1472
+  },
+  {
+    "card": "17373-490.0-150.0",
+    "device_connected_frauds": 400,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 253,
+    "total_connections": 1471
+  },
+  {
+    "card": "10568-204.0-185.0",
+    "device_connected_frauds": 560,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 66,
+    "total_connections": 1469
+  },
+  {
+    "card": "9633-296.0-185.0",
+    "device_connected_frauds": 557,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 65,
+    "total_connections": 1469
+  },
+  {
+    "card": "16746-500.0-185.0",
+    "device_connected_frauds": 551,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 68,
+    "total_connections": 1464
+  },
+  {
+    "card": "6550-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 847,
+    "address_connected_frauds": 616,
+    "total_connections": 1463
+  },
+  {
+    "card": "1976-545.0-185.0",
+    "device_connected_frauds": 555,
+    "email_connected_frauds": 840,
+    "address_connected_frauds": 65,
+    "total_connections": 1460
+  },
+  {
+    "card": "15257-375.0-185.0",
+    "device_connected_frauds": 558,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 59,
+    "total_connections": 1458
+  },
+  {
+    "card": "12184-440.0-185.0",
+    "device_connected_frauds": 555,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 62,
+    "total_connections": 1458
+  },
+  {
+    "card": "15525-279.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 282,
+    "total_connections": 1458
+  },
+  {
+    "card": "7669-455.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 832,
+    "address_connected_frauds": 624,
+    "total_connections": 1456
+  },
+  {
+    "card": "2650-142.0-185.0",
+    "device_connected_frauds": 559,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 54,
+    "total_connections": 1456
+  },
+  {
+    "card": "12498-500.0-185.0",
+    "device_connected_frauds": 554,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 61,
+    "total_connections": 1452
+  },
+  {
+    "card": "5458-266.0-185.0",
+    "device_connected_frauds": 552,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 60,
+    "total_connections": 1451
+  },
+  {
+    "card": "9917-142.0-185.0",
+    "device_connected_frauds": 539,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 62,
+    "total_connections": 1447
+  },
+  {
+    "card": "6171-555.0-150.0",
+    "device_connected_frauds": 443,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 205,
+    "total_connections": 1446
+  },
+  {
+    "card": "9082-141.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 51,
+    "total_connections": 1442
+  },
+  {
+    "card": "2538-476.0-150.0",
+    "device_connected_frauds": 5,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 630,
+    "total_connections": 1440
+  },
+  {
+    "card": "15944-266.0-185.0",
+    "device_connected_frauds": 534,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 59,
+    "total_connections": 1436
+  },
+  {
+    "card": "7794-266.0-185.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 57,
+    "total_connections": 1427
+  },
+  {
+    "card": "5583-103.0-185.0",
+    "device_connected_frauds": 534,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 53,
+    "total_connections": 1426
+  },
+  {
+    "card": "2801-130.0-185.0",
+    "device_connected_frauds": 554,
+    "email_connected_frauds": 821,
+    "address_connected_frauds": 51,
+    "total_connections": 1426
+  },
+  {
+    "card": "15315-202.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 60,
+    "total_connections": 1425
+  },
+  {
+    "card": "5347-408.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 57,
+    "total_connections": 1421
+  },
+  {
+    "card": "3867-296.0-185.0",
+    "device_connected_frauds": 530,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 49,
+    "total_connections": 1420
+  },
+  {
+    "card": "13335-176.0-185.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 51,
+    "total_connections": 1419
+  },
+  {
+    "card": "5691-417.0-150.0",
+    "device_connected_frauds": 443,
+    "email_connected_frauds": 830,
+    "address_connected_frauds": 144,
+    "total_connections": 1417
+  },
+  {
+    "card": "10369-176.0-185.0",
+    "device_connected_frauds": 532,
+    "email_connected_frauds": 817,
+    "address_connected_frauds": 67,
+    "total_connections": 1416
+  },
+  {
+    "card": "17886-185.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 288,
+    "total_connections": 1416
+  },
+  {
+    "card": "4329-238.0-185.0",
+    "device_connected_frauds": 555,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 50,
+    "total_connections": 1415
+  },
+  {
+    "card": "1164-545.0-185.0",
+    "device_connected_frauds": 555,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 18,
+    "total_connections": 1412
+  },
+  {
+    "card": "17147-273.0-185.0",
+    "device_connected_frauds": 556,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 18,
+    "total_connections": 1411
+  },
+  {
+    "card": "7744-417.0-150.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 157,
+    "total_connections": 1411
+  },
+  {
+    "card": "2296-111.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 251,
+    "total_connections": 1411
+  },
+  {
+    "card": "14260-500.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 50,
+    "total_connections": 1410
+  },
+  {
+    "card": "6156-225.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 605,
+    "total_connections": 1410
+  },
+  {
+    "card": "2801-296.0-185.0",
+    "device_connected_frauds": 535,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 33,
+    "total_connections": 1409
+  },
+  {
+    "card": "12616-490.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 64,
+    "total_connections": 1406
+  },
+  {
+    "card": "5595-545.0-185.0",
+    "device_connected_frauds": 531,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 36,
+    "total_connections": 1406
+  },
+  {
+    "card": "3702-311.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 826,
+    "address_connected_frauds": 52,
+    "total_connections": 1406
+  },
+  {
+    "card": "1085-500.0-185.0",
+    "device_connected_frauds": 530,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 32,
+    "total_connections": 1405
+  },
+  {
+    "card": "3887-202.0-185.0",
+    "device_connected_frauds": 559,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 2,
+    "total_connections": 1404
+  },
+  {
+    "card": "14543-500.0-185.0",
+    "device_connected_frauds": 556,
+    "email_connected_frauds": 797,
+    "address_connected_frauds": 44,
+    "total_connections": 1397
+  },
+  {
+    "card": "18301-459.0-185.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 50,
+    "total_connections": 1395
+  },
+  {
+    "card": "3046-555.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 321,
+    "total_connections": 1393
+  },
+  {
+    "card": "10613-250.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 228,
+    "total_connections": 1388
+  },
+  {
+    "card": "13926-327.0-150.0",
+    "device_connected_frauds": 387,
+    "email_connected_frauds": 665,
+    "address_connected_frauds": 335,
+    "total_connections": 1387
+  },
+  {
+    "card": "13511-111.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 844,
+    "address_connected_frauds": 543,
+    "total_connections": 1387
+  },
+  {
+    "card": "1784-555.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 259,
+    "total_connections": 1387
+  },
+  {
+    "card": "7069-111.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 537,
+    "total_connections": 1378
+  },
+  {
+    "card": "3611-500.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 799,
+    "address_connected_frauds": 50,
+    "total_connections": 1377
+  },
+  {
+    "card": "5009-296.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 36,
+    "total_connections": 1374
+  },
+  {
+    "card": "9642-103.0-185.0",
+    "device_connected_frauds": 530,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 29,
+    "total_connections": 1369
+  },
+  {
+    "card": "2255-359.0-150.0",
+    "device_connected_frauds": 289,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 230,
+    "total_connections": 1361
+  },
+  {
+    "card": "3643-405.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 0,
+    "total_connections": 1360
+  },
+  {
+    "card": "13960-206.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 831,
+    "address_connected_frauds": 528,
+    "total_connections": 1359
+  },
+  {
+    "card": "7079-545.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 36,
+    "total_connections": 1356
+  },
+  {
+    "card": "9808-392.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 150,
+    "total_connections": 1355
+  },
+  {
+    "card": "15176-177.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 794,
+    "address_connected_frauds": 32,
+    "total_connections": 1354
+  },
+  {
+    "card": "1064-407.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 823,
+    "address_connected_frauds": 0,
+    "total_connections": 1351
+  },
+  {
+    "card": "7949-142.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 799,
+    "address_connected_frauds": 2,
+    "total_connections": 1351
+  },
+  {
+    "card": "6544-341.0-185.0",
+    "device_connected_frauds": 533,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 0,
+    "total_connections": 1349
+  },
+  {
+    "card": "13111-562.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 812,
+    "address_connected_frauds": 536,
+    "total_connections": 1348
+  },
+  {
+    "card": "4475-439.0-144.0",
+    "device_connected_frauds": 533,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 3,
+    "total_connections": 1346
+  },
+  {
+    "card": "11830-177.0-185.0",
+    "device_connected_frauds": 533,
+    "email_connected_frauds": 811,
+    "address_connected_frauds": 0,
+    "total_connections": 1344
+  },
+  {
+    "card": "15146-311.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 0,
+    "total_connections": 1344
+  },
+  {
+    "card": "12970-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 832,
+    "address_connected_frauds": 512,
+    "total_connections": 1344
+  },
+  {
+    "card": "10054-289.0-185.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 0,
+    "total_connections": 1343
+  },
+  {
+    "card": "6070-315.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 838,
+    "address_connected_frauds": 240,
+    "total_connections": 1342
+  },
+  {
+    "card": "11626-176.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 0,
+    "total_connections": 1338
+  },
+  {
+    "card": "17942-341.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 810,
+    "address_connected_frauds": 0,
+    "total_connections": 1338
+  },
+  {
+    "card": "1129-459.0-185.0",
+    "device_connected_frauds": 529,
+    "email_connected_frauds": 801,
+    "address_connected_frauds": 0,
+    "total_connections": 1330
+  },
+  {
+    "card": "6859-266.0-185.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 797,
+    "address_connected_frauds": 0,
+    "total_connections": 1325
+  },
+  {
+    "card": "4067-199.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 845,
+    "address_connected_frauds": 480,
+    "total_connections": 1325
+  },
+  {
+    "card": "3089-555.0-119.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 797,
+    "address_connected_frauds": 0,
+    "total_connections": 1325
+  },
+  {
+    "card": "13521-555.0-119.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 0,
+    "total_connections": 1320
+  },
+  {
+    "card": "16554-122.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 830,
+    "address_connected_frauds": 490,
+    "total_connections": 1320
+  },
+  {
+    "card": "5935-555.0-147.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 0,
+    "total_connections": 1320
+  },
+  {
+    "card": "3636-399.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 191,
+    "total_connections": 1319
+  },
+  {
+    "card": "10011-319.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 153,
+    "total_connections": 1317
+  },
+  {
+    "card": "10553-500.0-185.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 1316
+  },
+  {
+    "card": "4443-211.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 478,
+    "total_connections": 1315
+  },
+  {
+    "card": "13481-199.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 846,
+    "address_connected_frauds": 466,
+    "total_connections": 1312
+  },
+  {
+    "card": "11282-478.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 500,
+    "total_connections": 1305
+  },
+  {
+    "card": "4029-594.0-150.0",
+    "device_connected_frauds": 18,
+    "email_connected_frauds": 843,
+    "address_connected_frauds": 438,
+    "total_connections": 1299
+  },
+  {
+    "card": "6341-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 822,
+    "address_connected_frauds": 476,
+    "total_connections": 1298
+  },
+  {
+    "card": "4911-555.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 219,
+    "total_connections": 1298
+  },
+  {
+    "card": "10631-360.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 494,
+    "total_connections": 1296
+  },
+  {
+    "card": "13414-206.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 803,
+    "address_connected_frauds": 492,
+    "total_connections": 1295
+  },
+  {
+    "card": "6480-555.0-144.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 1294
+  },
+  {
+    "card": "9987-555.0-203.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 1294
+  },
+  {
+    "card": "17649-507.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 219,
+    "total_connections": 1281
+  },
+  {
+    "card": "17057-225.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 231,
+    "total_connections": 1280
+  },
+  {
+    "card": "10476-NA-143.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 478,
+    "total_connections": 1276
+  },
+  {
+    "card": "12592-321.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 817,
+    "address_connected_frauds": 459,
+    "total_connections": 1276
+  },
+  {
+    "card": "2893-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 468,
+    "total_connections": 1270
+  },
+  {
+    "card": "1906-199.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 842,
+    "address_connected_frauds": 426,
+    "total_connections": 1268
+  },
+  {
+    "card": "5492-113.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 821,
+    "address_connected_frauds": 443,
+    "total_connections": 1264
+  },
+  {
+    "card": "4179-555.0-135.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 228,
+    "total_connections": 1264
+  },
+  {
+    "card": "10101-381.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 133,
+    "total_connections": 1261
+  },
+  {
+    "card": "17635-565.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 828,
+    "address_connected_frauds": 432,
+    "total_connections": 1260
+  },
+  {
+    "card": "13160-555.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 823,
+    "address_connected_frauds": 173,
+    "total_connections": 1260
+  },
+  {
+    "card": "17760-511.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 164,
+    "total_connections": 1256
+  },
+  {
+    "card": "9051-555.0-127.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 127,
+    "total_connections": 1255
+  },
+  {
+    "card": "8505-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 776,
+    "address_connected_frauds": 475,
+    "total_connections": 1251
+  },
+  {
+    "card": "7720-514.0-150.0",
+    "device_connected_frauds": 149,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 276,
+    "total_connections": 1243
+  },
+  {
+    "card": "3522-555.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 179,
+    "total_connections": 1241
+  },
+  {
+    "card": "11352-555.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 109,
+    "total_connections": 1237
+  },
+  {
+    "card": "10859-231.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 396,
+    "total_connections": 1237
+  },
+  {
+    "card": "8226-490.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 604,
+    "address_connected_frauds": 363,
+    "total_connections": 1231
+  },
+  {
+    "card": "16003-555.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 838,
+    "address_connected_frauds": 130,
+    "total_connections": 1219
+  },
+  {
+    "card": "5599-439.0-144.0",
+    "device_connected_frauds": 409,
+    "email_connected_frauds": 787,
+    "address_connected_frauds": 12,
+    "total_connections": 1208
+  },
+  {
+    "card": "16297-544.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 819,
+    "address_connected_frauds": 389,
+    "total_connections": 1208
+  },
+  {
+    "card": "1744-530.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 384,
+    "total_connections": 1202
+  },
+  {
+    "card": "12211-298.0-150.0",
+    "device_connected_frauds": 251,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 133,
+    "total_connections": 1200
+  },
+  {
+    "card": "6357-512.0-150.0",
+    "device_connected_frauds": 133,
+    "email_connected_frauds": 801,
+    "address_connected_frauds": 259,
+    "total_connections": 1193
+  },
+  {
+    "card": "2893-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 401,
+    "total_connections": 1193
+  },
+  {
+    "card": "12287-321.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 372,
+    "total_connections": 1186
+  },
+  {
+    "card": "4885-463.0-144.0",
+    "device_connected_frauds": 550,
+    "email_connected_frauds": 620,
+    "address_connected_frauds": 11,
+    "total_connections": 1181
+  },
+  {
+    "card": "7511-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 357,
+    "total_connections": 1171
+  },
+  {
+    "card": "6489-295.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 807,
+    "address_connected_frauds": 356,
+    "total_connections": 1163
+  },
+  {
+    "card": "10994-125.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 127,
+    "total_connections": 1163
+  },
+  {
+    "card": "4448-555.0-214.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 9,
+    "total_connections": 1157
+  },
+  {
+    "card": "2627-271.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 353,
+    "total_connections": 1151
+  },
+  {
+    "card": "17442-246.0-150.0",
+    "device_connected_frauds": 37,
+    "email_connected_frauds": 808,
+    "address_connected_frauds": 303,
+    "total_connections": 1148
+  },
+  {
+    "card": "15604-314.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 276,
+    "total_connections": 1146
+  },
+  {
+    "card": "10750-382.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 794,
+    "address_connected_frauds": 349,
+    "total_connections": 1143
+  },
+  {
+    "card": "17583-528.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 800,
+    "address_connected_frauds": 324,
+    "total_connections": 1124
+  },
+  {
+    "card": "5033-NA-NA",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 319,
+    "total_connections": 1117
+  },
+  {
+    "card": "4693-417.0-150.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 51,
+    "total_connections": 1113
+  },
+  {
+    "card": "6598-111.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 839,
+    "address_connected_frauds": 272,
+    "total_connections": 1111
+  },
+  {
+    "card": "15835-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 287,
+    "total_connections": 1101
+  },
+  {
+    "card": "16034-481.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 331,
+    "total_connections": 1097
+  },
+  {
+    "card": "3326-265.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 841,
+    "address_connected_frauds": 255,
+    "total_connections": 1096
+  },
+  {
+    "card": "16682-479.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 286,
+    "total_connections": 1084
+  },
+  {
+    "card": "4089-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 282,
+    "total_connections": 1084
+  },
+  {
+    "card": "1508-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 804,
+    "address_connected_frauds": 274,
+    "total_connections": 1078
+  },
+  {
+    "card": "3121-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 275,
+    "total_connections": 1073
+  },
+  {
+    "card": "18281-159.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 274,
+    "total_connections": 1072
+  },
+  {
+    "card": "2817-555.0-150.0",
+    "device_connected_frauds": 362,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 166,
+    "total_connections": 1072
+  },
+  {
+    "card": "6393-442.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 768,
+    "address_connected_frauds": 303,
+    "total_connections": 1071
+  },
+  {
+    "card": "5041-197.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 303,
+    "total_connections": 1069
+  },
+  {
+    "card": "11450-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 303,
+    "total_connections": 1069
+  },
+  {
+    "card": "4304-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 303,
+    "total_connections": 1069
+  },
+  {
+    "card": "15253-554.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 303,
+    "total_connections": 1069
+  },
+  {
+    "card": "10686-225.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 815,
+    "address_connected_frauds": 251,
+    "total_connections": 1066
+  },
+  {
+    "card": "11852-347.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 251,
+    "total_connections": 1065
+  },
+  {
+    "card": "5454-532.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 242,
+    "total_connections": 1056
+  },
+  {
+    "card": "5105-555.0-119.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 518,
+    "address_connected_frauds": 9,
+    "total_connections": 1055
+  },
+  {
+    "card": "16048-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 251,
+    "total_connections": 1049
+  },
+  {
+    "card": "13484-307.0-150.0",
+    "device_connected_frauds": 8,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 232,
+    "total_connections": 1045
+  },
+  {
+    "card": "11639-321.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 276,
+    "total_connections": 1042
+  },
+  {
+    "card": "6595-127.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 274,
+    "total_connections": 1040
+  },
+  {
+    "card": "6668-390.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 274,
+    "total_connections": 1040
+  },
+  {
+    "card": "13994-127.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 816,
+    "address_connected_frauds": 224,
+    "total_connections": 1040
+  },
+  {
+    "card": "4988-334.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 803,
+    "address_connected_frauds": 234,
+    "total_connections": 1037
+  },
+  {
+    "card": "16017-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 801,
+    "address_connected_frauds": 228,
+    "total_connections": 1029
+  },
+  {
+    "card": "12422-390.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 230,
+    "total_connections": 1028
+  },
+  {
+    "card": "2601-336.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 262,
+    "total_connections": 1028
+  },
+  {
+    "card": "3070-537.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 825,
+    "address_connected_frauds": 202,
+    "total_connections": 1027
+  },
+  {
+    "card": "1482-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 261,
+    "total_connections": 1027
+  },
+  {
+    "card": "8807-550.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 768,
+    "address_connected_frauds": 258,
+    "total_connections": 1026
+  },
+  {
+    "card": "10229-276.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 818,
+    "address_connected_frauds": 204,
+    "total_connections": 1022
+  },
+  {
+    "card": "4078-514.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 251,
+    "total_connections": 1017
+  },
+  {
+    "card": "12023-216.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 251,
+    "total_connections": 1017
+  },
+  {
+    "card": "13905-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 251,
+    "total_connections": 1017
+  },
+  {
+    "card": "15548-111.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 220,
+    "total_connections": 1012
+  },
+  {
+    "card": "4383-271.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 794,
+    "address_connected_frauds": 211,
+    "total_connections": 1005
+  },
+  {
+    "card": "6102-340.0-150.0",
+    "device_connected_frauds": 1,
+    "email_connected_frauds": 802,
+    "address_connected_frauds": 200,
+    "total_connections": 1003
+  },
+  {
+    "card": "3283-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 181,
+    "total_connections": 995
+  },
+  {
+    "card": "14906-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 196,
+    "total_connections": 994
+  },
+  {
+    "card": "7442-353.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 800,
+    "address_connected_frauds": 191,
+    "total_connections": 991
+  },
+  {
+    "card": "15621-555.0-150.0",
+    "device_connected_frauds": 1,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 179,
+    "total_connections": 978
+  },
+  {
+    "card": "17111-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 805,
+    "address_connected_frauds": 166,
+    "total_connections": 971
+  },
+  {
+    "card": "12560-454.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 767,
+    "address_connected_frauds": 200,
+    "total_connections": 967
+  },
+  {
+    "card": "1523-216.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 200,
+    "total_connections": 966
+  },
+  {
+    "card": "7781-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 200,
+    "total_connections": 966
+  },
+  {
+    "card": "1676-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 200,
+    "total_connections": 966
+  },
+  {
+    "card": "4274-555.0-150.0",
+    "device_connected_frauds": 6,
+    "email_connected_frauds": 814,
+    "address_connected_frauds": 145,
+    "total_connections": 965
+  },
+  {
+    "card": "5178-NA-NA",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 196,
+    "total_connections": 962
+  },
+  {
+    "card": "16475-310.0-150.0",
+    "device_connected_frauds": 3,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 191,
+    "total_connections": 960
+  },
+  {
+    "card": "5912-385.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 143,
+    "total_connections": 941
+  },
+  {
+    "card": "5853-225.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 768,
+    "address_connected_frauds": 166,
+    "total_connections": 934
+  },
+  {
+    "card": "3920-532.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 166,
+    "total_connections": 932
+  },
+  {
+    "card": "11350-555.0-150.0",
+    "device_connected_frauds": 16,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 147,
+    "total_connections": 929
+  },
+  {
+    "card": "10011-NA-NA",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 153,
+    "total_connections": 919
+  },
+  {
+    "card": "17022-266.0-185.0",
+    "device_connected_frauds": 29,
+    "email_connected_frauds": 837,
+    "address_connected_frauds": 50,
+    "total_connections": 916
+  },
+  {
+    "card": "17794-390.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 786,
+    "address_connected_frauds": 122,
+    "total_connections": 908
+  },
+  {
+    "card": "16859-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 776,
+    "address_connected_frauds": 131,
+    "total_connections": 907
+  },
+  {
+    "card": "11710-479.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 769,
+    "address_connected_frauds": 138,
+    "total_connections": 907
+  },
+  {
+    "card": "3808-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 109,
+    "total_connections": 907
+  },
+  {
+    "card": "15882-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 574,
+    "address_connected_frauds": 331,
+    "total_connections": 905
+  },
+  {
+    "card": "11534-480.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 138,
+    "total_connections": 904
+  },
+  {
+    "card": "5832-479.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 138,
+    "total_connections": 904
+  },
+  {
+    "card": "16758-310.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 799,
+    "address_connected_frauds": 104,
+    "total_connections": 903
+  },
+  {
+    "card": "3342-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 133,
+    "total_connections": 899
+  },
+  {
+    "card": "3157-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 122,
+    "total_connections": 888
+  },
+  {
+    "card": "5093-242.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 119,
+    "total_connections": 885
+  },
+  {
+    "card": "17507-581.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 552,
+    "address_connected_frauds": 331,
+    "total_connections": 883
+  },
+  {
+    "card": "13549-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 109,
+    "total_connections": 875
+  },
+  {
+    "card": "12883-NA-143.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 313,
+    "total_connections": 857
+  },
+  {
+    "card": "11666-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 798,
+    "address_connected_frauds": 50,
+    "total_connections": 848
+  },
+  {
+    "card": "16617-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 303,
+    "total_connections": 847
+  },
+  {
+    "card": "1907-399.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 44,
+    "address_connected_frauds": 274,
+    "total_connections": 846
+  },
+  {
+    "card": "2034-399.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 44,
+    "address_connected_frauds": 274,
+    "total_connections": 846
+  },
+  {
+    "card": "11279-354.0-143.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 823,
+    "address_connected_frauds": 22,
+    "total_connections": 845
+  },
+  {
+    "card": "18255-514.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 554,
+    "address_connected_frauds": 276,
+    "total_connections": 830
+  },
+  {
+    "card": "9685-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 276,
+    "total_connections": 820
+  },
+  {
+    "card": "5943-296.0-185.0",
+    "device_connected_frauds": 24,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 0,
+    "total_connections": 816
+  },
+  {
+    "card": "13244-390.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 251,
+    "total_connections": 795
+  },
+  {
+    "card": "16355-296.0-185.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 792,
+    "address_connected_frauds": 0,
+    "total_connections": 792
+  },
+  {
+    "card": "7122-555.0-132.0",
+    "device_connected_frauds": 264,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 9,
+    "total_connections": 781
+  },
+  {
+    "card": "14909-250.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 545,
+    "address_connected_frauds": 228,
+    "total_connections": 773
+  },
+  {
+    "card": "12930-545.0-185.0",
+    "device_connected_frauds": 4,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 770
+  },
+  {
+    "card": "9056-393.0-150.0",
+    "device_connected_frauds": 6,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 219,
+    "total_connections": 769
+  },
+  {
+    "card": "17613-555.0-121.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 766
+  },
+  {
+    "card": "17820-500.0-185.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 766
+  },
+  {
+    "card": "1191-555.0-191.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 766,
+    "address_connected_frauds": 0,
+    "total_connections": 766
+  },
+  {
+    "card": "3123-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 219,
+    "total_connections": 763
+  },
+  {
+    "card": "2753-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 441,
+    "address_connected_frauds": 295,
+    "total_connections": 736
+  },
+  {
+    "card": "8820-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 191,
+    "total_connections": 735
+  },
+  {
+    "card": "8665-212.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 166,
+    "total_connections": 710
+  },
+  {
+    "card": "14109-555.0-119.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 163,
+    "address_connected_frauds": 9,
+    "total_connections": 700
+  },
+  {
+    "card": "17568-321.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 191,
+    "total_connections": 699
+  },
+  {
+    "card": "1919-NA-NA",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 150,
+    "total_connections": 694
+  },
+  {
+    "card": "15095-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 581,
+    "address_connected_frauds": 110,
+    "total_connections": 691
+  },
+  {
+    "card": "11655-NA-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 499,
+    "address_connected_frauds": 191,
+    "total_connections": 690
+  },
+  {
+    "card": "16927-310.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 382,
+    "address_connected_frauds": 290,
+    "total_connections": 672
+  },
+  {
+    "card": "3939-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 546,
+    "address_connected_frauds": 110,
+    "total_connections": 656
+  },
+  {
+    "card": "17739-512.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 508,
+    "address_connected_frauds": 147,
+    "total_connections": 655
+  },
+  {
+    "card": "13314-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 544,
+    "address_connected_frauds": 104,
+    "total_connections": 648
+  },
+  {
+    "card": "2591-439.0-150.0",
+    "device_connected_frauds": 528,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 109,
+    "total_connections": 637
+  },
+  {
+    "card": "10586-298.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 382,
+    "address_connected_frauds": 228,
+    "total_connections": 610
+  },
+  {
+    "card": "17325-554.0-150.0",
+    "device_connected_frauds": 13,
+    "email_connected_frauds": 499,
+    "address_connected_frauds": 0,
+    "total_connections": 512
+  },
+  {
+    "card": "13865-181.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 235,
+    "address_connected_frauds": 232,
+    "total_connections": 467
+  },
+  {
+    "card": "7228-381.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 228,
+    "address_connected_frauds": 230,
+    "total_connections": 458
+  },
+  {
+    "card": "11820-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 152,
+    "address_connected_frauds": 202,
+    "total_connections": 354
+  },
+  {
+    "card": "16776-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 274,
+    "total_connections": 274
+  },
+  {
+    "card": "14015-383.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 98,
+    "total_connections": 98
+  },
+  {
+    "card": "11716-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 77,
+    "total_connections": 77
+  },
+  {
+    "card": "9579-381.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 74,
+    "total_connections": 74
+  },
+  {
+    "card": "2517-555.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 55,
+    "total_connections": 55
+  },
+  {
+    "card": "9568-583.0-150.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 0,
+    "address_connected_frauds": 51,
+    "total_connections": 51
+  },
+  {
+    "card": "12184-NA-NA",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 42,
+    "address_connected_frauds": 0,
+    "total_connections": 42
+  },
+  {
+    "card": "12250-555.0-131.0",
+    "device_connected_frauds": 0,
+    "email_connected_frauds": 42,
+    "address_connected_frauds": 0,
+    "total_connections": 42
+  }
+]

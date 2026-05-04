@@ -1,0 +1,1938 @@
+device_id,total_txn,fraud_txn,fraud_rate,device_type,device_info
+desktop-8050G Build/LMY47I,2,0,0.0,desktop,8050G Build/LMY47I
+desktop-ALCATEL,1,0,0.0,desktop,ALCATEL
+desktop-ALCATEL ONE TOUCH 7040A Build/JDQ39,5,0,0.0,desktop,ALCATEL ONE TOUCH 7040A Build/JDQ39
+desktop-ALE-L21 Build/HuaweiALE-L21,1,0,0.0,desktop,ALE-L21 Build/HuaweiALE-L21
+desktop-ALE-L23 Build/HuaweiALE-L23,24,0,0.0,desktop,ALE-L23 Build/HuaweiALE-L23
+desktop-ATT,1,0,0.0,desktop,ATT
+desktop-ATT-IE11,2,0,0.0,desktop,ATT-IE11
+desktop-Android 4.4.2,4,0,0.0,desktop,Android 4.4.2
+desktop-Android 5.1.1,1,0,0.0,desktop,Android 5.1.1
+desktop-BOIE9,5,0,0.0,desktop,BOIE9
+desktop-Blade L5 Build/LMY47I,2,0,0.0,desktop,Blade L5 Build/LMY47I
+desktop-Blade V580 Build/LMY47D,2,0,0.0,desktop,Blade V580 Build/LMY47D
+desktop-Blade V6 Build/LRX22G,2,0,0.0,desktop,Blade V6 Build/LRX22G
+desktop-C6903,2,0,0.0,desktop,C6903
+desktop-CHC-U03 Build/HuaweiCHC-U03,28,28,1.0,desktop,CHC-U03 Build/HuaweiCHC-U03
+desktop-D2306,1,0,0.0,desktop,D2306
+desktop-D5306,1,0,0.0,desktop,D5306
+desktop-D5503,1,0,0.0,desktop,D5503
+desktop-GT-I8190L Build/JZO54K,4,2,0.5,desktop,GT-I8190L Build/JZO54K
+desktop-GT-I9060M Build/KTU84P,2,0,0.0,desktop,GT-I9060M Build/KTU84P
+desktop-GT-N5110 Build/JDQ39,1,0,0.0,desktop,GT-N5110 Build/JDQ39
+desktop-HTC One mini Build/KOT49H,2,0,0.0,desktop,HTC One mini Build/KOT49H
+desktop-HUAWEI,1,0,0.0,desktop,HUAWEI
+desktop-HUAWEI CUN-L03 Build/HUAWEICUN-L03,1,1,1.0,desktop,HUAWEI CUN-L03 Build/HUAWEICUN-L03
+desktop-HUAWEI G7-L03 Build/HuaweiG7-L03,1,1,1.0,desktop,HUAWEI G7-L03 Build/HuaweiG7-L03
+desktop-HUAWEI GRA-L09 Build/HUAWEIGRA-L09,7,0,0.0,desktop,HUAWEI GRA-L09 Build/HUAWEIGRA-L09
+desktop-HUAWEI RIO-L03 Build/HUAWEIRIO-L03,4,0,0.0,desktop,HUAWEI RIO-L03 Build/HUAWEIRIO-L03
+desktop-HUAWEI TAG-L13 Build/HUAWEITAG-L13,10,2,0.2,desktop,HUAWEI TAG-L13 Build/HUAWEITAG-L13
+desktop-ILIUM,4,0,0.0,desktop,ILIUM
+desktop-Ilium Pad T7X Build/LMY47I,4,4,1.0,desktop,Ilium Pad T7X Build/LMY47I
+desktop-Intel,3,0,0.0,desktop,Intel
+desktop-KFASWI Build/LVY48F,1,0,0.0,desktop,KFASWI Build/LVY48F
+desktop-KFDOWI Build/LVY48F,7,0,0.0,desktop,KFDOWI Build/LVY48F
+desktop-KFFOWI Build/LVY48F,2,0,0.0,desktop,KFFOWI Build/LVY48F
+desktop-KFGIWI Build/LVY48F,3,0,0.0,desktop,KFGIWI Build/LVY48F
+desktop-KFTHWI Build/KTU84M,1,0,0.0,desktop,KFTHWI Build/KTU84M
+desktop-LG-D320 Build/KOT49I.V10a,63,61,0.968254,desktop,LG-D320 Build/KOT49I.V10a
+desktop-LG-D331 Build/LRX22G,1,0,0.0,desktop,LG-D331 Build/LRX22G
+desktop-LG-D680 Build/KOT49I,2,0,0.0,desktop,LG-D680 Build/KOT49I
+desktop-LG-D693n Build/LRX22G,10,0,0.0,desktop,LG-D693n Build/LRX22G
+desktop-LG-D855,1,0,0.0,desktop,LG-D855
+desktop-LG-H221,1,0,0.0,desktop,LG-H221
+desktop-LG-H320 Build/LRX21Y,7,6,0.857143,desktop,LG-H320 Build/LRX21Y
+desktop-LG-H542 Build/LRX22G,2,0,0.0,desktop,LG-H542 Build/LRX22G
+desktop-LG-K410 Build/LRX22G,2,0,0.0,desktop,LG-K410 Build/LRX22G
+desktop-LG-X180g Build/LMY47I,2,0,0.0,desktop,LG-X180g Build/LMY47I
+desktop-LG-X210 Build/LMY47I,2,0,0.0,desktop,LG-X210 Build/LMY47I
+desktop-LG-X220 Build/LMY47I,2,0,0.0,desktop,LG-X220 Build/LMY47I
+desktop-LGMS631,1,0,0.0,desktop,LGMS631
+desktop-Lenovo,1,0,0.0,desktop,Lenovo
+desktop-Lenovo TB3-710F Build/LRX21M,1,0,0.0,desktop,Lenovo TB3-710F Build/LRX21M
+desktop-Lenovo TB3-710I Build/LMY47I,2,2,1.0,desktop,Lenovo TB3-710I Build/LMY47I
+desktop-LenovoA3300-GV Build/JDQ39,1,0,0.0,desktop,LenovoA3300-GV Build/JDQ39
+desktop-Linux,1,0,0.0,desktop,Linux
+desktop-Linux i686,18,0,0.0,desktop,Linux i686
+desktop-Linux x86_64,100,0,0.0,desktop,Linux x86_64
+desktop-M4 SS4456 Build/LMY47V,5,0,0.0,desktop,M4 SS4456 Build/LMY47V
+desktop-MALC,2,0,0.0,desktop,MALC
+desktop-MAMI,2,0,0.0,desktop,MAMI
+desktop-MDDRJS,44,2,0.045455,desktop,MDDRJS
+desktop-MI,1,0,0.0,desktop,MI
+desktop-MacOS,12565,278,0.022125,desktop,MacOS
+desktop-Moto,17,0,0.0,desktop,Moto
+desktop-Moto E (4) Build/NDQS26.69-23-2-3,2,0,0.0,desktop,Moto E (4) Build/NDQS26.69-23-2-3
+desktop-Moto E (4) Build/NDQS26.69-64-2,4,0,0.0,desktop,Moto E (4) Build/NDQS26.69-64-2
+desktop-Moto E (4) Build/NMA26.42-11-3,2,0,0.0,desktop,Moto E (4) Build/NMA26.42-11-3
+desktop-Moto E (4) Build/NMA26.42-19,58,0,0.0,desktop,Moto E (4) Build/NMA26.42-19
+desktop-Moto E (4) Build/NMA26.42-69,45,6,0.133333,desktop,Moto E (4) Build/NMA26.42-69
+desktop-Moto E (4) Plus Build/NMA26.42-11-3,2,0,0.0,desktop,Moto E (4) Plus Build/NMA26.42-11-3
+desktop-Moto E (4) Plus Build/NMA26.42-142,5,0,0.0,desktop,Moto E (4) Plus Build/NMA26.42-142
+desktop-Moto E (4) Plus Build/NMA26.42-69,99,26,0.262626,desktop,Moto E (4) Plus Build/NMA26.42-69
+desktop-Moto G (4) Build/NPJ25.93-14,1,0,0.0,desktop,Moto G (4) Build/NPJ25.93-14
+desktop-Moto G (4) Build/NPJ25.93-14.5,6,0,0.0,desktop,Moto G (4) Build/NPJ25.93-14.5
+desktop-Moto G (4) Build/NPJ25.93-14.7,139,39,0.280576,desktop,Moto G (4) Build/NPJ25.93-14.7
+desktop-Moto G (4) Build/NPJS25.93-14-10,23,10,0.434783,desktop,Moto G (4) Build/NPJS25.93-14-10
+desktop-Moto G (4) Build/NPJS25.93-14-13,66,8,0.121212,desktop,Moto G (4) Build/NPJS25.93-14-13
+desktop-Moto G (4) Build/NPJS25.93-14-15,32,2,0.0625,desktop,Moto G (4) Build/NPJS25.93-14-15
+desktop-Moto G (4) Build/NPJS25.93-14-8,2,0,0.0,desktop,Moto G (4) Build/NPJS25.93-14-8
+desktop-Moto G (4) Build/NPJS25.93-14-8.1-4,12,9,0.75,desktop,Moto G (4) Build/NPJS25.93-14-8.1-4
+desktop-Moto G (5) Build/NPP25.137-15,3,2,0.666667,desktop,Moto G (5) Build/NPP25.137-15
+desktop-Moto G (5) Build/NPP25.137-38,8,2,0.25,desktop,Moto G (5) Build/NPP25.137-38
+desktop-Moto G (5) Build/NPP25.137-72,19,0,0.0,desktop,Moto G (5) Build/NPP25.137-72
+desktop-Moto G (5) Build/NPP25.137-82,27,6,0.222222,desktop,Moto G (5) Build/NPP25.137-82
+desktop-Moto G (5) Build/NPP25.137-93,84,3,0.035714,desktop,Moto G (5) Build/NPP25.137-93
+desktop-Moto G (5) Build/NPPS25.137-15-11,25,0,0.0,desktop,Moto G (5) Build/NPPS25.137-15-11
+desktop-Moto G (5) Build/NPPS25.137-93-4,13,0,0.0,desktop,Moto G (5) Build/NPPS25.137-93-4
+desktop-Moto G (5) Build/NPPS25.137-93-8,1,0,0.0,desktop,Moto G (5) Build/NPPS25.137-93-8
+desktop-Moto G (5) Plus Build/NPN25.137-15,1,0,0.0,desktop,Moto G (5) Plus Build/NPN25.137-15
+desktop-Moto G (5) Plus Build/NPN25.137-72,21,0,0.0,desktop,Moto G (5) Plus Build/NPN25.137-72
+desktop-Moto G (5) Plus Build/NPN25.137-82,36,11,0.305556,desktop,Moto G (5) Plus Build/NPN25.137-82
+desktop-Moto G (5) Plus Build/NPN25.137-92,76,4,0.052632,desktop,Moto G (5) Plus Build/NPN25.137-92
+desktop-Moto G (5) Plus Build/NPNS25.137-15-11,17,2,0.117647,desktop,Moto G (5) Plus Build/NPNS25.137-15-11
+desktop-Moto G (5) Plus Build/NPNS25.137-92-4,16,6,0.375,desktop,Moto G (5) Plus Build/NPNS25.137-92-4
+desktop-Moto G (5) Plus Build/NPNS25.137-92-8,19,0,0.0,desktop,Moto G (5) Plus Build/NPNS25.137-92-8
+desktop-Moto G (5S,11,0,0.0,desktop,Moto G (5S
+desktop-Moto Z (2,26,0,0.0,desktop,Moto Z (2
+desktop-MotoE2(4G-LTE,5,2,0.4,desktop,MotoE2(4G-LTE
+desktop-MotoG3,1,0,0.0,desktop,MotoG3
+desktop-NX521J,2,0,0.0,desktop,NX521J
+desktop-NetHelper70,1,0,0.0,desktop,NetHelper70
+desktop-Nexus,1,0,0.0,desktop,Nexus
+desktop-Northwell,1,0,0.0,desktop,Northwell
+desktop-ONE TOUCH 4016A Build/JDQ39,1,0,0.0,desktop,ONE TOUCH 4016A Build/JDQ39
+desktop-PULP 4G Build/LMY47V,5,0,0.0,desktop,PULP 4G Build/LMY47V
+desktop-QwestIE8,1,0,0.0,desktop,QwestIE8
+desktop-R831L,1,0,0.0,desktop,R831L
+desktop-S.N.O.W.4,6,0,0.0,desktop,S.N.O.W.4
+desktop-S57 Build/KTU84P,1,0,0.0,desktop,S57 Build/KTU84P
+desktop-S70V,2,0,0.0,desktop,S70V
+desktop-SAMSUNG,16,0,0.0,desktop,SAMSUNG
+desktop-SAMSUNG SM-A300H Build/LRX22G,1,0,0.0,desktop,SAMSUNG SM-A300H Build/LRX22G
+desktop-SAMSUNG SM-A310M Build/LMY47X,1,0,0.0,desktop,SAMSUNG SM-A310M Build/LMY47X
+desktop-SAMSUNG SM-G531H Build/LMY48B,8,0,0.0,desktop,SAMSUNG SM-G531H Build/LMY48B
+desktop-SAMSUNG SM-G900M Build/LRX21T,10,0,0.0,desktop,SAMSUNG SM-G900M Build/LRX21T
+desktop-SAMSUNG SM-G920F Build/LRX22G,5,0,0.0,desktop,SAMSUNG SM-G920F Build/LRX22G
+desktop-SAMSUNG SM-J120H Build/LMY47V,6,0,0.0,desktop,SAMSUNG SM-J120H Build/LMY47V
+desktop-SAMSUNG SM-J320FN Build/LMY47V,1,0,0.0,desktop,SAMSUNG SM-J320FN Build/LMY47V
+desktop-SAMSUNG SM-J320M Build/LMY47V,8,0,0.0,desktop,SAMSUNG SM-J320M Build/LMY47V
+desktop-SAMSUNG SM-J700M Build/LMY48B,3,0,0.0,desktop,SAMSUNG SM-J700M Build/LMY48B
+desktop-SAMSUNG SM-N900T Build/LRX21V,1,0,0.0,desktop,SAMSUNG SM-N900T Build/LRX21V
+desktop-SAMSUNG SM-N900W8 Build/LRX21V,3,1,0.333333,desktop,SAMSUNG SM-N900W8 Build/LRX21V
+desktop-SAMSUNG SM-T530NU Build/LRX22G,1,0,0.0,desktop,SAMSUNG SM-T530NU Build/LRX22G
+desktop-SAMSUNG-SM-G530AZ Build/LMY48B,3,0,0.0,desktop,SAMSUNG-SM-G530AZ Build/LMY48B
+desktop-SGH-I747M,1,0,0.0,desktop,SGH-I747M
+desktop-SGH-M919V,1,0,0.0,desktop,SGH-M919V
+desktop-SGP511,1,0,0.0,desktop,SGP511
+desktop-SM-A300H Build/LRX22G,22,20,0.909091,desktop,SM-A300H Build/LRX22G
+desktop-SM-A300M Build/KTU84P,3,3,1.0,desktop,SM-A300M Build/KTU84P
+desktop-SM-A310M Build/LMY47X,2,0,0.0,desktop,SM-A310M Build/LMY47X
+desktop-SM-A500M Build/KTU84P,2,1,0.5,desktop,SM-A500M Build/KTU84P
+desktop-SM-A500M Build/LRX22G,1,0,0.0,desktop,SM-A500M Build/LRX22G
+desktop-SM-A710M Build/LMY47X,1,0,0.0,desktop,SM-A710M Build/LMY47X
+desktop-SM-E500M,1,0,0.0,desktop,SM-E500M
+desktop-SM-E500M Build/KTU84P,3,1,0.333333,desktop,SM-E500M Build/KTU84P
+desktop-SM-G318ML,2,0,0.0,desktop,SM-G318ML
+desktop-SM-G355M Build/KOT49H,1,0,0.0,desktop,SM-G355M Build/KOT49H
+desktop-SM-G386T,1,0,0.0,desktop,SM-G386T
+desktop-SM-G530H Build/KTU84P,3,0,0.0,desktop,SM-G530H Build/KTU84P
+desktop-SM-G530H Build/LRX22G,1,0,0.0,desktop,SM-G530H Build/LRX22G
+desktop-SM-G531H Build/LMY48B,10,5,0.5,desktop,SM-G531H Build/LMY48B
+desktop-SM-G900M Build/KOT49H,6,5,0.833333,desktop,SM-G900M Build/KOT49H
+desktop-SM-G900M Build/LRX21T,10,5,0.5,desktop,SM-G900M Build/LRX21T
+desktop-SM-G925I Build/LMY47X,1,0,0.0,desktop,SM-G925I Build/LMY47X
+desktop-SM-J105B Build/LMY47V,1,0,0.0,desktop,SM-J105B Build/LMY47V
+desktop-SM-J110M Build/LMY48B,1,0,0.0,desktop,SM-J110M Build/LMY48B
+desktop-SM-J120H Build/LMY47V,2,0,0.0,desktop,SM-J120H Build/LMY47V
+desktop-SM-J320M Build/LMY47V,4,2,0.5,desktop,SM-J320M Build/LMY47V
+desktop-SM-J500M Build/LMY48B,7,7,1.0,desktop,SM-J500M Build/LMY48B
+desktop-SM-J700M Build/LMY48B,9,1,0.111111,desktop,SM-J700M Build/LMY48B
+desktop-SM-N900W8 Build/LRX21V,5,2,0.4,desktop,SM-N900W8 Build/LRX21V
+desktop-SM-N910T Build/LMY47X,3,0,0.0,desktop,SM-N910T Build/LMY47X
+desktop-SM-T113NU Build/KTU84P,3,0,0.0,desktop,SM-T113NU Build/KTU84P
+desktop-SM-T310 Build/KOT49H,1,0,0.0,desktop,SM-T310 Build/KOT49H
+desktop-SM-T330NU Build/LMY47X,1,0,0.0,desktop,SM-T330NU Build/LMY47X
+desktop-SM-T560 Build/KTU84P,5,0,0.0,desktop,SM-T560 Build/KTU84P
+desktop-Star,2,0,0.0,desktop,Star
+desktop-TR10CS1 Build/JDQ39,1,0,0.0,desktop,TR10CS1 Build/JDQ39
+desktop-Tmovi Build/Vision,1,0,0.0,desktop,Tmovi Build/Vision
+desktop-Touch,10,0,0.0,desktop,Touch
+desktop-Trident/7.0,7407,96,0.012961,desktop,Trident/7.0
+desktop-WOW64,3,0,0.0,desktop,WOW64
+desktop-Win64,4,0,0.0,desktop,Win64
+desktop-Windows,47720,3121,0.065402,desktop,Windows
+desktop-Windows NT 6.1,40,2,0.05,desktop,Windows NT 6.1
+desktop-Windows NT 6.2,13,8,0.615385,desktop,Windows NT 6.2
+desktop-X78,1,0,0.0,desktop,X78
+desktop-XT1003,1,0,0.0,desktop,XT1003
+desktop-XT1021 Build/LPCS23.13-34.8-3,1,0,0.0,desktop,XT1021 Build/LPCS23.13-34.8-3
+desktop-XT1032 Build/LPBS23.13-56-2,4,0,0.0,desktop,XT1032 Build/LPBS23.13-56-2
+desktop-XT1040,1,0,0.0,desktop,XT1040
+desktop-Y635-L03 Build/HuaweiY635-L03,1,0,0.0,desktop,Y635-L03 Build/HuaweiY635-L03
+desktop-Z813 Build/LMY47O,9,9,1.0,desktop,Z813 Build/LMY47O
+desktop-ZTE,2,0,0.0,desktop,ZTE
+desktop-ZUUM_ZEN_I Build/LRX21M,4,0,0.0,desktop,ZUUM_ZEN_I Build/LRX21M
+desktop-es-us,3,0,0.0,desktop,es-us
+desktop-hp2015,1,0,0.0,desktop,hp2015
+desktop-iOS Device,1,0,0.0,desktop,iOS Device
+desktop-moto g(6) play Build/OPP27.61-14-4,1,0,0.0,desktop,moto g(6) play Build/OPP27.61-14-4
+desktop-rv:11.0,1864,75,0.040236,desktop,rv:11.0
+desktop-rv:29.0,1,1,1.0,desktop,rv:29.0
+desktop-rv:31.0,25,4,0.16,desktop,rv:31.0
+desktop-rv:33.0,2,0,0.0,desktop,rv:33.0
+desktop-rv:35.0,7,0,0.0,desktop,rv:35.0
+desktop-rv:37.0,2,0,0.0,desktop,rv:37.0
+desktop-rv:38.0,19,0,0.0,desktop,rv:38.0
+desktop-rv:39.0,10,0,0.0,desktop,rv:39.0
+desktop-rv:41.0,9,0,0.0,desktop,rv:41.0
+desktop-rv:42.0,8,0,0.0,desktop,rv:42.0
+desktop-rv:43.0,9,3,0.333333,desktop,rv:43.0
+desktop-rv:44.0,5,0,0.0,desktop,rv:44.0
+desktop-rv:45.0,32,1,0.03125,desktop,rv:45.0
+desktop-rv:46.0,6,0,0.0,desktop,rv:46.0
+desktop-rv:47.0,22,3,0.136364,desktop,rv:47.0
+desktop-rv:48.0,178,2,0.011236,desktop,rv:48.0
+desktop-rv:49.0,15,4,0.266667,desktop,rv:49.0
+desktop-rv:50.0,16,0,0.0,desktop,rv:50.0
+desktop-rv:51.0,34,10,0.294118,desktop,rv:51.0
+desktop-rv:52.0,256,12,0.046875,desktop,rv:52.0
+desktop-rv:52.9,2,1,0.5,desktop,rv:52.9
+desktop-rv:53.0,12,0,0.0,desktop,rv:53.0
+desktop-rv:54.0,24,0,0.0,desktop,rv:54.0
+desktop-rv:55.0,18,0,0.0,desktop,rv:55.0
+desktop-rv:56.0,100,8,0.08,desktop,rv:56.0
+desktop-rv:57.0,871,94,0.107922,desktop,rv:57.0
+desktop-rv:58.0,237,37,0.156118,desktop,rv:58.0
+desktop-rv:59.0,274,15,0.054745,desktop,rv:59.0
+desktop-rv:60.0,50,1,0.02,desktop,rv:60.0
+desktop-xs-Z47b7VqTMxs,1,0,0.0,desktop,xs-Z47b7VqTMxs
+mobile-0PAJ5,1,0,0.0,mobile,0PAJ5
+mobile-0PJA2,1,0,0.0,mobile,0PJA2
+mobile-0PM92,4,2,0.5,mobile,0PM92
+mobile-1016S,1,0,0.0,mobile,1016S
+mobile-2PQ93,1,0,0.0,mobile,2PQ93
+mobile-2PS64 Build/NRD90M,6,0,0.0,mobile,2PS64 Build/NRD90M
+mobile-2PYB2,4,0,0.0,mobile,2PYB2
+mobile-2PZC5,2,0,0.0,mobile,2PZC5
+mobile-4003A,1,0,0.0,mobile,4003A
+mobile-4009F,2,0,0.0,mobile,4009F
+mobile-4013M Build/KOT49H,13,1,0.076923,mobile,4013M Build/KOT49H
+mobile-4027A Build/KOT49H,2,0,0.0,mobile,4027A Build/KOT49H
+mobile-4034E,1,0,0.0,mobile,4034E
+mobile-4034G,1,0,0.0,mobile,4034G
+mobile-4047A Build/NRD90M,7,0,0.0,mobile,4047A Build/NRD90M
+mobile-4047G Build/NRD90M,17,1,0.058824,mobile,4047G Build/NRD90M
+mobile-47418,1,0,0.0,mobile,47418
+mobile-5010G Build/MRA58K,60,6,0.1,mobile,5010G Build/MRA58K
+mobile-5010S Build/MRA58K,13,0,0.0,mobile,5010S Build/MRA58K
+mobile-5011A Build/NRD90M,24,3,0.125,mobile,5011A Build/NRD90M
+mobile-5012G Build/MRA58K,29,5,0.172414,mobile,5012G Build/MRA58K
+mobile-5015A Build/LMY47I,38,9,0.236842,mobile,5015A Build/LMY47I
+mobile-5017A,2,0,0.0,mobile,5017A
+mobile-5025G Build/LMY47I,38,11,0.289474,mobile,5025G Build/LMY47I
+mobile-5042A,2,0,0.0,mobile,5042A
+mobile-5044A,1,0,0.0,mobile,5044A
+mobile-5045I,1,0,0.0,mobile,5045I
+mobile-5049W Build/NRD90M,9,6,0.666667,mobile,5049W Build/NRD90M
+mobile-5051A Build/MMB29M,6,0,0.0,mobile,5051A Build/MMB29M
+mobile-5054N,4,0,0.0,mobile,5054N
+mobile-5054S Build/LMY47V,20,0,0.0,mobile,5054S Build/LMY47V
+mobile-5056A Build/MMB29M,31,3,0.096774,mobile,5056A Build/MMB29M
+mobile-5056N,2,0,0.0,mobile,5056N
+mobile-5057M,1,0,0.0,mobile,5057M
+mobile-5080A Build/MRA58K,63,0,0.0,mobile,5080A Build/MRA58K
+mobile-5085B Build/MRA58K,9,2,0.222222,mobile,5085B Build/MRA58K
+mobile-5095I Build/MRA58K,3,0,0.0,mobile,5095I Build/MRA58K
+mobile-6037B,1,0,0.0,mobile,6037B
+mobile-6039A Build/LRX22G,5,0,0.0,mobile,6039A Build/LRX22G
+mobile-6045I Build/LRX22G,3,2,0.666667,mobile,6045I Build/LRX22G
+mobile-6055B,1,0,0.0,mobile,6055B
+mobile-7048A Build/LRX22G,5,0,0.0,mobile,7048A Build/LRX22G
+mobile-7055A Build/KVT49L,6,0,0.0,mobile,7055A Build/KVT49L
+mobile-7_Plus,1,0,0.0,mobile,7_Plus
+mobile-8050G Build/LMY47I,47,0,0.0,mobile,8050G Build/LMY47I
+mobile-8062 Build/MRA58K,6,1,0.166667,mobile,8062 Build/MRA58K
+mobile-8080 Build/LRX21M,3,0,0.0,mobile,8080 Build/LRX21M
+mobile-831C,1,0,0.0,mobile,831C
+mobile-9002A,1,0,0.0,mobile,9002A
+mobile-9003A Build/MRA58K,7,3,0.428571,mobile,9003A Build/MRA58K
+mobile-9008A Build/NRD90M,8,0,0.0,mobile,9008A Build/NRD90M
+mobile-9022X,1,0,0.0,mobile,9022X
+mobile-916,1,0,0.0,mobile,916
+mobile-9203A Build/MRA58K,1,0,0.0,mobile,9203A Build/MRA58K
+mobile-A0001,1,0,0.0,mobile,A0001
+mobile-A0001 Build/MHC19Q,3,0,0.0,mobile,A0001 Build/MHC19Q
+mobile-A1-850,1,0,0.0,mobile,A1-850
+mobile-A1601 Build/LMY47I,4,0,0.0,mobile,A1601 Build/LMY47I
+mobile-A3-A20,1,0,0.0,mobile,A3-A20
+mobile-A37f,1,0,0.0,mobile,A37f
+mobile-A3_mini,2,0,0.0,mobile,A3_mini
+mobile-A463BG,1,0,0.0,mobile,A463BG
+mobile-A466BG,3,3,1.0,mobile,A466BG
+mobile-A5002,1,1,1.0,mobile,A5002
+mobile-A50C+,1,0,0.0,mobile,A50C+
+mobile-A574BL Build/NMF26F,7,7,1.0,mobile,A574BL Build/NMF26F
+mobile-A577VL,1,0,0.0,mobile,A577VL
+mobile-A621R,1,0,0.0,mobile,A621R
+mobile-A9,1,0,0.0,mobile,A9
+mobile-A952,1,0,0.0,mobile,A952
+mobile-A96 Build/LMY47I,5,0,0.0,mobile,A96 Build/LMY47I
+mobile-A97,1,0,0.0,mobile,A97
+mobile-AERIAL,4,1,0.25,mobile,AERIAL
+mobile-AERIAL Build/NRD90M,1,0,0.0,mobile,AERIAL Build/NRD90M
+mobile-AKUS,1,0,0.0,mobile,AKUS
+mobile-ALCATEL,5,1,0.2,mobile,ALCATEL
+mobile-ALCATEL ONE TOUCH 5036A Build/JDQ39,6,0,0.0,mobile,ALCATEL ONE TOUCH 5036A Build/JDQ39
+mobile-ALCATEL ONE TOUCH 7040A Build/JDQ39,1,0,0.0,mobile,ALCATEL ONE TOUCH 7040A Build/JDQ39
+mobile-ALCATEL ONE TOUCH 7042A Build/JDQ39,4,0,0.0,mobile,ALCATEL ONE TOUCH 7042A Build/JDQ39
+mobile-ALCATEL ONE TOUCH 7047A Build/JDQ39,8,0,0.0,mobile,ALCATEL ONE TOUCH 7047A Build/JDQ39
+mobile-ALE-L21 Build/HuaweiALE-L21,35,0,0.0,mobile,ALE-L21 Build/HuaweiALE-L21
+mobile-ALE-L23 Build/HuaweiALE-L23,288,29,0.100694,mobile,ALE-L23 Build/HuaweiALE-L23
+mobile-ALP-L09 Build/HUAWEIALP-L09,10,3,0.3,mobile,ALP-L09 Build/HUAWEIALP-L09
+mobile-ALP-L09 Build/HUAWEIALP-L09S,8,0,0.0,mobile,ALP-L09 Build/HUAWEIALP-L09S
+mobile-ALTER,1,0,0.0,mobile,ALTER
+mobile-ALUMINI,4,0,0.0,mobile,ALUMINI
+mobile-AM508,3,0,0.0,mobile,AM508
+mobile-ANE-LX3 Build/HUAWEIANE-LX3,1,0,0.0,mobile,ANE-LX3 Build/HUAWEIANE-LX3
+mobile-AOC_U706G,1,0,0.0,mobile,AOC_U706G
+mobile-ASTRO,1,0,0.0,mobile,ASTRO
+mobile-ASUS,1,0,0.0,mobile,ASUS
+mobile-ASUS_A001,1,0,0.0,mobile,ASUS_A001
+mobile-ASUS_P00J,1,0,0.0,mobile,ASUS_P00J
+mobile-ASUS_X008D Build/NRD90M,1,0,0.0,mobile,ASUS_X008D Build/NRD90M
+mobile-ASUS_X008DC Build/NRD90M,6,0,0.0,mobile,ASUS_X008DC Build/NRD90M
+mobile-ASUS_X00DD,2,0,0.0,mobile,ASUS_X00DD
+mobile-ASUS_X00DDA,3,0,0.0,mobile,ASUS_X00DDA
+mobile-ASUS_X00HD Build/NMF26F,1,0,0.0,mobile,ASUS_X00HD Build/NMF26F
+mobile-ASUS_X00ID,3,0,0.0,mobile,ASUS_X00ID
+mobile-ASUS_X015D Build/NRD90M,9,0,0.0,mobile,ASUS_X015D Build/NRD90M
+mobile-ASUS_X018D,1,0,0.0,mobile,ASUS_X018D
+mobile-ASUS_Z00AD Build/LRX21V,6,0,0.0,mobile,ASUS_Z00AD Build/LRX21V
+mobile-ASUS_Z00ED,1,0,0.0,mobile,ASUS_Z00ED
+mobile-ASUS_Z00UD,1,0,0.0,mobile,ASUS_Z00UD
+mobile-ASUS_Z017D,5,0,0.0,mobile,ASUS_Z017D
+mobile-ASUS_Z017DA,1,0,0.0,mobile,ASUS_Z017DA
+mobile-ASUS_Z01BDA,1,0,0.0,mobile,ASUS_Z01BDA
+mobile-ASUS_Z01BDC,1,0,0.0,mobile,ASUS_Z01BDC
+mobile-ASUS_Z01KD,1,0,0.0,mobile,ASUS_Z01KD
+mobile-AX1060,1,0,0.0,mobile,AX1060
+mobile-AX1070,2,0,0.0,mobile,AX1070
+mobile-AX705,1,0,0.0,mobile,AX705
+mobile-AX820 Build/MRA58K,4,0,0.0,mobile,AX820 Build/MRA58K
+mobile-AX821 Build/MRA58K,2,0,0.0,mobile,AX821 Build/MRA58K
+mobile-AX920,6,0,0.0,mobile,AX920
+mobile-AX921 Build/MRA58K,3,0,0.0,mobile,AX921 Build/MRA58K
+mobile-Advance,2,0,0.0,mobile,Advance
+mobile-Alcatel,1,0,0.0,mobile,Alcatel
+mobile-Alcatel_4060A,2,0,0.0,mobile,Alcatel_4060A
+mobile-Alcatel_4060O Build/MMB29M,6,5,0.833333,mobile,Alcatel_4060O Build/MMB29M
+mobile-Alcatel_5044R Build/NRD90M,5,4,0.8,mobile,Alcatel_5044R Build/NRD90M
+mobile-Alcatel_5054O,1,0,0.0,mobile,Alcatel_5054O
+mobile-Alcatel_5056O,1,0,0.0,mobile,Alcatel_5056O
+mobile-Alcatel_5098O Build/MMB29M,13,0,0.0,mobile,Alcatel_5098O Build/MMB29M
+mobile-Alumini3 Build/MRA58K,2,2,1.0,mobile,Alumini3 Build/MRA58K
+mobile-Alumini3Plus,2,0,0.0,mobile,Alumini3Plus
+mobile-Android,5,0,0.0,mobile,Android
+mobile-Android 4.4.2,10,0,0.0,mobile,Android 4.4.2
+mobile-Android 5.1,32,3,0.09375,mobile,Android 5.1
+mobile-Android 5.1.1,7,0,0.0,mobile,Android 5.1.1
+mobile-Android 6.0,7,0,0.0,mobile,Android 6.0
+mobile-Android 6.0.1,8,0,0.0,mobile,Android 6.0.1
+mobile-Android 7.0,7,0,0.0,mobile,Android 7.0
+mobile-Android 7.1.2,1,0,0.0,mobile,Android 7.1.2
+mobile-Aquaris,11,0,0.0,mobile,Aquaris
+mobile-Aquaris U Plus Build/NMF26F,2,0,0.0,mobile,Aquaris U Plus Build/NMF26F
+mobile-Aquaris V Build/N2G47H,6,0,0.0,mobile,Aquaris V Build/N2G47H
+mobile-Aquaris X Build/NMF26F,1,0,0.0,mobile,Aquaris X Build/NMF26F
+mobile-Aquaris X5 Plus Build/NMF26F,2,0,0.0,mobile,Aquaris X5 Plus Build/NMF26F
+mobile-Aquaris_A4.5,3,0,0.0,mobile,Aquaris_A4.5
+mobile-Archos,2,0,0.0,mobile,Archos
+mobile-Azumi_KINZO_A5_QL,1,0,0.0,mobile,Azumi_KINZO_A5_QL
+mobile-B1-750,3,0,0.0,mobile,B1-750
+mobile-B1-790,1,0,0.0,mobile,B1-790
+mobile-B1-810,1,0,0.0,mobile,B1-810
+mobile-B3-A20,1,0,0.0,mobile,B3-A20
+mobile-B3-A40,3,0,0.0,mobile,B3-A40
+mobile-BAC-L03 Build/HUAWEIBAC-L03,58,0,0.0,mobile,BAC-L03 Build/HUAWEIBAC-L03
+mobile-BAH-L09 Build/HUAWEIBAH-L09,6,0,0.0,mobile,BAH-L09 Build/HUAWEIBAH-L09
+mobile-BBA100-1,1,0,0.0,mobile,BBA100-1
+mobile-BBA100-2,1,0,0.0,mobile,BBA100-2
+mobile-BBB100-1,3,0,0.0,mobile,BBB100-1
+mobile-BBB100-2,1,0,0.0,mobile,BBB100-2
+mobile-BBB100-3,3,0,0.0,mobile,BBB100-3
+mobile-BG2-W09,2,0,0.0,mobile,BG2-W09
+mobile-BLA-L09 Build/HUAWEIBLA-L09,5,0,0.0,mobile,BLA-L09 Build/HUAWEIBLA-L09
+mobile-BLA-L29 Build/HUAWEIBLA-L29,6,0,0.0,mobile,BLA-L29 Build/HUAWEIBLA-L29
+mobile-BLADE A520 Build/NRD90M,21,3,0.142857,mobile,BLADE A520 Build/NRD90M
+mobile-BLADE A602 Build/MRA58K,13,0,0.0,mobile,BLADE A602 Build/MRA58K
+mobile-BLADE L7 Build/MRA58K,19,4,0.210526,mobile,BLADE L7 Build/MRA58K
+mobile-BLADE V7 Build/MRA58K,3,0,0.0,mobile,BLADE V7 Build/MRA58K
+mobile-BLADE V8 Build/NRD90M,13,0,0.0,mobile,BLADE V8 Build/NRD90M
+mobile-BLADE V8 SE Build/NRD90M,97,22,0.226804,mobile,BLADE V8 SE Build/NRD90M
+mobile-BLADE V8Q Build/N2G47H,12,9,0.75,mobile,BLADE V8Q Build/N2G47H
+mobile-BLL-L23 Build/HUAWEIBLL-L23,67,3,0.044776,mobile,BLL-L23 Build/HUAWEIBLL-L23
+mobile-BLN-L21 Build/HONORBLN-L21,8,0,0.0,mobile,BLN-L21 Build/HONORBLN-L21
+mobile-BLN-L24 Build/HONORBLN-L24,5,0,0.0,mobile,BLN-L24 Build/HONORBLN-L24
+mobile-BLU,17,0,0.0,mobile,BLU
+mobile-BLU ENERGY X PLUS Build/LRX21M,5,0,0.0,mobile,BLU ENERGY X PLUS Build/LRX21M
+mobile-BLU LIFE XL Build/L050U,5,0,0.0,mobile,BLU LIFE XL Build/L050U
+mobile-BLU STUDIO C 5+5 Build/LRX21M,6,0,0.0,mobile,BLU STUDIO C 5+5 Build/LRX21M
+mobile-BND-L21 Build/HONORBND-L21,1,0,0.0,mobile,BND-L21 Build/HONORBND-L21
+mobile-BND-L34,2,0,0.0,mobile,BND-L34
+mobile-BNTV400,2,0,0.0,mobile,BNTV400
+mobile-BV6000,1,0,0.0,mobile,BV6000
+mobile-BV7000,3,0,0.0,mobile,BV7000
+mobile-BV8000Pro,1,0,0.0,mobile,BV8000Pro
+mobile-Beat,1,1,1.0,mobile,Beat
+mobile-Blade,5,0,0.0,mobile,Blade
+mobile-Blade A460 Build/LMY47O,2,0,0.0,mobile,Blade A460 Build/LMY47O
+mobile-Blade A465 Build/LMY47D,8,0,0.0,mobile,Blade A465 Build/LMY47D
+mobile-Blade A475 Build/LMY47D,5,1,0.2,mobile,Blade A475 Build/LMY47D
+mobile-Blade A510 Build/MRA58K,57,21,0.368421,mobile,Blade A510 Build/MRA58K
+mobile-Blade L2 Plus Build/KOT49H,25,9,0.36,mobile,Blade L2 Plus Build/KOT49H
+mobile-Blade L3 Build/KOT49H,12,12,1.0,mobile,Blade L3 Build/KOT49H
+mobile-Blade L5 Build/LMY47I,22,2,0.090909,mobile,Blade L5 Build/LMY47I
+mobile-Blade V580 Build/LMY47D,26,0,0.0,mobile,Blade V580 Build/LMY47D
+mobile-Blade V6 Build/LRX22G,36,1,0.027778,mobile,Blade V6 Build/LRX22G
+mobile-Blade V6 Max Build/MRA58K,21,0,0.0,mobile,Blade V6 Max Build/MRA58K
+mobile-Blade V6 Plus Build/MRA58K,76,7,0.092105,mobile,Blade V6 Plus Build/MRA58K
+mobile-Bolt,1,0,0.0,mobile,Bolt
+mobile-Build/KOT49H,1,0,0.0,mobile,Build/KOT49H
+mobile-Build/OPM1.171019.011,8,3,0.375,mobile,Build/OPM1.171019.011
+mobile-Build/OPR1.170623.032,3,0,0.0,mobile,Build/OPR1.170623.032
+mobile-Build/OPR6.170623.013,26,3,0.115385,mobile,Build/OPR6.170623.013
+mobile-C1904,2,0,0.0,mobile,C1904
+mobile-C2104,1,0,0.0,mobile,C2104
+mobile-C6603,1,0,0.0,mobile,C6603
+mobile-C6743 Build/LMY47V,19,1,0.052632,mobile,C6743 Build/LMY47V
+mobile-C6906,4,0,0.0,mobile,C6906
+mobile-C6906 Build/14.6.A.1.236,11,0,0.0,mobile,C6906 Build/14.6.A.1.236
+mobile-CAM-L03 Build/HUAWEICAM-L03,172,22,0.127907,mobile,CAM-L03 Build/HUAWEICAM-L03
+mobile-CAM-L23,1,0,0.0,mobile,CAM-L23
+mobile-CHC-U03 Build/HuaweiCHC-U03,39,1,0.025641,mobile,CHC-U03 Build/HuaweiCHC-U03
+mobile-CLT-L09,1,0,0.0,mobile,CLT-L09
+mobile-COVET Build/NRD90M,2,0,0.0,mobile,COVET Build/NRD90M
+mobile-CPH1607,1,0,0.0,mobile,CPH1607
+mobile-CPH1701,3,0,0.0,mobile,CPH1701
+mobile-CPH1723,2,0,0.0,mobile,CPH1723
+mobile-CRO-L03 Build/HUAWEICRO-L03,68,51,0.75,mobile,CRO-L03 Build/HUAWEICRO-L03
+mobile-Coolpad,1,0,0.0,mobile,Coolpad
+mobile-D2306,1,0,0.0,mobile,D2306
+mobile-D2306 Build/18.6.A.0.182,3,0,0.0,mobile,D2306 Build/18.6.A.0.182
+mobile-D2406,1,0,0.0,mobile,D2406
+mobile-D5106,1,0,0.0,mobile,D5106
+mobile-D5306 Build/19.4.A.0.182,6,0,0.0,mobile,D5306 Build/19.4.A.0.182
+mobile-D5316,2,0,0.0,mobile,D5316
+mobile-D5316 Build/19.4.A.0.182,8,0,0.0,mobile,D5316 Build/19.4.A.0.182
+mobile-D5803 Build/23.5.A.1.291,9,0,0.0,mobile,D5803 Build/23.5.A.1.291
+mobile-D6503,3,0,0.0,mobile,D6503
+mobile-D6603,1,0,0.0,mobile,D6603
+mobile-D6603 Build/23.5.A.1.291,17,0,0.0,mobile,D6603 Build/23.5.A.1.291
+mobile-D6708,2,0,0.0,mobile,D6708
+mobile-DASH,1,0,0.0,mobile,DASH
+mobile-DLI-L22 Build/HONORDLI-L22,5,0,0.0,mobile,DLI-L22 Build/HONORDLI-L22
+mobile-DOMOS,1,0,0.0,mobile,DOMOS
+mobile-DT0704K08,2,0,0.0,mobile,DT0704K08
+mobile-DUK-AL20,1,0,0.0,mobile,DUK-AL20
+mobile-Dash,1,0,0.0,mobile,Dash
+mobile-Dream,4,4,1.0,mobile,Dream
+mobile-E2006,1,0,0.0,mobile,E2006
+mobile-E2104,3,1,0.333333,mobile,E2104
+mobile-E2104 Build/24.0.A.5.14,7,4,0.571429,mobile,E2104 Build/24.0.A.5.14
+mobile-E2303,1,0,0.0,mobile,E2303
+mobile-E2306 Build/26.1.A.3.111,18,0,0.0,mobile,E2306 Build/26.1.A.3.111
+mobile-E2306 Build/26.3.A.1.33,19,5,0.263158,mobile,E2306 Build/26.3.A.1.33
+mobile-E501,1,0,0.0,mobile,E501
+mobile-E5306,1,0,0.0,mobile,E5306
+mobile-E5306 Build/27.3.A.0.129,6,4,0.666667,mobile,E5306 Build/27.3.A.0.129
+mobile-E5306 Build/27.3.A.0.165,5,0,0.0,mobile,E5306 Build/27.3.A.0.165
+mobile-E5506,4,0,0.0,mobile,E5506
+mobile-E5506 Build/29.1.A.0.101,14,1,0.071429,mobile,E5506 Build/29.1.A.0.101
+mobile-E5506 Build/29.2.A.0.166,21,0,0.0,mobile,E5506 Build/29.2.A.0.166
+mobile-E5606,4,0,0.0,mobile,E5606
+mobile-E5606 Build/30.2.A.1.21,24,2,0.083333,mobile,E5606 Build/30.2.A.1.21
+mobile-E5803,2,0,0.0,mobile,E5803
+mobile-E5803 Build/32.4.A.1.54,8,0,0.0,mobile,E5803 Build/32.4.A.1.54
+mobile-E5823,5,0,0.0,mobile,E5823
+mobile-E5823 Build/32.4.A.1.54,11,0,0.0,mobile,E5823 Build/32.4.A.1.54
+mobile-E6553,7,0,0.0,mobile,E6553
+mobile-E6603,2,0,0.0,mobile,E6603
+mobile-E6603 Build/32.4.A.1.54,21,11,0.52381,mobile,E6603 Build/32.4.A.1.54
+mobile-E6633,2,0,0.0,mobile,E6633
+mobile-E6653 Build/32.4.A.1.54,1,0,0.0,mobile,E6653 Build/32.4.A.1.54
+mobile-E6683,1,0,0.0,mobile,E6683
+mobile-E6790TM,1,0,0.0,mobile,E6790TM
+mobile-E6810,4,0,0.0,mobile,E6810
+mobile-E6810 Build/5.320VZ.03.r,5,0,0.0,mobile,E6810 Build/5.320VZ.03.r
+mobile-E6833,3,0,0.0,mobile,E6833
+mobile-E6853,4,0,0.0,mobile,E6853
+mobile-E6853 Build/32.4.A.1.54,9,2,0.222222,mobile,E6853 Build/32.4.A.1.54
+mobile-E8QP,1,0,0.0,mobile,E8QP
+mobile-EGO,2,0,0.0,mobile,EGO
+mobile-EML-L29 Build/HUAWEIEML-L29,3,0,0.0,mobile,EML-L29 Build/HUAWEIEML-L29
+mobile-EVA-L09 Build/HUAWEIEVA-L09,45,0,0.0,mobile,EVA-L09 Build/HUAWEIEVA-L09
+mobile-EVA-L19 Build/HUAWEIEVA-L19,6,0,0.0,mobile,EVA-L19 Build/HUAWEIEVA-L19
+mobile-Edison,2,0,0.0,mobile,Edison
+mobile-Energy X 2 Build/E050L,2,0,0.0,mobile,Energy X 2 Build/E050L
+mobile-F1f Build/LMY47V,5,0,0.0,mobile,F1f Build/LMY47V
+mobile-F3111 Build/33.3.A.1.115,3,0,0.0,mobile,F3111 Build/33.3.A.1.115
+mobile-F3111 Build/33.3.A.1.97,18,0,0.0,mobile,F3111 Build/33.3.A.1.97
+mobile-F3113,3,0,0.0,mobile,F3113
+mobile-F3113 Build/33.2.A.3.81,7,0,0.0,mobile,F3113 Build/33.2.A.3.81
+mobile-F3113 Build/33.2.A.4.70,6,0,0.0,mobile,F3113 Build/33.2.A.4.70
+mobile-F3113 Build/33.3.A.1.97,73,3,0.041096,mobile,F3113 Build/33.3.A.1.97
+mobile-F3213,2,0,0.0,mobile,F3213
+mobile-F3213 Build/36.0.A.2.146,27,0,0.0,mobile,F3213 Build/36.0.A.2.146
+mobile-F3213 Build/36.1.A.1.86,98,3,0.030612,mobile,F3213 Build/36.1.A.1.86
+mobile-F3311,4,0,0.0,mobile,F3311
+mobile-F3313,1,0,0.0,mobile,F3313
+mobile-F3313 Build/37.0.A.2.108,50,13,0.26,mobile,F3313 Build/37.0.A.2.108
+mobile-F3313 Build/37.0.A.2.248,23,0,0.0,mobile,F3313 Build/37.0.A.2.248
+mobile-F5121,6,0,0.0,mobile,F5121
+mobile-F5121 Build/34.3.A.0.228,13,0,0.0,mobile,F5121 Build/34.3.A.0.228
+mobile-F5121 Build/34.3.A.0.238,45,23,0.511111,mobile,F5121 Build/34.3.A.0.238
+mobile-F5121 Build/34.3.A.0.252,52,25,0.480769,mobile,F5121 Build/34.3.A.0.252
+mobile-F5121 Build/34.4.A.2.19,6,0,0.0,mobile,F5121 Build/34.4.A.2.19
+mobile-F5122,1,0,0.0,mobile,F5122
+mobile-F5321,7,0,0.0,mobile,F5321
+mobile-F5321 Build/34.2.A.2.47,1,0,0.0,mobile,F5321 Build/34.2.A.2.47
+mobile-F5321 Build/34.3.A.0.238,16,0,0.0,mobile,F5321 Build/34.3.A.0.238
+mobile-F80 PIABELLA Build/MRA58K,3,0,0.0,mobile,F80 PIABELLA Build/MRA58K
+mobile-F80'S+,3,0,0.0,mobile,F80'S+
+mobile-F8131,1,0,0.0,mobile,F8131
+mobile-F8331,9,0,0.0,mobile,F8331
+mobile-F8331 Build/41.2.A.7.76,19,5,0.263158,mobile,F8331 Build/41.2.A.7.76
+mobile-F8332,1,0,0.0,mobile,F8332
+mobile-FEVER,2,0,0.0,mobile,FEVER
+mobile-FIG-LX3 Build/HUAWEIFIG-LX3,17,0,0.0,mobile,FIG-LX3 Build/HUAWEIFIG-LX3
+mobile-FP2,4,0,0.0,mobile,FP2
+mobile-FRD-L04 Build/HUAWEIFRD-L04,7,0,0.0,mobile,FRD-L04 Build/HUAWEIFRD-L04
+mobile-FRD-L09 Build/HUAWEIFRD-L09,20,9,0.45,mobile,FRD-L09 Build/HUAWEIFRD-L09
+mobile-FRD-L14 Build/HUAWEIFRD-L14,4,0,0.0,mobile,FRD-L14 Build/HUAWEIFRD-L14
+mobile-FTJ152D,1,0,0.0,mobile,FTJ152D
+mobile-Fractal,5,3,0.6,mobile,Fractal
+mobile-Fusion5_u7,1,0,0.0,mobile,Fusion5_u7
+mobile-G25524K,1,0,0.0,mobile,G25524K
+mobile-G3123,7,3,0.428571,mobile,G3123
+mobile-G3123 Build/40.0.A.6.135,4,0,0.0,mobile,G3123 Build/40.0.A.6.135
+mobile-G3123 Build/40.0.A.6.175,12,12,1.0,mobile,G3123 Build/40.0.A.6.175
+mobile-G3123 Build/40.0.A.6.189,4,0,0.0,mobile,G3123 Build/40.0.A.6.189
+mobile-G3223,5,0,0.0,mobile,G3223
+mobile-G3223 Build/42.0.A.4.101,22,0,0.0,mobile,G3223 Build/42.0.A.4.101
+mobile-G3223 Build/42.0.A.4.167,9,0,0.0,mobile,G3223 Build/42.0.A.4.167
+mobile-G3313,3,0,0.0,mobile,G3313
+mobile-G3313 Build/43.0.A.5.79,38,0,0.0,mobile,G3313 Build/43.0.A.5.79
+mobile-G3313 Build/43.0.A.7.25,6,0,0.0,mobile,G3313 Build/43.0.A.7.25
+mobile-G3423,6,4,0.666667,mobile,G3423
+mobile-G527-U081,2,0,0.0,mobile,G527-U081
+mobile-G620S-L03,2,0,0.0,mobile,G620S-L03
+mobile-G630-U251,1,0,0.0,mobile,G630-U251
+mobile-G8141,8,1,0.125,mobile,G8141
+mobile-G8141 Build/47.1.A.5.51,5,0,0.0,mobile,G8141 Build/47.1.A.5.51
+mobile-G8142,1,0,0.0,mobile,G8142
+mobile-G8341,1,0,0.0,mobile,G8341
+mobile-GRACE,1,0,0.0,mobile,GRACE
+mobile-GRANT,2,0,0.0,mobile,GRANT
+mobile-GT-I8190L Build/JZO54K,7,2,0.285714,mobile,GT-I8190L Build/JZO54K
+mobile-GT-I8190N,1,0,0.0,mobile,GT-I8190N
+mobile-GT-I8200N,1,0,0.0,mobile,GT-I8200N
+mobile-GT-I9060L Build/JDQ39,7,0,0.0,mobile,GT-I9060L Build/JDQ39
+mobile-GT-I9060M Build/KTU84P,57,19,0.333333,mobile,GT-I9060M Build/KTU84P
+mobile-GT-I9195I,1,0,0.0,mobile,GT-I9195I
+mobile-GT-I9195L,2,1,0.5,mobile,GT-I9195L
+mobile-GT-I9300,4,0,0.0,mobile,GT-I9300
+mobile-GT-I9500,4,0,0.0,mobile,GT-I9500
+mobile-GT-I9505 Build/LRX22C,4,0,0.0,mobile,GT-I9505 Build/LRX22C
+mobile-GT-I9506,3,0,0.0,mobile,GT-I9506
+mobile-GT-I9515,2,0,0.0,mobile,GT-I9515
+mobile-GT-N5110,1,0,0.0,mobile,GT-N5110
+mobile-GT-N5110 Build/JDQ39,5,0,0.0,mobile,GT-N5110 Build/JDQ39
+mobile-GT-N7100,2,0,0.0,mobile,GT-N7100
+mobile-GT-N8000,2,0,0.0,mobile,GT-N8000
+mobile-GT-N8010,1,0,0.0,mobile,GT-N8010
+mobile-GT-P3100,1,0,0.0,mobile,GT-P3100
+mobile-GT-P5110,2,0,0.0,mobile,GT-P5110
+mobile-GT-P5113,3,0,0.0,mobile,GT-P5113
+mobile-GT-P5210 Build/JDQ39,11,0,0.0,mobile,GT-P5210 Build/JDQ39
+mobile-GT-P5210 Build/KOT49H,4,0,0.0,mobile,GT-P5210 Build/KOT49H
+mobile-GT-S5310L,1,0,0.0,mobile,GT-S5310L
+mobile-GT-S7275B,1,0,0.0,mobile,GT-S7275B
+mobile-GT-S7390,2,0,0.0,mobile,GT-S7390
+mobile-GT-S7580L Build/JDQ39,13,0,0.0,mobile,GT-S7580L Build/JDQ39
+mobile-GT-S7582,1,0,0.0,mobile,GT-S7582
+mobile-GT-S7582L,1,0,0.0,mobile,GT-S7582L
+mobile-Gigaset,1,0,0.0,mobile,Gigaset
+mobile-Grand,2,0,0.0,mobile,Grand
+mobile-Grand2c,1,0,0.0,mobile,Grand2c
+mobile-Gravity Build/NRD90M,2,0,0.0,mobile,Gravity Build/NRD90M
+mobile-H1611,1,0,0.0,mobile,H1611
+mobile-H1711 Build/HUAWEIH1711,9,1,0.111111,mobile,H1711 Build/HUAWEIH1711
+mobile-H3321,1,0,0.0,mobile,H3321
+mobile-H550,1,0,0.0,mobile,H550
+mobile-HELIO,1,0,0.0,mobile,HELIO
+mobile-HIGHWAY,3,0,0.0,mobile,HIGHWAY
+mobile-HP,2,0,0.0,mobile,HP
+mobile-HT0701A16,1,0,0.0,mobile,HT0701A16
+mobile-HT0703K16,1,0,0.0,mobile,HT0703K16
+mobile-HTC,16,0,0.0,mobile,HTC
+mobile-HTC 10 Build/NRD90M,5,0,0.0,mobile,HTC 10 Build/NRD90M
+mobile-HTC Desire 10 lifestyle Build/MMB29M,94,22,0.234043,mobile,HTC Desire 10 lifestyle Build/MMB29M
+mobile-HTC Desire 510 Build/KOT49H,5,0,0.0,mobile,HTC Desire 510 Build/KOT49H
+mobile-HTC Desire 526G Build/KOT49H,5,0,0.0,mobile,HTC Desire 526G Build/KOT49H
+mobile-HTC Desire 530 Build/MMB29M,51,4,0.078431,mobile,HTC Desire 530 Build/MMB29M
+mobile-HTC Desire 626s Build/LMY47O,67,6,0.089552,mobile,HTC Desire 626s Build/LMY47O
+mobile-HTC Desire 650 Build/MMB29M,58,0,0.0,mobile,HTC Desire 650 Build/MMB29M
+mobile-HTC One A9 Build/NRD90M,5,0,0.0,mobile,HTC One A9 Build/NRD90M
+mobile-HTC One A9s Build/MRA58K,23,0,0.0,mobile,HTC One A9s Build/MRA58K
+mobile-HTC One Build/LRX22G,5,1,0.2,mobile,HTC One Build/LRX22G
+mobile-HTC One M9 Build/NRD90M,20,2,0.1,mobile,HTC One M9 Build/NRD90M
+mobile-HTC One mini Build/KOT49H,4,0,0.0,mobile,HTC One mini Build/KOT49H
+mobile-HTC One_M8 Build/MRA58K,16,0,0.0,mobile,HTC One_M8 Build/MRA58K
+mobile-HTC U11 Build/NMF26X,6,0,0.0,mobile,HTC U11 Build/NMF26X
+mobile-HTC U11 Build/OPR6.170623.013,1,0,0.0,mobile,HTC U11 Build/OPR6.170623.013
+mobile-HTC6500LVW,1,0,0.0,mobile,HTC6500LVW
+mobile-HTC6525LVW,1,0,0.0,mobile,HTC6525LVW
+mobile-HTC6535LVW,4,0,0.0,mobile,HTC6535LVW
+mobile-HTC6545LVW,4,0,0.0,mobile,HTC6545LVW
+mobile-HTCD100LVWPP,4,0,0.0,mobile,HTCD100LVWPP
+mobile-HTCD160LVWPP,2,0,0.0,mobile,HTCD160LVWPP
+mobile-HTCD200LVW,2,0,0.0,mobile,HTCD200LVW
+mobile-HTC_D10i,1,0,0.0,mobile,HTC_D10i
+mobile-HTC_Desire_820,1,0,0.0,mobile,HTC_Desire_820
+mobile-HTC_One,1,0,0.0,mobile,HTC_One
+mobile-HTC_One_M8/4.28.502.2,1,0,0.0,mobile,HTC_One_M8/4.28.502.2
+mobile-HTC_One_M8s/2.12.111.1,1,0,0.0,mobile,HTC_One_M8s/2.12.111.1
+mobile-HUAWEI,36,4,0.111111,mobile,HUAWEI
+mobile-HUAWEI Build/MMB28B,4,0,0.0,mobile,HUAWEI Build/MMB28B
+mobile-HUAWEI CAN-L01 Build/HUAWEICAN-L01,5,0,0.0,mobile,HUAWEI CAN-L01 Build/HUAWEICAN-L01
+mobile-HUAWEI CAN-L11 Build/HUAWEICAN-L11,6,0,0.0,mobile,HUAWEI CAN-L11 Build/HUAWEICAN-L11
+mobile-HUAWEI CUN-L03 Build/HUAWEICUN-L03,59,7,0.118644,mobile,HUAWEI CUN-L03 Build/HUAWEICUN-L03
+mobile-HUAWEI G7-L03 Build/HuaweiG7-L03,81,9,0.111111,mobile,HUAWEI G7-L03 Build/HuaweiG7-L03
+mobile-HUAWEI GRA-L09 Build/HUAWEIGRA-L09,2,0,0.0,mobile,HUAWEI GRA-L09 Build/HUAWEIGRA-L09
+mobile-HUAWEI LUA-U23 Build/HUAWEILUA-U23,1,0,0.0,mobile,HUAWEI LUA-U23 Build/HUAWEILUA-U23
+mobile-HUAWEI LYO-L21 Build/HUAWEILYO-L21,1,0,0.0,mobile,HUAWEI LYO-L21 Build/HUAWEILYO-L21
+mobile-HUAWEI M2-801W Build/HUAWEIM2-801W,5,0,0.0,mobile,HUAWEI M2-801W Build/HUAWEIM2-801W
+mobile-HUAWEI NXT-L09 Build/HUAWEINXT-L09,27,7,0.259259,mobile,HUAWEI NXT-L09 Build/HUAWEINXT-L09
+mobile-HUAWEI RIO-L03 Build/HUAWEIRIO-L03,85,1,0.011765,mobile,HUAWEI RIO-L03 Build/HUAWEIRIO-L03
+mobile-HUAWEI TAG-L13 Build/HUAWEITAG-L13,103,11,0.106796,mobile,HUAWEI TAG-L13 Build/HUAWEITAG-L13
+mobile-HUAWEI VNS-L21 Build/HUAWEIVNS-L21,4,0,0.0,mobile,HUAWEI VNS-L21 Build/HUAWEIVNS-L21
+mobile-HUAWEI VNS-L23 Build/HUAWEIVNS-L23,112,15,0.133929,mobile,HUAWEI VNS-L23 Build/HUAWEIVNS-L23
+mobile-HUAWEI VNS-L31 Build/HUAWEIVNS-L31,20,0,0.0,mobile,HUAWEI VNS-L31 Build/HUAWEIVNS-L31
+mobile-HUAWEI VNS-L53 Build/HUAWEIVNS-L53,113,5,0.044248,mobile,HUAWEI VNS-L53 Build/HUAWEIVNS-L53
+mobile-HUAWEI Y360-U23 Build/HUAWEIY360-U23,6,3,0.5,mobile,HUAWEI Y360-U23 Build/HUAWEIY360-U23
+mobile-HUAWEI Y520-U03 Build/HUAWEIY520-U03,6,3,0.5,mobile,HUAWEI Y520-U03 Build/HUAWEIY520-U03
+mobile-HUAWEI Y560-L03 Build/HUAWEIY560-L03,10,0,0.0,mobile,HUAWEI Y560-L03 Build/HUAWEIY560-L03
+mobile-HUAWEI Y625-U13 Build/HUAWEIY625-U13,9,0,0.0,mobile,HUAWEI Y625-U13 Build/HUAWEIY625-U13
+mobile-Helix,1,0,0.0,mobile,Helix
+mobile-Hisense,9,0,0.0,mobile,Hisense
+mobile-Hisense E51 Build/LMY47V,3,3,1.0,mobile,Hisense E51 Build/LMY47V
+mobile-Hisense F102 Build/NRD90M,10,0,0.0,mobile,Hisense F102 Build/NRD90M
+mobile-Hisense F20 Build/MMB29M,31,0,0.0,mobile,Hisense F20 Build/MMB29M
+mobile-Hisense F23 Build/NRD90M,61,6,0.098361,mobile,Hisense F23 Build/NRD90M
+mobile-Hisense F24 Build/NRD90M,1,0,0.0,mobile,Hisense F24 Build/NRD90M
+mobile-Hisense F32 Build/NMF26F,6,0,0.0,mobile,Hisense F32 Build/NMF26F
+mobile-Hisense F8 MINI Build/NRD90M,3,0,0.0,mobile,Hisense F8 MINI Build/NRD90M
+mobile-Hisense L675 Build/MRA58K,60,32,0.533333,mobile,Hisense L675 Build/MRA58K
+mobile-Hisense L675 PRO Build/NRD90M,6,0,0.0,mobile,Hisense L675 PRO Build/NRD90M
+mobile-Hisense T963 Build/MRA58K,2,0,0.0,mobile,Hisense T963 Build/MRA58K
+mobile-Hisense U963 Build/MRA58K,29,7,0.241379,mobile,Hisense U963 Build/MRA58K
+mobile-ICON,1,0,0.0,mobile,ICON
+mobile-ILIUM,13,0,0.0,mobile,ILIUM
+mobile-IO,1,0,0.0,mobile,IO
+mobile-IdeaTab,2,0,0.0,mobile,IdeaTab
+mobile-IdeaTabA1000-F,1,0,0.0,mobile,IdeaTabA1000-F
+mobile-IdeaTabA2109A,1,0,0.0,mobile,IdeaTabA2109A
+mobile-Ilium,5,0,0.0,mobile,Ilium
+mobile-Ilium L1000 Build/LRX22G,2,0,0.0,mobile,Ilium L1000 Build/LRX22G
+mobile-Ilium L1120 Build/NRD90M,19,2,0.105263,mobile,Ilium L1120 Build/NRD90M
+mobile-Ilium L610 Build/MRA58K,8,0,0.0,mobile,Ilium L610 Build/MRA58K
+mobile-Ilium L620 Build/NRD90M,9,0,0.0,mobile,Ilium L620 Build/NRD90M
+mobile-Ilium L910 Build/MRA58K,21,0,0.0,mobile,Ilium L910 Build/MRA58K
+mobile-Ilium L950 Build/KTU84P,7,0,0.0,mobile,Ilium L950 Build/KTU84P
+mobile-Ilium LT500 Build/LMY47O,11,0,0.0,mobile,Ilium LT500 Build/LMY47O
+mobile-Ilium LT510 Build/MRA58K,46,0,0.0,mobile,Ilium LT510 Build/MRA58K
+mobile-Ilium LT520 Build/NRD90M,6,0,0.0,mobile,Ilium LT520 Build/NRD90M
+mobile-Ilium Pad T7X Build/LMY47I,2,1,0.5,mobile,Ilium Pad T7X Build/LMY47I
+mobile-Ilium X210 Build/LMY47I,10,0,0.0,mobile,Ilium X210 Build/LMY47I
+mobile-Ilium X220 Build/MRA58K,2,0,0.0,mobile,Ilium X220 Build/MRA58K
+mobile-Ilium X510 Build/MRA58K,37,8,0.216216,mobile,Ilium X510 Build/MRA58K
+mobile-Ilium X520 Build/NRD90M,15,0,0.0,mobile,Ilium X520 Build/NRD90M
+mobile-Ilium X710 Build/MRA58K,28,0,0.0,mobile,Ilium X710 Build/MRA58K
+mobile-Infinit,1,0,0.0,mobile,Infinit
+mobile-Infinix,1,0,0.0,mobile,Infinix
+mobile-Joy,2,0,0.0,mobile,Joy
+mobile-K10,1,0,0.0,mobile,K10
+mobile-K88,1,0,0.0,mobile,K88
+mobile-K88 Build/MMB29M,10,0,0.0,mobile,K88 Build/MMB29M
+mobile-K90U,2,0,0.0,mobile,K90U
+mobile-K92,1,0,0.0,mobile,K92
+mobile-KFAPWI Build/KTU84M,7,0,0.0,mobile,KFAPWI Build/KTU84M
+mobile-KFASWI Build/LVY48F,5,0,0.0,mobile,KFASWI Build/LVY48F
+mobile-KFAUWI Build/LVY48F,9,1,0.111111,mobile,KFAUWI Build/LVY48F
+mobile-KFDOWI Build/LVY48F,30,2,0.066667,mobile,KFDOWI Build/LVY48F
+mobile-KFFOWI Build/LVY48F,63,51,0.809524,mobile,KFFOWI Build/LVY48F
+mobile-KFGIWI Build/LVY48F,22,0,0.0,mobile,KFGIWI Build/LVY48F
+mobile-KFJWI,3,0,0.0,mobile,KFJWI
+mobile-KFMEWI,3,0,0.0,mobile,KFMEWI
+mobile-KFSAWI,4,0,0.0,mobile,KFSAWI
+mobile-KFSOWI,3,0,0.0,mobile,KFSOWI
+mobile-KFSUWI Build/LVY48F,13,0,0.0,mobile,KFSUWI Build/LVY48F
+mobile-KFTBWI Build/LVY48F,12,0,0.0,mobile,KFTBWI Build/LVY48F
+mobile-KFTHWI Build/KTU84M,12,0,0.0,mobile,KFTHWI Build/KTU84M
+mobile-KFTT Build/IML74K,10,0,0.0,mobile,KFTT Build/IML74K
+mobile-KIW-L24,4,0,0.0,mobile,KIW-L24
+mobile-KYOCERA-C6742A Build/LMY47V,3,0,0.0,mobile,KYOCERA-C6742A Build/LMY47V
+mobile-KYY22,1,0,0.0,mobile,KYY22
+mobile-Kylin,1,0,0.0,mobile,Kylin
+mobile-LAVA_A3,1,0,0.0,mobile,LAVA_A3
+mobile-LDN-LX3 Build/HUAWEILDN-LX3,1,0,0.0,mobile,LDN-LX3 Build/HUAWEILDN-LX3
+mobile-LEX829,1,0,0.0,mobile,LEX829
+mobile-LG-D213,3,0,0.0,mobile,LG-D213
+mobile-LG-D320,1,0,0.0,mobile,LG-D320
+mobile-LG-D320 Build/KOT49I.V10a,8,0,0.0,mobile,LG-D320 Build/KOT49I.V10a
+mobile-LG-D331,6,3,0.5,mobile,LG-D331
+mobile-LG-D331 Build/LRX22G,21,0,0.0,mobile,LG-D331 Build/LRX22G
+mobile-LG-D373,1,0,0.0,mobile,LG-D373
+mobile-LG-D373 Build/KOT49I.V10a,8,0,0.0,mobile,LG-D373 Build/KOT49I.V10a
+mobile-LG-D400,1,0,0.0,mobile,LG-D400
+mobile-LG-D625,3,0,0.0,mobile,LG-D625
+mobile-LG-D680,1,0,0.0,mobile,LG-D680
+mobile-LG-D680 Build/KOT49I,37,17,0.459459,mobile,LG-D680 Build/KOT49I
+mobile-LG-D681,1,0,0.0,mobile,LG-D681
+mobile-LG-D693n,3,0,0.0,mobile,LG-D693n
+mobile-LG-D693n Build/KOT49I.V10a,1,1,1.0,mobile,LG-D693n Build/KOT49I.V10a
+mobile-LG-D693n Build/LRX22G,140,0,0.0,mobile,LG-D693n Build/LRX22G
+mobile-LG-D722,3,0,0.0,mobile,LG-D722
+mobile-LG-D725,1,0,0.0,mobile,LG-D725
+mobile-LG-D802,1,0,0.0,mobile,LG-D802
+mobile-LG-D850,5,0,0.0,mobile,LG-D850
+mobile-LG-D851,1,0,0.0,mobile,LG-D851
+mobile-LG-D855,5,1,0.2,mobile,LG-D855
+mobile-LG-D855 Build/LRX21R,9,2,0.222222,mobile,LG-D855 Build/LRX21R
+mobile-LG-D959,1,0,0.0,mobile,LG-D959
+mobile-LG-E450f,2,0,0.0,mobile,LG-E450f
+mobile-LG-E975,2,0,0.0,mobile,LG-E975
+mobile-LG-E980h,1,0,0.0,mobile,LG-E980h
+mobile-LG-F400K,1,0,0.0,mobile,LG-F400K
+mobile-LG-H320 Build/LRX21Y,18,2,0.111111,mobile,LG-H320 Build/LRX21Y
+mobile-LG-H340AR,1,0,0.0,mobile,LG-H340AR
+mobile-LG-H343,1,0,0.0,mobile,LG-H343
+mobile-LG-H345,1,0,0.0,mobile,LG-H345
+mobile-LG-H420 Build/LRX21Y,15,1,0.066667,mobile,LG-H420 Build/LRX21Y
+mobile-LG-H443/H44312g,2,0,0.0,mobile,LG-H443/H44312g
+mobile-LG-H500 Build/LRX21Y,63,3,0.047619,mobile,LG-H500 Build/LRX21Y
+mobile-LG-H520,1,0,0.0,mobile,LG-H520
+mobile-LG-H525n Build/MRA58K,2,0,0.0,mobile,LG-H525n Build/MRA58K
+mobile-LG-H540,2,0,0.0,mobile,LG-H540
+mobile-LG-H542 Build/LRX22G,13,0,0.0,mobile,LG-H542 Build/LRX22G
+mobile-LG-H542 Build/MRA58K,67,1,0.014925,mobile,LG-H542 Build/MRA58K
+mobile-LG-H631,4,0,0.0,mobile,LG-H631
+mobile-LG-H650 Build/LMY47V,4,0,0.0,mobile,LG-H650 Build/LMY47V
+mobile-LG-H650 Build/MRA58K,50,27,0.54,mobile,LG-H650 Build/MRA58K
+mobile-LG-H700 Build/NRD90U,5,0,0.0,mobile,LG-H700 Build/NRD90U
+mobile-LG-H735 Build/LMY47V,2,0,0.0,mobile,LG-H735 Build/LMY47V
+mobile-LG-H810,4,0,0.0,mobile,LG-H810
+mobile-LG-H810/H81021z,1,0,0.0,mobile,LG-H810/H81021z
+mobile-LG-H810/H81022f,1,0,0.0,mobile,LG-H810/H81022f
+mobile-LG-H811 Build/MRA58K,6,0,0.0,mobile,LG-H811 Build/MRA58K
+mobile-LG-H812,2,0,0.0,mobile,LG-H812
+mobile-LG-H815,3,0,0.0,mobile,LG-H815
+mobile-LG-H815 Build/MRA58K,7,0,0.0,mobile,LG-H815 Build/MRA58K
+mobile-LG-H820,2,0,0.0,mobile,LG-H820
+mobile-LG-H820 Build/NRD90U,6,0,0.0,mobile,LG-H820 Build/NRD90U
+mobile-LG-H830,2,0,0.0,mobile,LG-H830
+mobile-LG-H830 Build/NRD90U,4,0,0.0,mobile,LG-H830 Build/NRD90U
+mobile-LG-H831 Build/NRD90U,5,0,0.0,mobile,LG-H831 Build/NRD90U
+mobile-LG-H840 Build/MMB29M,28,0,0.0,mobile,LG-H840 Build/MMB29M
+mobile-LG-H840 Build/NRD90U,60,7,0.116667,mobile,LG-H840 Build/NRD90U
+mobile-LG-H850,2,0,0.0,mobile,LG-H850
+mobile-LG-H850 Build/MMB29M,14,0,0.0,mobile,LG-H850 Build/MMB29M
+mobile-LG-H870 Build/NRD90U,86,1,0.011628,mobile,LG-H870 Build/NRD90U
+mobile-LG-H870DS Build/NRD90U,5,0,0.0,mobile,LG-H870DS Build/NRD90U
+mobile-LG-H871,6,0,0.0,mobile,LG-H871
+mobile-LG-H872 Build/NRD90U,17,0,0.0,mobile,LG-H872 Build/NRD90U
+mobile-LG-H900/H90022b,2,0,0.0,mobile,LG-H900/H90022b
+mobile-LG-H901,4,0,0.0,mobile,LG-H901
+mobile-LG-H910 Build/NRD90M,8,0,0.0,mobile,LG-H910 Build/NRD90M
+mobile-LG-H918 Build/NRD90M,17,0,0.0,mobile,LG-H918 Build/NRD90M
+mobile-LG-H931,1,0,0.0,mobile,LG-H931
+mobile-LG-H932,2,0,0.0,mobile,LG-H932
+mobile-LG-H933,1,0,0.0,mobile,LG-H933
+mobile-LG-H960,2,0,0.0,mobile,LG-H960
+mobile-LG-H990 Build/NRD90M,6,0,0.0,mobile,LG-H990 Build/NRD90M
+mobile-LG-K200 Build/MXB48T,85,5,0.058824,mobile,LG-K200 Build/MXB48T
+mobile-LG-K212,1,0,0.0,mobile,LG-K212
+mobile-LG-K220 Build/MXB48T,27,4,0.148148,mobile,LG-K220 Build/MXB48T
+mobile-LG-K240 Build/MXB48T,13,0,0.0,mobile,LG-K240 Build/MXB48T
+mobile-LG-K330,3,2,0.666667,mobile,LG-K330
+mobile-LG-K350,1,0,0.0,mobile,LG-K350
+mobile-LG-K371,4,2,0.5,mobile,LG-K371
+mobile-LG-K373,3,0,0.0,mobile,LG-K373
+mobile-LG-K410 Build/LRX22G,134,4,0.029851,mobile,LG-K410 Build/LRX22G
+mobile-LG-K420,3,0,0.0,mobile,LG-K420
+mobile-LG-K428 Build/MMB29M,5,0,0.0,mobile,LG-K428 Build/MMB29M
+mobile-LG-K428 Build/NRD90U,4,0,0.0,mobile,LG-K428 Build/NRD90U
+mobile-LG-K430 Build/MRA58K,15,0,0.0,mobile,LG-K430 Build/MRA58K
+mobile-LG-K450 Build/MXB48T,7,0,0.0,mobile,LG-K450 Build/MXB48T
+mobile-LG-K500 Build/MMB29M,92,0,0.0,mobile,LG-K500 Build/MMB29M
+mobile-LG-K530 Build/MMB29M,75,6,0.08,mobile,LG-K530 Build/MMB29M
+mobile-LG-K530 Build/NRD90U,9,0,0.0,mobile,LG-K530 Build/NRD90U
+mobile-LG-K540 Build/MMB29M,6,0,0.0,mobile,LG-K540 Build/MMB29M
+mobile-LG-K550,3,0,0.0,mobile,LG-K550
+mobile-LG-K550 Build/NRD90U,4,0,0.0,mobile,LG-K550 Build/NRD90U
+mobile-LG-K580 Build/MRA58K,117,17,0.145299,mobile,LG-K580 Build/MRA58K
+mobile-LG-LG870,1,0,0.0,mobile,LG-LG870
+mobile-LG-LK460,2,0,0.0,mobile,LG-LK460
+mobile-LG-LS777 Build/NRD90U,7,0,0.0,mobile,LG-LS777 Build/NRD90U
+mobile-LG-LS993 Build/NRD90U,10,0,0.0,mobile,LG-LS993 Build/NRD90U
+mobile-LG-LS995,1,0,0.0,mobile,LG-LS995
+mobile-LG-LS997 Build/NRD90M,10,0,0.0,mobile,LG-LS997 Build/NRD90M
+mobile-LG-LS998,3,0,0.0,mobile,LG-LS998
+mobile-LG-M150,2,0,0.0,mobile,LG-M150
+mobile-LG-M153 Build/MXB48T,7,0,0.0,mobile,LG-M153 Build/MXB48T
+mobile-LG-M154,3,0,0.0,mobile,LG-M154
+mobile-LG-M200 Build/NRD90U,3,0,0.0,mobile,LG-M200 Build/NRD90U
+mobile-LG-M210 Build/NRD90U,10,0,0.0,mobile,LG-M210 Build/NRD90U
+mobile-LG-M250 Build/NRD90U,47,0,0.0,mobile,LG-M250 Build/NRD90U
+mobile-LG-M255,1,0,0.0,mobile,LG-M255
+mobile-LG-M257,2,0,0.0,mobile,LG-M257
+mobile-LG-M320 Build/NRD90U,28,2,0.071429,mobile,LG-M320 Build/NRD90U
+mobile-LG-M322,2,0,0.0,mobile,LG-M322
+mobile-LG-M327 Build/NRD90U,5,1,0.2,mobile,LG-M327 Build/NRD90U
+mobile-LG-M400 Build/NRD90U,28,0,0.0,mobile,LG-M400 Build/NRD90U
+mobile-LG-M430 Build/NRD90U,4,0,0.0,mobile,LG-M430 Build/NRD90U
+mobile-LG-M700 Build/NMF26X,169,29,0.171598,mobile,LG-M700 Build/NMF26X
+mobile-LG-M710 Build/NRD90U,9,0,0.0,mobile,LG-M710 Build/NRD90U
+mobile-LG-P708g,2,0,0.0,mobile,LG-P708g
+mobile-LG-P714,3,0,0.0,mobile,LG-P714
+mobile-LG-SP200,1,0,0.0,mobile,LG-SP200
+mobile-LG-SP320,2,1,0.5,mobile,LG-SP320
+mobile-LG-TP260 Build/NRD90U,13,0,0.0,mobile,LG-TP260 Build/NRD90U
+mobile-LG-TP450 Build/NRD90U,10,0,0.0,mobile,LG-TP450 Build/NRD90U
+mobile-LG-V410,6,0,0.0,mobile,LG-V410
+mobile-LG-V410/V41020c,1,0,0.0,mobile,LG-V410/V41020c
+mobile-LG-V495,5,0,0.0,mobile,LG-V495
+mobile-LG-V495/V49520l,1,0,0.0,mobile,LG-V495/V49520l
+mobile-LG-V496,1,0,0.0,mobile,LG-V496
+mobile-LG-V500,1,0,0.0,mobile,LG-V500
+mobile-LG-V520,1,0,0.0,mobile,LG-V520
+mobile-LG-V521,4,0,0.0,mobile,LG-V521
+mobile-LG-V522,1,0,0.0,mobile,LG-V522
+mobile-LG-V700,1,0,0.0,mobile,LG-V700
+mobile-LG-V930,1,0,0.0,mobile,LG-V930
+mobile-LG-X165g Build/LRX21M,45,0,0.0,mobile,LG-X165g Build/LRX21M
+mobile-LG-X180g Build/LMY47I,82,5,0.060976,mobile,LG-X180g Build/LMY47I
+mobile-LG-X210 Build/LMY47I,44,0,0.0,mobile,LG-X210 Build/LMY47I
+mobile-LG-X220 Build/LMY47I,48,6,0.125,mobile,LG-X220 Build/LMY47I
+mobile-LG-X230 Build/MRA58K,111,12,0.108108,mobile,LG-X230 Build/MRA58K
+mobile-LG-X240 Build/MRA58K,65,14,0.215385,mobile,LG-X240 Build/MRA58K
+mobile-LGL163BL,2,0,0.0,mobile,LGL163BL
+mobile-LGL164VL Build/NRD90U,4,0,0.0,mobile,LGL164VL Build/NRD90U
+mobile-LGL33L/V100,1,0,0.0,mobile,LGL33L/V100
+mobile-LGL41C,1,0,0.0,mobile,LGL41C
+mobile-LGL52VL Build/LMY47V,2,0,0.0,mobile,LGL52VL Build/LMY47V
+mobile-LGL57BL,1,0,0.0,mobile,LGL57BL
+mobile-LGL58VL,2,0,0.0,mobile,LGL58VL
+mobile-LGL62VL,2,0,0.0,mobile,LGL62VL
+mobile-LGL83BL,3,0,0.0,mobile,LGL83BL
+mobile-LGL84VL Build/NRD90U,3,0,0.0,mobile,LGL84VL Build/NRD90U
+mobile-LGLK430,1,1,1.0,mobile,LGLK430
+mobile-LGLS665 Build/LMY47V,4,0,0.0,mobile,LGLS665 Build/LMY47V
+mobile-LGLS675 Build/LMY47V,2,0,0.0,mobile,LGLS675 Build/LMY47V
+mobile-LGLS676 Build/MXB48T,35,8,0.228571,mobile,LGLS676 Build/MXB48T
+mobile-LGLS751,3,0,0.0,mobile,LGLS751
+mobile-LGLS755,1,0,0.0,mobile,LGLS755
+mobile-LGLS770,4,0,0.0,mobile,LGLS770
+mobile-LGLS775 Build/MMB29M,2,0,0.0,mobile,LGLS775 Build/MMB29M
+mobile-LGLS775 Build/NRD90U,28,2,0.071429,mobile,LGLS775 Build/NRD90U
+mobile-LGLS990,3,0,0.0,mobile,LGLS990
+mobile-LGLS991,3,0,0.0,mobile,LGLS991
+mobile-LGLS992,4,0,0.0,mobile,LGLS992
+mobile-LGMP260 Build/NRD90U,42,7,0.166667,mobile,LGMP260 Build/NRD90U
+mobile-LGMP450 Build/NRD90U,15,0,0.0,mobile,LGMP450 Build/NRD90U
+mobile-LGMS210 Build/NRD90U,21,5,0.238095,mobile,LGMS210 Build/NRD90U
+mobile-LGMS323,1,0,0.0,mobile,LGMS323
+mobile-LGMS330 Build/LMY47V,7,0,0.0,mobile,LGMS330 Build/LMY47V
+mobile-LGMS345,1,0,0.0,mobile,LGMS345
+mobile-LGMS395,1,0,0.0,mobile,LGMS395
+mobile-LGMS428,3,0,0.0,mobile,LGMS428
+mobile-LGMS550 Build/MXB48T,5,0,0.0,mobile,LGMS550 Build/MXB48T
+mobile-LGMS550 Build/NRD90U,10,2,0.2,mobile,LGMS550 Build/NRD90U
+mobile-LGMS631 Build/MRA58K,5,0,0.0,mobile,LGMS631 Build/MRA58K
+mobile-LGUS215 Build/NRD90U,5,0,0.0,mobile,LGUS215 Build/NRD90U
+mobile-LGUS990,1,0,0.0,mobile,LGUS990
+mobile-LGUS991,2,0,0.0,mobile,LGUS991
+mobile-LGUS992,1,0,0.0,mobile,LGUS992
+mobile-LIMIT,3,0,0.0,mobile,LIMIT
+mobile-LM-X210(G,5,4,0.8,mobile,LM-X210(G
+mobile-LOGIC,2,0,0.0,mobile,LOGIC
+mobile-LS5,1,0,0.0,mobile,LS5
+mobile-LT22i Build/6.2.A.1.100,6,5,0.833333,mobile,LT22i Build/6.2.A.1.100
+mobile-LT30p,2,0,0.0,mobile,LT30p
+mobile-Le,1,0,0.0,mobile,Le
+mobile-Le X520 Build/IEXCNFN5902303111S,11,7,0.636364,mobile,Le X520 Build/IEXCNFN5902303111S
+mobile-Lenovo,39,3,0.076923,mobile,Lenovo
+mobile-Lenovo A2016b30 Build/MRA58K,45,2,0.044444,mobile,Lenovo A2016b30 Build/MRA58K
+mobile-Lenovo A6020l37 Build/LMY47V,9,0,0.0,mobile,Lenovo A6020l37 Build/LMY47V
+mobile-Lenovo K33b36 Build/MMB29M,44,0,0.0,mobile,Lenovo K33b36 Build/MMB29M
+mobile-Lenovo K33b36 Build/NRD90N,24,0,0.0,mobile,Lenovo K33b36 Build/NRD90N
+mobile-Lenovo PB1-750M Build/S100,5,0,0.0,mobile,Lenovo PB1-750M Build/S100
+mobile-Lenovo PB2-650Y Build/MRA58K,38,11,0.289474,mobile,Lenovo PB2-650Y Build/MRA58K
+mobile-Lenovo PB2-670Y Build/MRA58K,4,3,0.75,mobile,Lenovo PB2-670Y Build/MRA58K
+mobile-Lenovo TAB 2 A7-30GC Build/KOT49H,4,0,0.0,mobile,Lenovo TAB 2 A7-30GC Build/KOT49H
+mobile-Lenovo TB-7703X Build/S100,5,0,0.0,mobile,Lenovo TB-7703X Build/S100
+mobile-Lenovo TB-X103F Build/LenovoTB-X103F,4,0,0.0,mobile,Lenovo TB-X103F Build/LenovoTB-X103F
+mobile-Lenovo TB2-X30F Build/LenovoTB2-X30F,4,0,0.0,mobile,Lenovo TB2-X30F Build/LenovoTB2-X30F
+mobile-Lenovo TB3-710F Build/LRX21M,16,3,0.1875,mobile,Lenovo TB3-710F Build/LRX21M
+mobile-Lenovo TB3-710I Build/LMY47I,13,9,0.692308,mobile,Lenovo TB3-710I Build/LMY47I
+mobile-Lenovo YT3-850F Build/MMB29M,5,0,0.0,mobile,Lenovo YT3-850F Build/MMB29M
+mobile-Lenovo YT3-850M Build/MMB29M,11,10,0.909091,mobile,Lenovo YT3-850M Build/MMB29M
+mobile-Lenovo YT3-X50F Build/MMB29M,4,0,0.0,mobile,Lenovo YT3-X50F Build/MMB29M
+mobile-Lenovo-A6020l36 Build/LMY47V,33,4,0.121212,mobile,Lenovo-A6020l36 Build/LMY47V
+mobile-LenovoA3300-GV Build/JDQ39,6,0,0.0,mobile,LenovoA3300-GV Build/JDQ39
+mobile-Linux x86_64,2,0,0.0,mobile,Linux x86_64
+mobile-M10/Q1010,1,0,0.0,mobile,M10/Q1010
+mobile-M4,8,0,0.0,mobile,M4
+mobile-M4 SS4450 Build/MRA58K,9,1,0.111111,mobile,M4 SS4450 Build/MRA58K
+mobile-M4 SS4451 Build/LMY47D,16,0,0.0,mobile,M4 SS4451 Build/LMY47D
+mobile-M4 SS4452 Build/LMY47V,4,0,0.0,mobile,M4 SS4452 Build/LMY47V
+mobile-M4 SS4453 Build/MMB29M,37,0,0.0,mobile,M4 SS4453 Build/MMB29M
+mobile-M4 SS4456 Build/LMY47V,56,21,0.375,mobile,M4 SS4456 Build/LMY47V
+mobile-M4 SS4457 Build/MRA58K,11,1,0.090909,mobile,M4 SS4457 Build/MRA58K
+mobile-M4 SS4457-R Build/NRD90M,2,0,0.0,mobile,M4 SS4457-R Build/NRD90M
+mobile-M4 SS4458 Build/MMB29M,17,0,0.0,mobile,M4 SS4458 Build/MMB29M
+mobile-M431,1,0,0.0,mobile,M431
+mobile-MAGNO,1,0,0.0,mobile,MAGNO
+mobile-ME173X,1,0,0.0,mobile,ME173X
+mobile-ME301T,1,0,0.0,mobile,ME301T
+mobile-MHA-L09 Build/HUAWEIMHA-L09,15,2,0.133333,mobile,MHA-L09 Build/HUAWEIMHA-L09
+mobile-MHA-L29 Build/HUAWEIMHA-L29,5,0,0.0,mobile,MHA-L29 Build/HUAWEIMHA-L29
+mobile-MI,4,1,0.25,mobile,MI
+mobile-MI MAX 2 Build/NMF26F,2,0,0.0,mobile,MI MAX 2 Build/NMF26F
+mobile-MOT-A6020l37 Build/LMY47V,35,3,0.085714,mobile,MOT-A6020l37 Build/LMY47V
+mobile-MTT,2,0,0.0,mobile,MTT
+mobile-MYA-L03 Build/HUAWEIMYA-L03,17,14,0.823529,mobile,MYA-L03 Build/HUAWEIMYA-L03
+mobile-MYA-L11,1,0,0.0,mobile,MYA-L11
+mobile-MYA-L13 Build/HUAWEIMYA-L13,86,10,0.116279,mobile,MYA-L13 Build/HUAWEIMYA-L13
+mobile-MYA-L23,1,0,0.0,mobile,MYA-L23
+mobile-MacOS,8,0,0.0,mobile,MacOS
+mobile-Max,1,0,0.0,mobile,Max
+mobile-Mi,2,2,1.0,mobile,Mi
+mobile-Mi A1 Build/N2G47H,14,0,0.0,mobile,Mi A1 Build/N2G47H
+mobile-Mi A1 Build/OPR1.170623.026,16,2,0.125,mobile,Mi A1 Build/OPR1.170623.026
+mobile-Microsoft,15,0,0.0,mobile,Microsoft
+mobile-Minion_Tab,1,0,0.0,mobile,Minion_Tab
+mobile-Mobiistar_LAI_Yuna_X,1,0,0.0,mobile,Mobiistar_LAI_Yuna_X
+mobile-Moto,60,2,0.033333,mobile,Moto
+mobile-Moto C Build/NRD90M.046,3,0,0.0,mobile,Moto C Build/NRD90M.046
+mobile-Moto C Build/NRD90M.050,2,0,0.0,mobile,Moto C Build/NRD90M.050
+mobile-Moto C Build/NRD90M.054,9,0,0.0,mobile,Moto C Build/NRD90M.054
+mobile-Moto C Build/NRD90M.057,9,0,0.0,mobile,Moto C Build/NRD90M.057
+mobile-Moto C Build/NRD90M.063,81,6,0.074074,mobile,Moto C Build/NRD90M.063
+mobile-Moto C Build/NRD90M.070,5,0,0.0,mobile,Moto C Build/NRD90M.070
+mobile-Moto C Plus Build/NRD90M.05.022,6,2,0.333333,mobile,Moto C Plus Build/NRD90M.05.022
+mobile-Moto C Plus Build/NRD90M.05.034,33,0,0.0,mobile,Moto C Plus Build/NRD90M.05.034
+mobile-Moto E (4) Build/NCQ26.69-56,4,3,0.75,mobile,Moto E (4) Build/NCQ26.69-56
+mobile-Moto E (4) Build/NDQS26.69-23-2-3,9,5,0.555556,mobile,Moto E (4) Build/NDQS26.69-23-2-3
+mobile-Moto E (4) Build/NDQS26.69-64-2,1,0,0.0,mobile,Moto E (4) Build/NDQS26.69-64-2
+mobile-Moto E (4) Build/NMA26.42-11-3,3,0,0.0,mobile,Moto E (4) Build/NMA26.42-11-3
+mobile-Moto E (4) Build/NMA26.42-19,48,0,0.0,mobile,Moto E (4) Build/NMA26.42-19
+mobile-Moto E (4) Build/NMA26.42-69,80,17,0.2125,mobile,Moto E (4) Build/NMA26.42-69
+mobile-Moto E (4) Plus Build/NMA26.42-11-3,3,1,0.333333,mobile,Moto E (4) Plus Build/NMA26.42-11-3
+mobile-Moto E (4) Plus Build/NMA26.42-142,9,0,0.0,mobile,Moto E (4) Plus Build/NMA26.42-142
+mobile-Moto E (4) Plus Build/NMA26.42-152,6,1,0.166667,mobile,Moto E (4) Plus Build/NMA26.42-152
+mobile-Moto E (4) Plus Build/NMA26.42-69,61,6,0.098361,mobile,Moto E (4) Plus Build/NMA26.42-69
+mobile-Moto G (4) Build/NPJ25.93-14,5,0,0.0,mobile,Moto G (4) Build/NPJ25.93-14
+mobile-Moto G (4) Build/NPJ25.93-14.5,83,12,0.144578,mobile,Moto G (4) Build/NPJ25.93-14.5
+mobile-Moto G (4) Build/NPJ25.93-14.7,80,1,0.0125,mobile,Moto G (4) Build/NPJ25.93-14.7
+mobile-Moto G (4) Build/NPJS25.93-14-10,82,7,0.085366,mobile,Moto G (4) Build/NPJS25.93-14-10
+mobile-Moto G (4) Build/NPJS25.93-14-13,81,5,0.061728,mobile,Moto G (4) Build/NPJS25.93-14-13
+mobile-Moto G (4) Build/NPJS25.93-14-15,12,3,0.25,mobile,Moto G (4) Build/NPJS25.93-14-15
+mobile-Moto G (4) Build/NPJS25.93-14-18,12,6,0.5,mobile,Moto G (4) Build/NPJS25.93-14-18
+mobile-Moto G (4) Build/NPJS25.93-14-8,4,0,0.0,mobile,Moto G (4) Build/NPJS25.93-14-8
+mobile-Moto G (5) Build/NPP25.137-15,3,2,0.666667,mobile,Moto G (5) Build/NPP25.137-15
+mobile-Moto G (5) Build/NPP25.137-33,6,0,0.0,mobile,Moto G (5) Build/NPP25.137-33
+mobile-Moto G (5) Build/NPP25.137-38,21,0,0.0,mobile,Moto G (5) Build/NPP25.137-38
+mobile-Moto G (5) Build/NPP25.137-72,66,5,0.075758,mobile,Moto G (5) Build/NPP25.137-72
+mobile-Moto G (5) Build/NPP25.137-82,34,3,0.088235,mobile,Moto G (5) Build/NPP25.137-82
+mobile-Moto G (5) Build/NPP25.137-93,26,0,0.0,mobile,Moto G (5) Build/NPP25.137-93
+mobile-Moto G (5) Build/NPPS25.137-15-11,48,11,0.229167,mobile,Moto G (5) Build/NPPS25.137-15-11
+mobile-Moto G (5) Build/NPPS25.137-93-4,1,0,0.0,mobile,Moto G (5) Build/NPPS25.137-93-4
+mobile-Moto G (5) Build/NPPS25.137-93-8,3,0,0.0,mobile,Moto G (5) Build/NPPS25.137-93-8
+mobile-Moto G (5) Plus Build/NPN25.137-72,48,3,0.0625,mobile,Moto G (5) Plus Build/NPN25.137-72
+mobile-Moto G (5) Plus Build/NPN25.137-82,9,7,0.777778,mobile,Moto G (5) Plus Build/NPN25.137-82
+mobile-Moto G (5) Plus Build/NPN25.137-83,7,0,0.0,mobile,Moto G (5) Plus Build/NPN25.137-83
+mobile-Moto G (5) Plus Build/NPN25.137-92,54,7,0.12963,mobile,Moto G (5) Plus Build/NPN25.137-92
+mobile-Moto G (5) Plus Build/NPNS25.137-15-11,42,33,0.785714,mobile,Moto G (5) Plus Build/NPNS25.137-15-11
+mobile-Moto G (5) Plus Build/NPNS25.137-92-10,7,0,0.0,mobile,Moto G (5) Plus Build/NPNS25.137-92-10
+mobile-Moto G (5) Plus Build/NPNS25.137-92-4,3,0,0.0,mobile,Moto G (5) Plus Build/NPNS25.137-92-4
+mobile-Moto G (5) Plus Build/NPNS25.137-92-8,2,1,0.5,mobile,Moto G (5) Plus Build/NPNS25.137-92-8
+mobile-Moto G (5) Plus Build/NPNS25.137-93-8,4,0,0.0,mobile,Moto G (5) Plus Build/NPNS25.137-93-8
+mobile-Moto G (5S,18,0,0.0,mobile,Moto G (5S
+mobile-Moto G Play Build/MPIS24.241-15.3-26,46,16,0.347826,mobile,Moto G Play Build/MPIS24.241-15.3-26
+mobile-Moto G Play Build/MPIS24.241-15.3-7,129,17,0.131783,mobile,Moto G Play Build/MPIS24.241-15.3-7
+mobile-Moto G Play Build/NJH47F,1,0,0.0,mobile,Moto G Play Build/NJH47F
+mobile-Moto G Play Build/NPI26.48-36,10,7,0.7,mobile,Moto G Play Build/NPI26.48-36
+mobile-Moto G Play Build/NPIS26.48-36-2,18,0,0.0,mobile,Moto G Play Build/NPIS26.48-36-2
+mobile-Moto G Play Build/NPIS26.48-36-5,16,0,0.0,mobile,Moto G Play Build/NPIS26.48-36-5
+mobile-Moto X Play Build/NPD26.48-24-1,112,3,0.026786,mobile,Moto X Play Build/NPD26.48-24-1
+mobile-Moto Z (2,35,0,0.0,mobile,Moto Z (2
+mobile-Moto Z2 Play Build/NPS26.118-19,6,0,0.0,mobile,Moto Z2 Play Build/NPS26.118-19
+mobile-Moto Z2 Play Build/NPS26.74-16-1,12,9,0.75,mobile,Moto Z2 Play Build/NPS26.74-16-1
+mobile-Moto Z2 Play Build/NPSS26.118-19-11,12,10,0.833333,mobile,Moto Z2 Play Build/NPSS26.118-19-11
+mobile-Moto Z2 Play Build/NPSS26.118-19-14,129,30,0.232558,mobile,Moto Z2 Play Build/NPSS26.118-19-14
+mobile-Moto Z2 Play Build/NPSS26.118-19-4,8,0,0.0,mobile,Moto Z2 Play Build/NPSS26.118-19-4
+mobile-Moto Z2 Play Build/NPSS26.118-19-6,14,0,0.0,mobile,Moto Z2 Play Build/NPSS26.118-19-6
+mobile-MotoE2 Build/LPCS23.13-56-5,5,0,0.0,mobile,MotoE2 Build/LPCS23.13-56-5
+mobile-MotoE2(4G-LTE,17,1,0.058824,mobile,MotoE2(4G-LTE
+mobile-MotoG3,5,0,0.0,mobile,MotoG3
+mobile-MotoG3 Build/MPI24.65-25,5,0,0.0,mobile,MotoG3 Build/MPI24.65-25
+mobile-MotoG3 Build/MPI24.65-25.1,3,0,0.0,mobile,MotoG3 Build/MPI24.65-25.1
+mobile-MotoG3 Build/MPI24.65-33.1-2,21,1,0.047619,mobile,MotoG3 Build/MPI24.65-33.1-2
+mobile-MotoG3 Build/MPIS24.107-55-2-17,4,0,0.0,mobile,MotoG3 Build/MPIS24.107-55-2-17
+mobile-MotoG3 Build/MPIS24.65-25.1-19,4,0,0.0,mobile,MotoG3 Build/MPIS24.65-25.1-19
+mobile-MotoG3 Build/MPIS24.65-33.1-2-16,93,28,0.301075,mobile,MotoG3 Build/MPIS24.65-33.1-2-16
+mobile-MotoG3-TE,1,0,0.0,mobile,MotoG3-TE
+mobile-MotoG3-TE Build/MPD24.65-33,5,5,1.0,mobile,MotoG3-TE Build/MPD24.65-33
+mobile-MotoG3-TE Build/MPDS24.65-33-1-3,9,8,0.888889,mobile,MotoG3-TE Build/MPDS24.65-33-1-3
+mobile-MotoG3-TE Build/MPDS24.65-33-1-30,14,3,0.214286,mobile,MotoG3-TE Build/MPDS24.65-33-1-30
+mobile-N817,2,0,0.0,mobile,N817
+mobile-N9136,1,0,0.0,mobile,N9136
+mobile-N9560 Build/NMF26F,1,1,1.0,mobile,N9560 Build/NMF26F
+mobile-NEM-L51 Build/HONORNEM-L51,5,0,0.0,mobile,NEM-L51 Build/HONORNEM-L51
+mobile-NOKIA,10,10,1.0,mobile,NOKIA
+mobile-NX16A8116KP,1,0,0.0,mobile,NX16A8116KP
+mobile-NX521J,1,0,0.0,mobile,NX521J
+mobile-NX785QC8G,1,1,1.0,mobile,NX785QC8G
+mobile-NXA116QC164,1,0,0.0,mobile,NXA116QC164
+mobile-NXA8QC116,1,0,0.0,mobile,NXA8QC116
+mobile-NYX_A1,1,0,0.0,mobile,NYX_A1
+mobile-Neffos C5 Build/LMY47D,8,3,0.375,mobile,Neffos C5 Build/LMY47D
+mobile-Neffos X1 Max Build/NRD90M,1,0,0.0,mobile,Neffos X1 Max Build/NRD90M
+mobile-Nexus,41,0,0.0,mobile,Nexus
+mobile-Nexus 5 Build/M4B30Z,6,0,0.0,mobile,Nexus 5 Build/M4B30Z
+mobile-Nexus 5X Build/OPM3.171019.013,6,0,0.0,mobile,Nexus 5X Build/OPM3.171019.013
+mobile-Nexus 5X Build/OPR4.170623.006,1,0,0.0,mobile,Nexus 5X Build/OPR4.170623.006
+mobile-Nexus 6 Build/MOB30M,11,11,1.0,mobile,Nexus 6 Build/MOB30M
+mobile-Nexus 6 Build/N6F27M,7,0,0.0,mobile,Nexus 6 Build/N6F27M
+mobile-Nexus 6P Build/OPR5.170623.011,7,0,0.0,mobile,Nexus 6P Build/OPR5.170623.011
+mobile-Nexus 6P Build/OPR5.170623.014,5,0,0.0,mobile,Nexus 6P Build/OPR5.170623.014
+mobile-O1,1,0,0.0,mobile,O1
+mobile-ONE,7,0,0.0,mobile,ONE
+mobile-ONE A2003 Build/MMB29M,3,0,0.0,mobile,ONE A2003 Build/MMB29M
+mobile-ONE A2005 Build/MMB29M,5,0,0.0,mobile,ONE A2005 Build/MMB29M
+mobile-ONE TOUCH 4016A Build/JDQ39,4,0,0.0,mobile,ONE TOUCH 4016A Build/JDQ39
+mobile-ONE TOUCH 4033A Build/JDQ39,4,0,0.0,mobile,ONE TOUCH 4033A Build/JDQ39
+mobile-ONEPLUS,2,0,0.0,mobile,ONEPLUS
+mobile-ONEPLUS A5000 Build/NMF26X,7,0,0.0,mobile,ONEPLUS A5000 Build/NMF26X
+mobile-ONEPLUS A5010 Build/OPM1.171019.011,5,0,0.0,mobile,ONEPLUS A5010 Build/OPM1.171019.011
+mobile-ORION,1,0,0.0,mobile,ORION
+mobile-Origins,2,0,0.0,mobile,Origins
+mobile-P008 Build/NRD90M,13,0,0.0,mobile,P008 Build/NRD90M
+mobile-P00A,1,0,0.0,mobile,P00A
+mobile-P00C,2,0,0.0,mobile,P00C
+mobile-P01M,1,0,0.0,mobile,P01M
+mobile-P027,1,0,0.0,mobile,P027
+mobile-P4526A Build/NRD90M,5,0,0.0,mobile,P4526A Build/NRD90M
+mobile-P5006A,3,0,0.0,mobile,P5006A
+mobile-P5006A Build/NRD90M,3,0,0.0,mobile,P5006A Build/NRD90M
+mobile-P5026A,3,0,0.0,mobile,P5026A
+mobile-P5046A,6,0,0.0,mobile,P5046A
+mobile-P5526A Build/NRD90M,3,1,0.333333,mobile,P5526A Build/NRD90M
+mobile-PE-TL10,2,0,0.0,mobile,PE-TL10
+mobile-PH-1,3,0,0.0,mobile,PH-1
+mobile-PLAYTAB,1,0,0.0,mobile,PLAYTAB
+mobile-PLE-701L,1,0,0.0,mobile,PLE-701L
+mobile-PLK-L01 Build/HONORPLK-L01,1,0,0.0,mobile,PLK-L01 Build/HONORPLK-L01
+mobile-PLUS,2,0,0.0,mobile,PLUS
+mobile-PMID7102DC,1,0,0.0,mobile,PMID7102DC
+mobile-PRA-LX1 Build/HUAWEIPRA-LX1,16,0,0.0,mobile,PRA-LX1 Build/HUAWEIPRA-LX1
+mobile-PRA-LX3 Build/HUAWEIPRA-LX3,135,2,0.014815,mobile,PRA-LX3 Build/HUAWEIPRA-LX3
+mobile-PRA507,1,0,0.0,mobile,PRA507
+mobile-PSPC550 Build/LMY47D,3,0,0.0,mobile,PSPC550 Build/LMY47D
+mobile-Pixel,47,0,0.0,mobile,Pixel
+mobile-Pixel 2 Build/OPM1.171019.011,19,0,0.0,mobile,Pixel 2 Build/OPM1.171019.011
+mobile-Pixel 2 Build/OPM1.171019.019,5,0,0.0,mobile,Pixel 2 Build/OPM1.171019.019
+mobile-Pixel 2 Build/OPM1.171019.021,7,0,0.0,mobile,Pixel 2 Build/OPM1.171019.021
+mobile-Pixel 2 Build/OPM2.171019.016,5,0,0.0,mobile,Pixel 2 Build/OPM2.171019.016
+mobile-Pixel 2 XL Build/OPM1.171019.011,15,0,0.0,mobile,Pixel 2 XL Build/OPM1.171019.011
+mobile-Pixel 2 XL Build/OPM1.171019.013,5,0,0.0,mobile,Pixel 2 XL Build/OPM1.171019.013
+mobile-Pixel 2 XL Build/OPM1.171019.021,6,0,0.0,mobile,Pixel 2 XL Build/OPM1.171019.021
+mobile-Pixel 2 XL Build/OPM2.171019.029,6,0,0.0,mobile,Pixel 2 XL Build/OPM2.171019.029
+mobile-Pixel 2 XL Build/OPM2.171019.029.B1,5,0,0.0,mobile,Pixel 2 XL Build/OPM2.171019.029.B1
+mobile-Pixel Build/OPM1.171019.011,33,0,0.0,mobile,Pixel Build/OPM1.171019.011
+mobile-Pixel Build/OPM1.171019.012,5,0,0.0,mobile,Pixel Build/OPM1.171019.012
+mobile-Pixel Build/OPM1.171019.016,10,5,0.5,mobile,Pixel Build/OPM1.171019.016
+mobile-Pixel Build/OPM2.171019.029,7,0,0.0,mobile,Pixel Build/OPM2.171019.029
+mobile-Pixel Build/OPM4.171019.016.B1,8,0,0.0,mobile,Pixel Build/OPM4.171019.016.B1
+mobile-Pixel Build/OPR3.170623.013,11,0,0.0,mobile,Pixel Build/OPR3.170623.013
+mobile-Pixel XL Build/OPM1.171019.011,24,0,0.0,mobile,Pixel XL Build/OPM1.171019.011
+mobile-Pixel XL Build/OPM1.171019.016,5,0,0.0,mobile,Pixel XL Build/OPM1.171019.016
+mobile-Pixel XL Build/OPM1.171019.021,5,0,0.0,mobile,Pixel XL Build/OPM1.171019.021
+mobile-Pixel XL Build/OPM4.171019.016.B1,7,0,0.0,mobile,Pixel XL Build/OPM4.171019.016.B1
+mobile-QMV7A,1,0,0.0,mobile,QMV7A
+mobile-QTAIR7 Build/LMY47D,5,0,0.0,mobile,QTAIR7 Build/LMY47D
+mobile-QTAQZ3 Build/KOT49H,5,0,0.0,mobile,QTAQZ3 Build/KOT49H
+mobile-QTAQZ3 Build/LMY47V,8,0,0.0,mobile,QTAQZ3 Build/LMY47V
+mobile-QTASUN1,1,0,0.0,mobile,QTASUN1
+mobile-QTASUN1 Build/NRD90M,8,3,0.375,mobile,QTASUN1 Build/NRD90M
+mobile-R1,2,0,0.0,mobile,R1
+mobile-R2,3,0,0.0,mobile,R2
+mobile-R8106,1,0,0.0,mobile,R8106
+mobile-R831L,1,0,0.0,mobile,R831L
+mobile-RCT6203W46 Build/KOT49H,9,9,1.0,mobile,RCT6203W46 Build/KOT49H
+mobile-RCT6223W87,3,0,0.0,mobile,RCT6223W87
+mobile-RCT6303W87M7 Build/MRA58K,2,0,0.0,mobile,RCT6303W87M7 Build/MRA58K
+mobile-RCT6513W87 Build/MRA58K,2,0,0.0,mobile,RCT6513W87 Build/MRA58K
+mobile-RCT6773W22B,2,0,0.0,mobile,RCT6773W22B
+mobile-RCT6K03W13,1,0,0.0,mobile,RCT6K03W13
+mobile-RCT6S03W12,2,0,0.0,mobile,RCT6S03W12
+mobile-REVVLPLUS,3,1,0.333333,mobile,REVVLPLUS
+mobile-REX,4,2,0.5,mobile,REX
+mobile-RNE-L03 Build/HUAWEIRNE-L03,68,23,0.338235,mobile,RNE-L03 Build/HUAWEIRNE-L03
+mobile-RNE-L21 Build/HUAWEIRNE-L21,9,0,0.0,mobile,RNE-L21 Build/HUAWEIRNE-L21
+mobile-RNE-L22 Build/HUAWEIRNE-L22,2,0,0.0,mobile,RNE-L22 Build/HUAWEIRNE-L22
+mobile-RNE-L23 Build/HUAWEIRNE-L23,5,5,1.0,mobile,RNE-L23 Build/HUAWEIRNE-L23
+mobile-RS988,3,0,0.0,mobile,RS988
+mobile-RS988 Build/MMB29M,5,0,0.0,mobile,RS988 Build/MMB29M
+mobile-Redmi,16,0,0.0,mobile,Redmi
+mobile-Redmi 3S Build/MMB29M,8,0,0.0,mobile,Redmi 3S Build/MMB29M
+mobile-Redmi 4A Build/MMB29M,10,0,0.0,mobile,Redmi 4A Build/MMB29M
+mobile-Redmi 4A Build/N2G47H,3,0,0.0,mobile,Redmi 4A Build/N2G47H
+mobile-Redmi 4X Build/N2G47H,42,6,0.142857,mobile,Redmi 4X Build/N2G47H
+mobile-Redmi 5 Plus Build/N2G47H,10,0,0.0,mobile,Redmi 5 Plus Build/N2G47H
+mobile-Redmi Note 3 Build/MMB29M,7,1,0.142857,mobile,Redmi Note 3 Build/MMB29M
+mobile-Redmi Note 4 Build/MMB29M,5,3,0.6,mobile,Redmi Note 4 Build/MMB29M
+mobile-Redmi Note 4 Build/NRD90M,53,7,0.132075,mobile,Redmi Note 4 Build/NRD90M
+mobile-Redmi Note 4X Build/MRA58K,6,0,0.0,mobile,Redmi Note 4X Build/MRA58K
+mobile-Redmi Note 5A Build/N2G47H,1,0,0.0,mobile,Redmi Note 5A Build/N2G47H
+mobile-Robin,1,0,0.0,mobile,Robin
+mobile-S471,1,0,0.0,mobile,S471
+mobile-S57 Build/KTU84P,2,0,0.0,mobile,S57 Build/KTU84P
+mobile-S60 Build/MMB29M,5,0,0.0,mobile,S60 Build/MMB29M
+mobile-S6000,1,0,0.0,mobile,S6000
+mobile-SAMSUNG,219,5,0.022831,mobile,SAMSUNG
+mobile-SAMSUNG SM-A300H Build/LRX22G,7,0,0.0,mobile,SAMSUNG SM-A300H Build/LRX22G
+mobile-SAMSUNG SM-A310F Build/NRD90M,25,0,0.0,mobile,SAMSUNG SM-A310F Build/NRD90M
+mobile-SAMSUNG SM-A310F/A310FXXU4CRB1 Build/NRD90M,4,0,0.0,mobile,SAMSUNG SM-A310F/A310FXXU4CRB1 Build/NRD90M
+mobile-SAMSUNG SM-A320FL Build/NRD90M,12,0,0.0,mobile,SAMSUNG SM-A320FL Build/NRD90M
+mobile-SAMSUNG SM-A320Y Build/NRD90M,6,0,0.0,mobile,SAMSUNG SM-A320Y Build/NRD90M
+mobile-SAMSUNG SM-A510F Build/NRD90M,6,0,0.0,mobile,SAMSUNG SM-A510F Build/NRD90M
+mobile-SAMSUNG SM-A510M Build/MMB29K,5,3,0.6,mobile,SAMSUNG SM-A510M Build/MMB29K
+mobile-SAMSUNG SM-A510M Build/NRD90M,10,0,0.0,mobile,SAMSUNG SM-A510M Build/NRD90M
+mobile-SAMSUNG SM-A520F Build/NRD90M,37,2,0.054054,mobile,SAMSUNG SM-A520F Build/NRD90M
+mobile-SAMSUNG SM-A710M Build/NRD90M,7,0,0.0,mobile,SAMSUNG SM-A710M Build/NRD90M
+mobile-SAMSUNG SM-A720F Build/NRD90M,17,0,0.0,mobile,SAMSUNG SM-A720F Build/NRD90M
+mobile-SAMSUNG SM-A730F Build/NMF26X,3,0,0.0,mobile,SAMSUNG SM-A730F Build/NMF26X
+mobile-SAMSUNG SM-G530H Build/LRX22G,16,2,0.125,mobile,SAMSUNG SM-G530H Build/LRX22G
+mobile-SAMSUNG SM-G530T Build/LMY47X,3,0,0.0,mobile,SAMSUNG SM-G530T Build/LMY47X
+mobile-SAMSUNG SM-G531H Build/LMY48B,62,1,0.016129,mobile,SAMSUNG SM-G531H Build/LMY48B
+mobile-SAMSUNG SM-G532M Build/MMB29T,102,7,0.068627,mobile,SAMSUNG SM-G532M Build/MMB29T
+mobile-SAMSUNG SM-G550T1 Build/MMB29K,17,13,0.764706,mobile,SAMSUNG SM-G550T1 Build/MMB29K
+mobile-SAMSUNG SM-G570M Build/MMB29K,15,2,0.133333,mobile,SAMSUNG SM-G570M Build/MMB29K
+mobile-SAMSUNG SM-G570M Build/NRD90M,7,2,0.285714,mobile,SAMSUNG SM-G570M Build/NRD90M
+mobile-SAMSUNG SM-G610M Build/MMB29K,59,7,0.118644,mobile,SAMSUNG SM-G610M Build/MMB29K
+mobile-SAMSUNG SM-G610M Build/NRD90M,16,2,0.125,mobile,SAMSUNG SM-G610M Build/NRD90M
+mobile-SAMSUNG SM-G800F Build/MMB29K,2,0,0.0,mobile,SAMSUNG SM-G800F Build/MMB29K
+mobile-SAMSUNG SM-G850F/G850FXXS2CQD9 Build/LRX22G,6,0,0.0,mobile,SAMSUNG SM-G850F/G850FXXS2CQD9 Build/LRX22G
+mobile-SAMSUNG SM-G890A Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-G890A Build/NRD90M
+mobile-SAMSUNG SM-G891A Build/NRD90M,35,22,0.628571,mobile,SAMSUNG SM-G891A Build/NRD90M
+mobile-SAMSUNG SM-G892A Build/NRD90M,9,0,0.0,mobile,SAMSUNG SM-G892A Build/NRD90M
+mobile-SAMSUNG SM-G892A Build/R16NW,3,0,0.0,mobile,SAMSUNG SM-G892A Build/R16NW
+mobile-SAMSUNG SM-G900A Build/MMB29M,6,0,0.0,mobile,SAMSUNG SM-G900A Build/MMB29M
+mobile-SAMSUNG SM-G900F Build/MMB29M,10,0,0.0,mobile,SAMSUNG SM-G900F Build/MMB29M
+mobile-SAMSUNG SM-G900I Build/MMB29M,5,0,0.0,mobile,SAMSUNG SM-G900I Build/MMB29M
+mobile-SAMSUNG SM-G900M Build/LRX21T,5,0,0.0,mobile,SAMSUNG SM-G900M Build/LRX21T
+mobile-SAMSUNG SM-G900T Build/MMB29M,7,0,0.0,mobile,SAMSUNG SM-G900T Build/MMB29M
+mobile-SAMSUNG SM-G903F Build/MMB29K,4,0,0.0,mobile,SAMSUNG SM-G903F Build/MMB29K
+mobile-SAMSUNG SM-G920A Build/NRD90M,9,0,0.0,mobile,SAMSUNG SM-G920A Build/NRD90M
+mobile-SAMSUNG SM-G920F Build/NRD90M,9,0,0.0,mobile,SAMSUNG SM-G920F Build/NRD90M
+mobile-SAMSUNG SM-G920I Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-G920I Build/NRD90M
+mobile-SAMSUNG SM-G920P Build/NRD90M,21,0,0.0,mobile,SAMSUNG SM-G920P Build/NRD90M
+mobile-SAMSUNG SM-G920T Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-G920T Build/NRD90M
+mobile-SAMSUNG SM-G925F Build/NRD90M,13,3,0.230769,mobile,SAMSUNG SM-G925F Build/NRD90M
+mobile-SAMSUNG SM-G925I Build/NRD90M,9,0,0.0,mobile,SAMSUNG SM-G925I Build/NRD90M
+mobile-SAMSUNG SM-G925P Build/MMB29K,5,1,0.2,mobile,SAMSUNG SM-G925P Build/MMB29K
+mobile-SAMSUNG SM-G925P Build/NRD90M,3,0,0.0,mobile,SAMSUNG SM-G925P Build/NRD90M
+mobile-SAMSUNG SM-G925T Build/NRD90M,9,2,0.222222,mobile,SAMSUNG SM-G925T Build/NRD90M
+mobile-SAMSUNG SM-G928G Build/NRD90M,18,0,0.0,mobile,SAMSUNG SM-G928G Build/NRD90M
+mobile-SAMSUNG SM-G930A Build/NRD90M,34,0,0.0,mobile,SAMSUNG SM-G930A Build/NRD90M
+mobile-SAMSUNG SM-G930F Build/NRD90M,52,1,0.019231,mobile,SAMSUNG SM-G930F Build/NRD90M
+mobile-SAMSUNG SM-G930F/XXU2DRC1 Build/NRD90M,5,0,0.0,mobile,SAMSUNG SM-G930F/XXU2DRC1 Build/NRD90M
+mobile-SAMSUNG SM-G930P Build/NRD90M,23,0,0.0,mobile,SAMSUNG SM-G930P Build/NRD90M
+mobile-SAMSUNG SM-G930R4 Build/NRD90M,7,0,0.0,mobile,SAMSUNG SM-G930R4 Build/NRD90M
+mobile-SAMSUNG SM-G930T Build/NRD90M,21,4,0.190476,mobile,SAMSUNG SM-G930T Build/NRD90M
+mobile-SAMSUNG SM-G935A Build/NRD90M,21,1,0.047619,mobile,SAMSUNG SM-G935A Build/NRD90M
+mobile-SAMSUNG SM-G935F Build/MMB29K,8,2,0.25,mobile,SAMSUNG SM-G935F Build/MMB29K
+mobile-SAMSUNG SM-G935F Build/NRD90M,88,0,0.0,mobile,SAMSUNG SM-G935F Build/NRD90M
+mobile-SAMSUNG SM-G935P Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-G935P Build/NRD90M
+mobile-SAMSUNG SM-G935T Build/NRD90M,19,0,0.0,mobile,SAMSUNG SM-G935T Build/NRD90M
+mobile-SAMSUNG SM-G935W8 Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-G935W8 Build/NRD90M
+mobile-SAMSUNG SM-G950F Build/NRD90M,66,0,0.0,mobile,SAMSUNG SM-G950F Build/NRD90M
+mobile-SAMSUNG SM-G950F Build/R16NW,28,2,0.071429,mobile,SAMSUNG SM-G950F Build/R16NW
+mobile-SAMSUNG SM-G950U Build/NRD90M,104,1,0.009615,mobile,SAMSUNG SM-G950U Build/NRD90M
+mobile-SAMSUNG SM-G950U Build/R16NW,17,0,0.0,mobile,SAMSUNG SM-G950U Build/R16NW
+mobile-SAMSUNG SM-G950U1 Build/NRD90M,4,0,0.0,mobile,SAMSUNG SM-G950U1 Build/NRD90M
+mobile-SAMSUNG SM-G950U1 Build/R16NW,1,0,0.0,mobile,SAMSUNG SM-G950U1 Build/R16NW
+mobile-SAMSUNG SM-G955F Build/NRD90M,36,6,0.166667,mobile,SAMSUNG SM-G955F Build/NRD90M
+mobile-SAMSUNG SM-G955F Build/R16NW,2,0,0.0,mobile,SAMSUNG SM-G955F Build/R16NW
+mobile-SAMSUNG SM-G955U Build/NRD90M,96,17,0.177083,mobile,SAMSUNG SM-G955U Build/NRD90M
+mobile-SAMSUNG SM-G955U Build/R16NW,13,0,0.0,mobile,SAMSUNG SM-G955U Build/R16NW
+mobile-SAMSUNG SM-G9600 Build/R16NW,2,0,0.0,mobile,SAMSUNG SM-G9600 Build/R16NW
+mobile-SAMSUNG SM-G960U Build/R16NW,6,3,0.5,mobile,SAMSUNG SM-G960U Build/R16NW
+mobile-SAMSUNG SM-G9650 Build/R16NW,4,2,0.5,mobile,SAMSUNG SM-G9650 Build/R16NW
+mobile-SAMSUNG SM-G965F Build/R16NW,6,0,0.0,mobile,SAMSUNG SM-G965F Build/R16NW
+mobile-SAMSUNG SM-G965U Build/R16NW,10,5,0.5,mobile,SAMSUNG SM-G965U Build/R16NW
+mobile-SAMSUNG SM-G965U1 Build/R16NW,2,0,0.0,mobile,SAMSUNG SM-G965U1 Build/R16NW
+mobile-SAMSUNG SM-J111M Build/LMY47V,1,0,0.0,mobile,SAMSUNG SM-J111M Build/LMY47V
+mobile-SAMSUNG SM-J120H Build/LMY47V,31,25,0.806452,mobile,SAMSUNG SM-J120H Build/LMY47V
+mobile-SAMSUNG SM-J250M Build/NMF26X,8,0,0.0,mobile,SAMSUNG SM-J250M Build/NMF26X
+mobile-SAMSUNG SM-J320F Build/LMY47V,1,0,0.0,mobile,SAMSUNG SM-J320F Build/LMY47V
+mobile-SAMSUNG SM-J320FN Build/LMY47V,4,0,0.0,mobile,SAMSUNG SM-J320FN Build/LMY47V
+mobile-SAMSUNG SM-J320M Build/LMY47V,4,0,0.0,mobile,SAMSUNG SM-J320M Build/LMY47V
+mobile-SAMSUNG SM-J327A Build/NRD90M,11,0,0.0,mobile,SAMSUNG SM-J327A Build/NRD90M
+mobile-SAMSUNG SM-J327AZ Build/NRD90M,1,0,0.0,mobile,SAMSUNG SM-J327AZ Build/NRD90M
+mobile-SAMSUNG SM-J327P Build/MMB29M,8,0,0.0,mobile,SAMSUNG SM-J327P Build/MMB29M
+mobile-SAMSUNG SM-J327T Build/NRD90M,9,6,0.666667,mobile,SAMSUNG SM-J327T Build/NRD90M
+mobile-SAMSUNG SM-J327T1 Build/NRD90M,22,9,0.409091,mobile,SAMSUNG SM-J327T1 Build/NRD90M
+mobile-SAMSUNG SM-J500FN Build/MMB29M,7,0,0.0,mobile,SAMSUNG SM-J500FN Build/MMB29M
+mobile-SAMSUNG SM-J500M Build/LMY48B,5,0,0.0,mobile,SAMSUNG SM-J500M Build/LMY48B
+mobile-SAMSUNG SM-J500M Build/MMB29M,8,0,0.0,mobile,SAMSUNG SM-J500M Build/MMB29M
+mobile-SAMSUNG SM-J510MN Build/MMB29M,12,0,0.0,mobile,SAMSUNG SM-J510MN Build/MMB29M
+mobile-SAMSUNG SM-J530F Build/NRD90M,11,0,0.0,mobile,SAMSUNG SM-J530F Build/NRD90M
+mobile-SAMSUNG SM-J530GM Build/NRD90M,4,0,0.0,mobile,SAMSUNG SM-J530GM Build/NRD90M
+mobile-SAMSUNG SM-J700M Build/LMY48B,11,0,0.0,mobile,SAMSUNG SM-J700M Build/LMY48B
+mobile-SAMSUNG SM-J700M Build/MMB29K,113,12,0.106195,mobile,SAMSUNG SM-J700M Build/MMB29K
+mobile-SAMSUNG SM-J700T Build/NMF26X,9,1,0.111111,mobile,SAMSUNG SM-J700T Build/NMF26X
+mobile-SAMSUNG SM-J700T1 Build/NMF26X,4,0,0.0,mobile,SAMSUNG SM-J700T1 Build/NMF26X
+mobile-SAMSUNG SM-J701M Build/NRD90M,65,14,0.215385,mobile,SAMSUNG SM-J701M Build/NRD90M
+mobile-SAMSUNG SM-J710MN Build/MMB29K,15,0,0.0,mobile,SAMSUNG SM-J710MN Build/MMB29K
+mobile-SAMSUNG SM-J710MN Build/NRD90M,5,0,0.0,mobile,SAMSUNG SM-J710MN Build/NRD90M
+mobile-SAMSUNG SM-J727T1 Build/NRD90M,8,0,0.0,mobile,SAMSUNG SM-J727T1 Build/NRD90M
+mobile-SAMSUNG SM-J730GM Build/NRD90M,56,1,0.017857,mobile,SAMSUNG SM-J730GM Build/NRD90M
+mobile-SAMSUNG SM-N900T Build/LRX21V,2,0,0.0,mobile,SAMSUNG SM-N900T Build/LRX21V
+mobile-SAMSUNG SM-N900W8 Build/LRX21V,1,0,0.0,mobile,SAMSUNG SM-N900W8 Build/LRX21V
+mobile-SAMSUNG SM-N910A Build/MMB29M,9,0,0.0,mobile,SAMSUNG SM-N910A Build/MMB29M
+mobile-SAMSUNG SM-N910V Build/MMB29M,1,0,0.0,mobile,SAMSUNG SM-N910V Build/MMB29M
+mobile-SAMSUNG SM-N920A Build/NRD90M,6,0,0.0,mobile,SAMSUNG SM-N920A Build/NRD90M
+mobile-SAMSUNG SM-N920P Build/NRD90M,10,0,0.0,mobile,SAMSUNG SM-N920P Build/NRD90M
+mobile-SAMSUNG SM-N920T Build/NRD90M,9,0,0.0,mobile,SAMSUNG SM-N920T Build/NRD90M
+mobile-SAMSUNG SM-N920V Build/NRD90M,2,0,0.0,mobile,SAMSUNG SM-N920V Build/NRD90M
+mobile-SAMSUNG SM-N950F Build/NMF26X,28,2,0.071429,mobile,SAMSUNG SM-N950F Build/NMF26X
+mobile-SAMSUNG SM-N950U Build/NMF26X,67,4,0.059701,mobile,SAMSUNG SM-N950U Build/NMF26X
+mobile-SAMSUNG SM-N950U Build/R16NW,16,0,0.0,mobile,SAMSUNG SM-N950U Build/R16NW
+mobile-SAMSUNG SM-N950U1 Build/NMF26X,8,0,0.0,mobile,SAMSUNG SM-N950U1 Build/NMF26X
+mobile-SAMSUNG SM-N950U1 Build/R16NW,1,0,0.0,mobile,SAMSUNG SM-N950U1 Build/R16NW
+mobile-SAMSUNG SM-P580 Build/NRD90M,7,0,0.0,mobile,SAMSUNG SM-P580 Build/NRD90M
+mobile-SAMSUNG SM-S727VL Build/MMB29M,5,2,0.4,mobile,SAMSUNG SM-S727VL Build/MMB29M
+mobile-SAMSUNG SM-T530NU Build/LRX22G,7,0,0.0,mobile,SAMSUNG SM-T530NU Build/LRX22G
+mobile-SAMSUNG SM-T550 Build/NMF26X,2,0,0.0,mobile,SAMSUNG SM-T550 Build/NMF26X
+mobile-SAMSUNG SM-T580 Build/NRD90M,20,3,0.15,mobile,SAMSUNG SM-T580 Build/NRD90M
+mobile-SAMSUNG SM-T587P Build/NRD90M,19,0,0.0,mobile,SAMSUNG SM-T587P Build/NRD90M
+mobile-SAMSUNG SM-T710 Build/NRD90M,13,10,0.769231,mobile,SAMSUNG SM-T710 Build/NRD90M
+mobile-SAMSUNG SM-T800 Build/MMB29K,1,0,0.0,mobile,SAMSUNG SM-T800 Build/MMB29K
+mobile-SAMSUNG SM-T810 Build/NRD90M,11,5,0.454545,mobile,SAMSUNG SM-T810 Build/NRD90M
+mobile-SAMSUNG SM-T813 Build/NRD90M,2,0,0.0,mobile,SAMSUNG SM-T813 Build/NRD90M
+mobile-SAMSUNG-SGH-I337,2,0,0.0,mobile,SAMSUNG-SGH-I337
+mobile-SAMSUNG-SGH-I337 Build/KOT49H,10,0,0.0,mobile,SAMSUNG-SGH-I337 Build/KOT49H
+mobile-SAMSUNG-SGH-I497,3,0,0.0,mobile,SAMSUNG-SGH-I497
+mobile-SAMSUNG-SGH-I537,1,0,0.0,mobile,SAMSUNG-SGH-I537
+mobile-SAMSUNG-SM-G530AZ Build/LMY48B,10,3,0.3,mobile,SAMSUNG-SM-G530AZ Build/LMY48B
+mobile-SAMSUNG-SM-G870A,1,0,0.0,mobile,SAMSUNG-SM-G870A
+mobile-SAMSUNG-SM-G870A Build/MMB29M,5,0,0.0,mobile,SAMSUNG-SM-G870A Build/MMB29M
+mobile-SAMSUNG-SM-G890A,1,0,0.0,mobile,SAMSUNG-SM-G890A
+mobile-SAMSUNG-SM-G890A Build/MMB29K,4,0,0.0,mobile,SAMSUNG-SM-G890A Build/MMB29K
+mobile-SAMSUNG-SM-G890A Build/NRD90M,9,0,0.0,mobile,SAMSUNG-SM-G890A Build/NRD90M
+mobile-SAMSUNG-SM-G891A Build/NRD90M,25,0,0.0,mobile,SAMSUNG-SM-G891A Build/NRD90M
+mobile-SAMSUNG-SM-G900A,1,0,0.0,mobile,SAMSUNG-SM-G900A
+mobile-SAMSUNG-SM-G900A Build/KOT49H,3,0,0.0,mobile,SAMSUNG-SM-G900A Build/KOT49H
+mobile-SAMSUNG-SM-G900A Build/LMY47X,4,0,0.0,mobile,SAMSUNG-SM-G900A Build/LMY47X
+mobile-SAMSUNG-SM-G900A Build/LRX21T,15,0,0.0,mobile,SAMSUNG-SM-G900A Build/LRX21T
+mobile-SAMSUNG-SM-G900A Build/MMB29M,13,0,0.0,mobile,SAMSUNG-SM-G900A Build/MMB29M
+mobile-SAMSUNG-SM-G920A Build/MMB29K,5,0,0.0,mobile,SAMSUNG-SM-G920A Build/MMB29K
+mobile-SAMSUNG-SM-G920A Build/NRD90M,19,0,0.0,mobile,SAMSUNG-SM-G920A Build/NRD90M
+mobile-SAMSUNG-SM-G920AZ,2,0,0.0,mobile,SAMSUNG-SM-G920AZ
+mobile-SAMSUNG-SM-G925A,1,0,0.0,mobile,SAMSUNG-SM-G925A
+mobile-SAMSUNG-SM-G925A Build/MMB29K,11,0,0.0,mobile,SAMSUNG-SM-G925A Build/MMB29K
+mobile-SAMSUNG-SM-G925A Build/NRD90M,6,0,0.0,mobile,SAMSUNG-SM-G925A Build/NRD90M
+mobile-SAMSUNG-SM-G928A Build/NRD90M,21,0,0.0,mobile,SAMSUNG-SM-G928A Build/NRD90M
+mobile-SAMSUNG-SM-G930A,3,0,0.0,mobile,SAMSUNG-SM-G930A
+mobile-SAMSUNG-SM-G930A Build/NRD90M,91,0,0.0,mobile,SAMSUNG-SM-G930A Build/NRD90M
+mobile-SAMSUNG-SM-G930AZ,1,0,0.0,mobile,SAMSUNG-SM-G930AZ
+mobile-SAMSUNG-SM-G935A,3,0,0.0,mobile,SAMSUNG-SM-G935A
+mobile-SAMSUNG-SM-G935A Build/NRD90M,43,0,0.0,mobile,SAMSUNG-SM-G935A Build/NRD90M
+mobile-SAMSUNG-SM-J120A,2,0,0.0,mobile,SAMSUNG-SM-J120A
+mobile-SAMSUNG-SM-J320A Build/MMB29K,6,0,0.0,mobile,SAMSUNG-SM-J320A Build/MMB29K
+mobile-SAMSUNG-SM-J320A Build/NMF26X,4,0,0.0,mobile,SAMSUNG-SM-J320A Build/NMF26X
+mobile-SAMSUNG-SM-J320AZ,2,0,0.0,mobile,SAMSUNG-SM-J320AZ
+mobile-SAMSUNG-SM-J320AZ Build/MMB29K,3,0,0.0,mobile,SAMSUNG-SM-J320AZ Build/MMB29K
+mobile-SAMSUNG-SM-J327A Build/NRD90M,10,0,0.0,mobile,SAMSUNG-SM-J327A Build/NRD90M
+mobile-SAMSUNG-SM-J327AZ,1,0,0.0,mobile,SAMSUNG-SM-J327AZ
+mobile-SAMSUNG-SM-J727A Build/NRD90M,2,0,0.0,mobile,SAMSUNG-SM-J727A Build/NRD90M
+mobile-SAMSUNG-SM-J727AZ,2,0,0.0,mobile,SAMSUNG-SM-J727AZ
+mobile-SAMSUNG-SM-N900A,3,3,1.0,mobile,SAMSUNG-SM-N900A
+mobile-SAMSUNG-SM-N900A Build/LRX21V,6,0,0.0,mobile,SAMSUNG-SM-N900A Build/LRX21V
+mobile-SAMSUNG-SM-N910A,4,0,0.0,mobile,SAMSUNG-SM-N910A
+mobile-SAMSUNG-SM-N920A,1,0,0.0,mobile,SAMSUNG-SM-N920A
+mobile-SAMSUNG-SM-N920A Build/NRD90M,10,0,0.0,mobile,SAMSUNG-SM-N920A Build/NRD90M
+mobile-SAMSUNG-SM-T337A Build/LMY47X,4,1,0.25,mobile,SAMSUNG-SM-T337A Build/LMY47X
+mobile-SAMSUNG-SM-T377A,1,0,0.0,mobile,SAMSUNG-SM-T377A
+mobile-SAMSUNG-SM-T377A Build/MMB29K,9,0,0.0,mobile,SAMSUNG-SM-T377A Build/MMB29K
+mobile-SAMSUNG-SM-T537A,1,0,0.0,mobile,SAMSUNG-SM-T537A
+mobile-SAMSUNG-SM-T677A,1,0,0.0,mobile,SAMSUNG-SM-T677A
+mobile-SAMSUNG-SM-T807A,1,0,0.0,mobile,SAMSUNG-SM-T807A
+mobile-SAMSUNG-SM-T817A,1,0,0.0,mobile,SAMSUNG-SM-T817A
+mobile-SC-02H,4,0,0.0,mobile,SC-02H
+mobile-SCH-I435,1,0,0.0,mobile,SCH-I435
+mobile-SCH-I535,1,0,0.0,mobile,SCH-I535
+mobile-SCH-I545 Build/LRX22C,6,0,0.0,mobile,SCH-I545 Build/LRX22C
+mobile-SENS,1,0,0.0,mobile,SENS
+mobile-SGH-I317M,5,0,0.0,mobile,SGH-I317M
+mobile-SGH-I337M,3,0,0.0,mobile,SGH-I337M
+mobile-SGH-I337M Build/LRX22C,15,0,0.0,mobile,SGH-I337M Build/LRX22C
+mobile-SGH-M919 Build/KTU84P,4,0,0.0,mobile,SGH-M919 Build/KTU84P
+mobile-SGH-M919N,1,0,0.0,mobile,SGH-M919N
+mobile-SGH-M919V,2,0,0.0,mobile,SGH-M919V
+mobile-SGP511,1,0,0.0,mobile,SGP511
+mobile-SGP521,4,0,0.0,mobile,SGP521
+mobile-SGP611,1,0,0.0,mobile,SGP611
+mobile-SGP621 Build/23.5.A.1.291,2,0,0.0,mobile,SGP621 Build/23.5.A.1.291
+mobile-SH-04F,2,0,0.0,mobile,SH-04F
+mobile-SKY_5.0LM,1,0,0.0,mobile,SKY_5.0LM
+mobile-SLA-L02,1,0,0.0,mobile,SLA-L02
+mobile-SLA-L03 Build/HUAWEISLA-L03,54,3,0.055556,mobile,SLA-L03 Build/HUAWEISLA-L03
+mobile-SLA-L22,1,0,0.0,mobile,SLA-L22
+mobile-SLA-L23,2,0,0.0,mobile,SLA-L23
+mobile-SLAY,1,0,0.0,mobile,SLAY
+mobile-SM-A300FU Build/MMB29M,3,0,0.0,mobile,SM-A300FU Build/MMB29M
+mobile-SM-A300H,1,0,0.0,mobile,SM-A300H
+mobile-SM-A300H Build/LRX22G,181,149,0.823204,mobile,SM-A300H Build/LRX22G
+mobile-SM-A300M,1,0,0.0,mobile,SM-A300M
+mobile-SM-A310F Build/MMB29K,5,0,0.0,mobile,SM-A310F Build/MMB29K
+mobile-SM-A310F Build/NRD90M,21,1,0.047619,mobile,SM-A310F Build/NRD90M
+mobile-SM-A310M,2,0,0.0,mobile,SM-A310M
+mobile-SM-A310M Build/LMY47X,28,1,0.035714,mobile,SM-A310M Build/LMY47X
+mobile-SM-A310M Build/NRD90M,5,0,0.0,mobile,SM-A310M Build/NRD90M
+mobile-SM-A320FL Build/MMB29K,3,0,0.0,mobile,SM-A320FL Build/MMB29K
+mobile-SM-A320FL Build/NRD90M,24,0,0.0,mobile,SM-A320FL Build/NRD90M
+mobile-SM-A320Y,3,0,0.0,mobile,SM-A320Y
+mobile-SM-A320Y Build/NRD90M,28,4,0.142857,mobile,SM-A320Y Build/NRD90M
+mobile-SM-A500FU,1,0,0.0,mobile,SM-A500FU
+mobile-SM-A500FU Build/MMB29M,3,0,0.0,mobile,SM-A500FU Build/MMB29M
+mobile-SM-A500H,1,0,0.0,mobile,SM-A500H
+mobile-SM-A500M Build/KTU84P,63,12,0.190476,mobile,SM-A500M Build/KTU84P
+mobile-SM-A500M Build/LRX22G,16,4,0.25,mobile,SM-A500M Build/LRX22G
+mobile-SM-A500W,1,0,0.0,mobile,SM-A500W
+mobile-SM-A510F Build/MMB29K,4,0,0.0,mobile,SM-A510F Build/MMB29K
+mobile-SM-A510F Build/NRD90M,12,0,0.0,mobile,SM-A510F Build/NRD90M
+mobile-SM-A510M Build/LMY47X,18,14,0.777778,mobile,SM-A510M Build/LMY47X
+mobile-SM-A510M Build/MMB29K,56,45,0.803571,mobile,SM-A510M Build/MMB29K
+mobile-SM-A510M Build/NRD90M,60,13,0.216667,mobile,SM-A510M Build/NRD90M
+mobile-SM-A520F Build/MMB29K,11,0,0.0,mobile,SM-A520F Build/MMB29K
+mobile-SM-A520F Build/NRD90M,144,0,0.0,mobile,SM-A520F Build/NRD90M
+mobile-SM-A520F Build/R16NW,1,0,0.0,mobile,SM-A520F Build/R16NW
+mobile-SM-A520W,1,0,0.0,mobile,SM-A520W
+mobile-SM-A520W Build/NRD90M,14,3,0.214286,mobile,SM-A520W Build/NRD90M
+mobile-SM-A530F Build/NMF26X,15,4,0.266667,mobile,SM-A530F Build/NMF26X
+mobile-SM-A710M,2,1,0.5,mobile,SM-A710M
+mobile-SM-A710M Build/LMY47X,17,0,0.0,mobile,SM-A710M Build/LMY47X
+mobile-SM-A710M Build/NRD90M,18,5,0.277778,mobile,SM-A710M Build/NRD90M
+mobile-SM-A720F Build/MMB29K,17,9,0.529412,mobile,SM-A720F Build/MMB29K
+mobile-SM-A720F Build/NRD90M,120,22,0.183333,mobile,SM-A720F Build/NRD90M
+mobile-SM-A730F Build/NMF26X,7,0,0.0,mobile,SM-A730F Build/NMF26X
+mobile-SM-A800I,1,0,0.0,mobile,SM-A800I
+mobile-SM-C900F,1,0,0.0,mobile,SM-C900F
+mobile-SM-E500M,1,0,0.0,mobile,SM-E500M
+mobile-SM-E500M Build/KTU84P,20,1,0.05,mobile,SM-E500M Build/KTU84P
+mobile-SM-E700M,2,0,0.0,mobile,SM-E700M
+mobile-SM-G313ML,1,0,0.0,mobile,SM-G313ML
+mobile-SM-G318ML,1,0,0.0,mobile,SM-G318ML
+mobile-SM-G350M,1,0,0.0,mobile,SM-G350M
+mobile-SM-G355M Build/KOT49H,25,0,0.0,mobile,SM-G355M Build/KOT49H
+mobile-SM-G360F,1,0,0.0,mobile,SM-G360F
+mobile-SM-G360M,1,0,0.0,mobile,SM-G360M
+mobile-SM-G360T1 Build/LMY47X,5,0,0.0,mobile,SM-G360T1 Build/LMY47X
+mobile-SM-G360V,1,0,0.0,mobile,SM-G360V
+mobile-SM-G360V Build/LMY48B,5,0,0.0,mobile,SM-G360V Build/LMY48B
+mobile-SM-G361F,2,0,0.0,mobile,SM-G361F
+mobile-SM-G386T,1,0,0.0,mobile,SM-G386T
+mobile-SM-G386W,1,0,0.0,mobile,SM-G386W
+mobile-SM-G388F,3,0,0.0,mobile,SM-G388F
+mobile-SM-G390F,3,0,0.0,mobile,SM-G390F
+mobile-SM-G390W,1,0,0.0,mobile,SM-G390W
+mobile-SM-G530FZ,1,0,0.0,mobile,SM-G530FZ
+mobile-SM-G530H Build/KTU84P,34,22,0.647059,mobile,SM-G530H Build/KTU84P
+mobile-SM-G530H Build/LRX22G,70,6,0.085714,mobile,SM-G530H Build/LRX22G
+mobile-SM-G530M,2,0,0.0,mobile,SM-G530M
+mobile-SM-G530P,1,0,0.0,mobile,SM-G530P
+mobile-SM-G530T,4,0,0.0,mobile,SM-G530T
+mobile-SM-G530T1,1,0,0.0,mobile,SM-G530T1
+mobile-SM-G530W,1,0,0.0,mobile,SM-G530W
+mobile-SM-G531F,1,0,0.0,mobile,SM-G531F
+mobile-SM-G531H Build/LMY48B,400,28,0.07,mobile,SM-G531H Build/LMY48B
+mobile-SM-G532M Build/MMB29T,316,12,0.037975,mobile,SM-G532M Build/MMB29T
+mobile-SM-G550T Build/MMB29K,12,3,0.25,mobile,SM-G550T Build/MMB29K
+mobile-SM-G550T1 Build/MMB29K,29,9,0.310345,mobile,SM-G550T1 Build/MMB29K
+mobile-SM-G550T2,1,0,0.0,mobile,SM-G550T2
+mobile-SM-G570F,1,0,0.0,mobile,SM-G570F
+mobile-SM-G570M Build/MMB29K,182,3,0.016484,mobile,SM-G570M Build/MMB29K
+mobile-SM-G570M Build/NRD90M,37,2,0.054054,mobile,SM-G570M Build/NRD90M
+mobile-SM-G610F,4,0,0.0,mobile,SM-G610F
+mobile-SM-G610F Build/NRD90M,9,4,0.444444,mobile,SM-G610F Build/NRD90M
+mobile-SM-G610M Build/MMB29K,461,37,0.08026,mobile,SM-G610M Build/MMB29K
+mobile-SM-G610M Build/NRD90M,50,6,0.12,mobile,SM-G610M Build/NRD90M
+mobile-SM-G615F,2,2,1.0,mobile,SM-G615F
+mobile-SM-G7105,1,0,0.0,mobile,SM-G7105
+mobile-SM-G720AX,4,0,0.0,mobile,SM-G720AX
+mobile-SM-G730V,1,0,0.0,mobile,SM-G730V
+mobile-SM-G730W8 Build/KOT49H,9,0,0.0,mobile,SM-G730W8 Build/KOT49H
+mobile-SM-G800F Build/KOT49H,6,0,0.0,mobile,SM-G800F Build/KOT49H
+mobile-SM-G800F Build/MMB29K,23,0,0.0,mobile,SM-G800F Build/MMB29K
+mobile-SM-G800M Build/KOT49H,13,3,0.230769,mobile,SM-G800M Build/KOT49H
+mobile-SM-G850M,4,4,1.0,mobile,SM-G850M
+mobile-SM-G850M Build/LRX22G,15,0,0.0,mobile,SM-G850M Build/LRX22G
+mobile-SM-G892A,2,0,0.0,mobile,SM-G892A
+mobile-SM-G900F Build/KOT49H,5,1,0.2,mobile,SM-G900F Build/KOT49H
+mobile-SM-G900F Build/LRX21T,3,0,0.0,mobile,SM-G900F Build/LRX21T
+mobile-SM-G900F Build/MMB29M,16,0,0.0,mobile,SM-G900F Build/MMB29M
+mobile-SM-G900FD,1,0,0.0,mobile,SM-G900FD
+mobile-SM-G900H Build/MMB29K,4,0,0.0,mobile,SM-G900H Build/MMB29K
+mobile-SM-G900I,2,0,0.0,mobile,SM-G900I
+mobile-SM-G900L,1,0,0.0,mobile,SM-G900L
+mobile-SM-G900M Build/KOT49H,2,0,0.0,mobile,SM-G900M Build/KOT49H
+mobile-SM-G900M Build/LRX21T,81,12,0.148148,mobile,SM-G900M Build/LRX21T
+mobile-SM-G900M Build/MMB29M,9,0,0.0,mobile,SM-G900M Build/MMB29M
+mobile-SM-G900P,1,0,0.0,mobile,SM-G900P
+mobile-SM-G900P Build/LRX21T,3,0,0.0,mobile,SM-G900P Build/LRX21T
+mobile-SM-G900P Build/MMB29M,12,0,0.0,mobile,SM-G900P Build/MMB29M
+mobile-SM-G900R4,2,0,0.0,mobile,SM-G900R4
+mobile-SM-G900T Build/MMB29M,11,0,0.0,mobile,SM-G900T Build/MMB29M
+mobile-SM-G900T1,3,0,0.0,mobile,SM-G900T1
+mobile-SM-G900V,2,0,0.0,mobile,SM-G900V
+mobile-SM-G900V Build/LRX21T,1,0,0.0,mobile,SM-G900V Build/LRX21T
+mobile-SM-G900V Build/MMB29M,60,0,0.0,mobile,SM-G900V Build/MMB29M
+mobile-SM-G900W8,3,0,0.0,mobile,SM-G900W8
+mobile-SM-G901F,1,0,0.0,mobile,SM-G901F
+mobile-SM-G903F Build/MMB29K,6,0,0.0,mobile,SM-G903F Build/MMB29K
+mobile-SM-G903M,4,0,0.0,mobile,SM-G903M
+mobile-SM-G903W,1,0,0.0,mobile,SM-G903W
+mobile-SM-G920F Build/MMB29K,5,0,0.0,mobile,SM-G920F Build/MMB29K
+mobile-SM-G920F Build/NRD90M,43,0,0.0,mobile,SM-G920F Build/NRD90M
+mobile-SM-G920I,3,0,0.0,mobile,SM-G920I
+mobile-SM-G920I Build/NRD90M,23,0,0.0,mobile,SM-G920I Build/NRD90M
+mobile-SM-G920P,4,0,0.0,mobile,SM-G920P
+mobile-SM-G920P Build/NRD90M,54,39,0.722222,mobile,SM-G920P Build/NRD90M
+mobile-SM-G920R4,3,0,0.0,mobile,SM-G920R4
+mobile-SM-G920T,1,0,0.0,mobile,SM-G920T
+mobile-SM-G920T Build/NRD90M,19,0,0.0,mobile,SM-G920T Build/NRD90M
+mobile-SM-G920T1,3,0,0.0,mobile,SM-G920T1
+mobile-SM-G920V,4,0,0.0,mobile,SM-G920V
+mobile-SM-G920V Build/MMB29K,12,0,0.0,mobile,SM-G920V Build/MMB29K
+mobile-SM-G920V Build/NRD90M,91,0,0.0,mobile,SM-G920V Build/NRD90M
+mobile-SM-G920W8,4,0,0.0,mobile,SM-G920W8
+mobile-SM-G9250,1,0,0.0,mobile,SM-G9250
+mobile-SM-G925F Build/NRD90M,4,0,0.0,mobile,SM-G925F Build/NRD90M
+mobile-SM-G925I,1,0,0.0,mobile,SM-G925I
+mobile-SM-G925I Build/LMY47X,3,0,0.0,mobile,SM-G925I Build/LMY47X
+mobile-SM-G925I Build/MMB29K,6,2,0.333333,mobile,SM-G925I Build/MMB29K
+mobile-SM-G925I Build/NRD90M,81,15,0.185185,mobile,SM-G925I Build/NRD90M
+mobile-SM-G925P Build/NRD90M,2,0,0.0,mobile,SM-G925P Build/NRD90M
+mobile-SM-G925R4,1,0,0.0,mobile,SM-G925R4
+mobile-SM-G925T Build/LMY47X,6,6,1.0,mobile,SM-G925T Build/LMY47X
+mobile-SM-G925T Build/NRD90M,18,3,0.166667,mobile,SM-G925T Build/NRD90M
+mobile-SM-G925V Build/NRD90M,28,0,0.0,mobile,SM-G925V Build/NRD90M
+mobile-SM-G925W8,3,0,0.0,mobile,SM-G925W8
+mobile-SM-G928F,1,1,1.0,mobile,SM-G928F
+mobile-SM-G928G,1,0,0.0,mobile,SM-G928G
+mobile-SM-G928G Build/MMB29K,4,0,0.0,mobile,SM-G928G Build/MMB29K
+mobile-SM-G928G Build/NRD90M,33,2,0.060606,mobile,SM-G928G Build/NRD90M
+mobile-SM-G928P,1,0,0.0,mobile,SM-G928P
+mobile-SM-G928P Build/NRD90M,4,0,0.0,mobile,SM-G928P Build/NRD90M
+mobile-SM-G928T Build/NRD90M,13,0,0.0,mobile,SM-G928T Build/NRD90M
+mobile-SM-G928V,3,0,0.0,mobile,SM-G928V
+mobile-SM-G928V Build/MMB29K,5,0,0.0,mobile,SM-G928V Build/MMB29K
+mobile-SM-G928V Build/NRD90M,23,0,0.0,mobile,SM-G928V Build/NRD90M
+mobile-SM-G930F Build/MMB29K,6,0,0.0,mobile,SM-G930F Build/MMB29K
+mobile-SM-G930F Build/NRD90M,144,4,0.027778,mobile,SM-G930F Build/NRD90M
+mobile-SM-G930P,1,0,0.0,mobile,SM-G930P
+mobile-SM-G930P Build/NRD90M,49,0,0.0,mobile,SM-G930P Build/NRD90M
+mobile-SM-G930R4 Build/NRD90M,6,0,0.0,mobile,SM-G930R4 Build/NRD90M
+mobile-SM-G930R7,1,0,0.0,mobile,SM-G930R7
+mobile-SM-G930T,1,0,0.0,mobile,SM-G930T
+mobile-SM-G930T Build/NRD90M,76,0,0.0,mobile,SM-G930T Build/NRD90M
+mobile-SM-G930T1,2,0,0.0,mobile,SM-G930T1
+mobile-SM-G930U Build/NRD90M,12,0,0.0,mobile,SM-G930U Build/NRD90M
+mobile-SM-G930V Build/MMB29M,11,0,0.0,mobile,SM-G930V Build/MMB29M
+mobile-SM-G930V Build/NRD90M,274,0,0.0,mobile,SM-G930V Build/NRD90M
+mobile-SM-G930VL Build/NRD90M,4,0,0.0,mobile,SM-G930VL Build/NRD90M
+mobile-SM-G930W8 Build/NRD90M,11,3,0.272727,mobile,SM-G930W8 Build/NRD90M
+mobile-SM-G935F Build/MMB29K,19,1,0.052632,mobile,SM-G935F Build/MMB29K
+mobile-SM-G935F Build/NRD90M,334,31,0.092814,mobile,SM-G935F Build/NRD90M
+mobile-SM-G935P Build/NRD90M,47,1,0.021277,mobile,SM-G935P Build/NRD90M
+mobile-SM-G935T,1,0,0.0,mobile,SM-G935T
+mobile-SM-G935T Build/NRD90M,44,2,0.045455,mobile,SM-G935T Build/NRD90M
+mobile-SM-G935U,2,0,0.0,mobile,SM-G935U
+mobile-SM-G935V,1,0,0.0,mobile,SM-G935V
+mobile-SM-G935V Build/NRD90M,137,0,0.0,mobile,SM-G935V Build/NRD90M
+mobile-SM-G935W8,3,0,0.0,mobile,SM-G935W8
+mobile-SM-G950F Build/NRD90M,225,34,0.151111,mobile,SM-G950F Build/NRD90M
+mobile-SM-G950F Build/R16NW,65,4,0.061538,mobile,SM-G950F Build/R16NW
+mobile-SM-G950U Build/NRD90M,290,16,0.055172,mobile,SM-G950U Build/NRD90M
+mobile-SM-G950U Build/R16NW,74,0,0.0,mobile,SM-G950U Build/R16NW
+mobile-SM-G950U1 Build/NRD90M,23,0,0.0,mobile,SM-G950U1 Build/NRD90M
+mobile-SM-G950U1 Build/R16NW,1,0,0.0,mobile,SM-G950U1 Build/R16NW
+mobile-SM-G950W,5,0,0.0,mobile,SM-G950W
+mobile-SM-G955F,2,2,1.0,mobile,SM-G955F
+mobile-SM-G955F Build/NRD90M,134,26,0.19403,mobile,SM-G955F Build/NRD90M
+mobile-SM-G955F Build/R16NW,25,1,0.04,mobile,SM-G955F Build/R16NW
+mobile-SM-G955U Build/NRD90M,328,33,0.10061,mobile,SM-G955U Build/NRD90M
+mobile-SM-G955U Build/R16NW,59,13,0.220339,mobile,SM-G955U Build/R16NW
+mobile-SM-G955U1 Build/NRD90M,8,0,0.0,mobile,SM-G955U1 Build/NRD90M
+mobile-SM-G955U1 Build/R16NW,3,0,0.0,mobile,SM-G955U1 Build/R16NW
+mobile-SM-G955W,1,0,0.0,mobile,SM-G955W
+mobile-SM-G9600 Build/R16NW,22,9,0.409091,mobile,SM-G9600 Build/R16NW
+mobile-SM-G960F Build/R16NW,6,0,0.0,mobile,SM-G960F Build/R16NW
+mobile-SM-G960U Build/R16NW,11,0,0.0,mobile,SM-G960U Build/R16NW
+mobile-SM-G9650 Build/R16NW,16,8,0.5,mobile,SM-G9650 Build/R16NW
+mobile-SM-G965F Build/R16NW,9,0,0.0,mobile,SM-G965F Build/R16NW
+mobile-SM-G965U Build/R16NW,24,0,0.0,mobile,SM-G965U Build/R16NW
+mobile-SM-J100MU,2,0,0.0,mobile,SM-J100MU
+mobile-SM-J100VPP Build/LMY48B,12,6,0.5,mobile,SM-J100VPP Build/LMY48B
+mobile-SM-J105B Build/LMY47V,39,17,0.435897,mobile,SM-J105B Build/LMY47V
+mobile-SM-J110M Build/LMY48B,17,4,0.235294,mobile,SM-J110M Build/LMY48B
+mobile-SM-J111M Build/LMY47V,42,9,0.214286,mobile,SM-J111M Build/LMY47V
+mobile-SM-J120FN Build/LMY47X,6,0,0.0,mobile,SM-J120FN Build/LMY47X
+mobile-SM-J120H Build/LMY47V,25,2,0.08,mobile,SM-J120H Build/LMY47V
+mobile-SM-J120M,1,0,0.0,mobile,SM-J120M
+mobile-SM-J120W,1,0,0.0,mobile,SM-J120W
+mobile-SM-J200H,2,0,0.0,mobile,SM-J200H
+mobile-SM-J200M Build/LMY47X,27,0,0.0,mobile,SM-J200M Build/LMY47X
+mobile-SM-J250M Build/NMF26X,1,0,0.0,mobile,SM-J250M Build/NMF26X
+mobile-SM-J320FN Build/LMY47V,16,0,0.0,mobile,SM-J320FN Build/LMY47V
+mobile-SM-J320H,1,0,0.0,mobile,SM-J320H
+mobile-SM-J320M Build/LMY47V,167,55,0.329341,mobile,SM-J320M Build/LMY47V
+mobile-SM-J320P Build/LMY47X,5,0,0.0,mobile,SM-J320P Build/LMY47X
+mobile-SM-J320V Build/MMB29M,3,0,0.0,mobile,SM-J320V Build/MMB29M
+mobile-SM-J320V Build/NMF26X,6,0,0.0,mobile,SM-J320V Build/NMF26X
+mobile-SM-J320VPP,2,0,0.0,mobile,SM-J320VPP
+mobile-SM-J320W8,1,0,0.0,mobile,SM-J320W8
+mobile-SM-J327P Build/MMB29M,32,11,0.34375,mobile,SM-J327P Build/MMB29M
+mobile-SM-J327T Build/NRD90M,9,0,0.0,mobile,SM-J327T Build/NRD90M
+mobile-SM-J327T1 Build/NRD90M,23,9,0.391304,mobile,SM-J327T1 Build/NRD90M
+mobile-SM-J327V Build/NRD90M,8,0,0.0,mobile,SM-J327V Build/NRD90M
+mobile-SM-J327VPP Build/NRD90M,3,0,0.0,mobile,SM-J327VPP Build/NRD90M
+mobile-SM-J330F,1,0,0.0,mobile,SM-J330F
+mobile-SM-J330FN Build/NRD90M,1,0,0.0,mobile,SM-J330FN Build/NRD90M
+mobile-SM-J500FN,1,0,0.0,mobile,SM-J500FN
+mobile-SM-J500FN Build/MMB29M,5,0,0.0,mobile,SM-J500FN Build/MMB29M
+mobile-SM-J500G,1,0,0.0,mobile,SM-J500G
+mobile-SM-J500H,2,0,0.0,mobile,SM-J500H
+mobile-SM-J500M Build/LMY48B,81,32,0.395062,mobile,SM-J500M Build/LMY48B
+mobile-SM-J500M Build/MMB29M,43,4,0.093023,mobile,SM-J500M Build/MMB29M
+mobile-SM-J510F,4,0,0.0,mobile,SM-J510F
+mobile-SM-J510FN,4,0,0.0,mobile,SM-J510FN
+mobile-SM-J510FN Build/NMF26X,2,0,0.0,mobile,SM-J510FN Build/NMF26X
+mobile-SM-J510MN Build/MMB29M,157,16,0.101911,mobile,SM-J510MN Build/MMB29M
+mobile-SM-J510MN Build/NMF26X,1,0,0.0,mobile,SM-J510MN Build/NMF26X
+mobile-SM-J530F Build/NRD90M,9,0,0.0,mobile,SM-J530F Build/NRD90M
+mobile-SM-J530G,2,0,0.0,mobile,SM-J530G
+mobile-SM-J530GM Build/NRD90M,27,0,0.0,mobile,SM-J530GM Build/NRD90M
+mobile-SM-J700F,2,0,0.0,mobile,SM-J700F
+mobile-SM-J700H Build/MMB29K,13,0,0.0,mobile,SM-J700H Build/MMB29K
+mobile-SM-J700M Build/LMY48B,96,12,0.125,mobile,SM-J700M Build/LMY48B
+mobile-SM-J700M Build/MMB29K,549,60,0.10929,mobile,SM-J700M Build/MMB29K
+mobile-SM-J700P,3,0,0.0,mobile,SM-J700P
+mobile-SM-J700T Build/MMB29K,8,8,1.0,mobile,SM-J700T Build/MMB29K
+mobile-SM-J700T Build/NMF26X,20,0,0.0,mobile,SM-J700T Build/NMF26X
+mobile-SM-J700T1,1,0,0.0,mobile,SM-J700T1
+mobile-SM-J700T1 Build/NMF26X,7,0,0.0,mobile,SM-J700T1 Build/NMF26X
+mobile-SM-J701M Build/NRD90M,154,30,0.194805,mobile,SM-J701M Build/NRD90M
+mobile-SM-J7108,1,0,0.0,mobile,SM-J7108
+mobile-SM-J710F Build/NRD90M,6,0,0.0,mobile,SM-J710F Build/NRD90M
+mobile-SM-J710GN,1,0,0.0,mobile,SM-J710GN
+mobile-SM-J710GN Build/MMB29K,6,0,0.0,mobile,SM-J710GN Build/MMB29K
+mobile-SM-J710MN Build/MMB29K,83,0,0.0,mobile,SM-J710MN Build/MMB29K
+mobile-SM-J710MN Build/NRD90M,7,0,0.0,mobile,SM-J710MN Build/NRD90M
+mobile-SM-J727P,3,0,0.0,mobile,SM-J727P
+mobile-SM-J727T Build/NRD90M,8,0,0.0,mobile,SM-J727T Build/NRD90M
+mobile-SM-J727T1 Build/NRD90M,23,7,0.304348,mobile,SM-J727T1 Build/NRD90M
+mobile-SM-J727U Build/NRD90M,7,0,0.0,mobile,SM-J727U Build/NRD90M
+mobile-SM-J727V Build/NRD90M,9,0,0.0,mobile,SM-J727V Build/NRD90M
+mobile-SM-J727VPP Build/NRD90M,12,0,0.0,mobile,SM-J727VPP Build/NRD90M
+mobile-SM-J730F,1,0,0.0,mobile,SM-J730F
+mobile-SM-J730G Build/NRD90M,11,1,0.090909,mobile,SM-J730G Build/NRD90M
+mobile-SM-J730GM Build/NRD90M,184,27,0.146739,mobile,SM-J730GM Build/NRD90M
+mobile-SM-N9005 Build/LRX21V,2,0,0.0,mobile,SM-N9005 Build/LRX21V
+mobile-SM-N900P Build/LRX21V,2,0,0.0,mobile,SM-N900P Build/LRX21V
+mobile-SM-N900T,1,0,0.0,mobile,SM-N900T
+mobile-SM-N900T Build/LRX21V,8,3,0.375,mobile,SM-N900T Build/LRX21V
+mobile-SM-N900V Build/LRX21V,4,0,0.0,mobile,SM-N900V Build/LRX21V
+mobile-SM-N900W8 Build/LRX21V,16,0,0.0,mobile,SM-N900W8 Build/LRX21V
+mobile-SM-N910C Build/MMB29K,9,0,0.0,mobile,SM-N910C Build/MMB29K
+mobile-SM-N910F Build/MMB29M,11,0,0.0,mobile,SM-N910F Build/MMB29M
+mobile-SM-N910H,2,0,0.0,mobile,SM-N910H
+mobile-SM-N910P,2,0,0.0,mobile,SM-N910P
+mobile-SM-N910T Build/LMY47X,1,0,0.0,mobile,SM-N910T Build/LMY47X
+mobile-SM-N910T Build/MMB29M,8,0,0.0,mobile,SM-N910T Build/MMB29M
+mobile-SM-N910T3,1,0,0.0,mobile,SM-N910T3
+mobile-SM-N910V Build/MMB29M,27,0,0.0,mobile,SM-N910V Build/MMB29M
+mobile-SM-N915V,1,0,0.0,mobile,SM-N915V
+mobile-SM-N920A Build/MMB29K,21,21,1.0,mobile,SM-N920A Build/MMB29K
+mobile-SM-N920C Build/NRD90M,6,0,0.0,mobile,SM-N920C Build/NRD90M
+mobile-SM-N920G Build/NRD90M,11,0,0.0,mobile,SM-N920G Build/NRD90M
+mobile-SM-N920P,1,0,0.0,mobile,SM-N920P
+mobile-SM-N920P Build/NRD90M,16,4,0.25,mobile,SM-N920P Build/NRD90M
+mobile-SM-N920R4,1,0,0.0,mobile,SM-N920R4
+mobile-SM-N920T,1,0,0.0,mobile,SM-N920T
+mobile-SM-N920T Build/NRD90M,29,0,0.0,mobile,SM-N920T Build/NRD90M
+mobile-SM-N920V,4,0,0.0,mobile,SM-N920V
+mobile-SM-N920V Build/NRD90M,57,14,0.245614,mobile,SM-N920V Build/NRD90M
+mobile-SM-N9500,3,0,0.0,mobile,SM-N9500
+mobile-SM-N950F Build/NMF26X,53,6,0.113208,mobile,SM-N950F Build/NMF26X
+mobile-SM-N950F Build/R16NW,1,0,0.0,mobile,SM-N950F Build/R16NW
+mobile-SM-N950U Build/NMF26X,209,13,0.062201,mobile,SM-N950U Build/NMF26X
+mobile-SM-N950U Build/R16NW,61,1,0.016393,mobile,SM-N950U Build/R16NW
+mobile-SM-N950U1 Build/NMF26X,6,0,0.0,mobile,SM-N950U1 Build/NMF26X
+mobile-SM-N950U1 Build/R16NW,5,0,0.0,mobile,SM-N950U1 Build/R16NW
+mobile-SM-N950W,1,0,0.0,mobile,SM-N950W
+mobile-SM-P350 Build/MMB29M,20,0,0.0,mobile,SM-P350 Build/MMB29M
+mobile-SM-P355M,1,0,0.0,mobile,SM-P355M
+mobile-SM-P355M Build/MMB29M,12,3,0.25,mobile,SM-P355M Build/MMB29M
+mobile-SM-P550,1,0,0.0,mobile,SM-P550
+mobile-SM-P550 Build/MMB29M,7,1,0.142857,mobile,SM-P550 Build/MMB29M
+mobile-SM-P550 Build/NMF26X,7,1,0.142857,mobile,SM-P550 Build/NMF26X
+mobile-SM-P580 Build/NRD90M,11,0,0.0,mobile,SM-P580 Build/NRD90M
+mobile-SM-P600,1,0,0.0,mobile,SM-P600
+mobile-SM-P600 Build/LMY47X,5,0,0.0,mobile,SM-P600 Build/LMY47X
+mobile-SM-P605V,2,0,0.0,mobile,SM-P605V
+mobile-SM-P607T,2,0,0.0,mobile,SM-P607T
+mobile-SM-P900,4,0,0.0,mobile,SM-P900
+mobile-SM-S120VL,1,0,0.0,mobile,SM-S120VL
+mobile-SM-S320VL,1,0,0.0,mobile,SM-S320VL
+mobile-SM-S327VL,2,0,0.0,mobile,SM-S327VL
+mobile-SM-S550TL,1,0,0.0,mobile,SM-S550TL
+mobile-SM-S727VL Build/MMB29M,15,9,0.6,mobile,SM-S727VL Build/MMB29M
+mobile-SM-S820L,1,0,0.0,mobile,SM-S820L
+mobile-SM-S902L,3,0,0.0,mobile,SM-S902L
+mobile-SM-S903VL,4,0,0.0,mobile,SM-S903VL
+mobile-SM-S906L,1,0,0.0,mobile,SM-S906L
+mobile-SM-S907VL,1,0,0.0,mobile,SM-S907VL
+mobile-SM-S920L,3,0,0.0,mobile,SM-S920L
+mobile-SM-S975L,1,0,0.0,mobile,SM-S975L
+mobile-SM-T110 Build/JDQ39,8,0,0.0,mobile,SM-T110 Build/JDQ39
+mobile-SM-T113 Build/KTU84P,9,0,0.0,mobile,SM-T113 Build/KTU84P
+mobile-SM-T113NU Build/KTU84P,17,4,0.235294,mobile,SM-T113NU Build/KTU84P
+mobile-SM-T210,1,0,0.0,mobile,SM-T210
+mobile-SM-T217S Build/KOT49H,4,4,1.0,mobile,SM-T217S Build/KOT49H
+mobile-SM-T230 Build/KOT49H,8,0,0.0,mobile,SM-T230 Build/KOT49H
+mobile-SM-T230NU Build/KOT49H,11,0,0.0,mobile,SM-T230NU Build/KOT49H
+mobile-SM-T237P,1,0,0.0,mobile,SM-T237P
+mobile-SM-T280 Build/LMY47V,24,0,0.0,mobile,SM-T280 Build/LMY47V
+mobile-SM-T285M,1,1,1.0,mobile,SM-T285M
+mobile-SM-T310 Build/KOT49H,5,0,0.0,mobile,SM-T310 Build/KOT49H
+mobile-SM-T320 Build/KOT49H,2,0,0.0,mobile,SM-T320 Build/KOT49H
+mobile-SM-T330,1,0,0.0,mobile,SM-T330
+mobile-SM-T330NU Build/LMY47X,4,0,0.0,mobile,SM-T330NU Build/LMY47X
+mobile-SM-T337V,2,0,0.0,mobile,SM-T337V
+mobile-SM-T350 Build/MMB29M,17,0,0.0,mobile,SM-T350 Build/MMB29M
+mobile-SM-T350 Build/NMF26X,32,0,0.0,mobile,SM-T350 Build/NMF26X
+mobile-SM-T355Y Build/NMF26X,1,0,0.0,mobile,SM-T355Y Build/NMF26X
+mobile-SM-T377P,1,0,0.0,mobile,SM-T377P
+mobile-SM-T377P Build/NMF26X,11,0,0.0,mobile,SM-T377P Build/NMF26X
+mobile-SM-T377T,2,0,0.0,mobile,SM-T377T
+mobile-SM-T377V,2,0,0.0,mobile,SM-T377V
+mobile-SM-T377V Build/NMF26X,21,0,0.0,mobile,SM-T377V Build/NMF26X
+mobile-SM-T377W,1,0,0.0,mobile,SM-T377W
+mobile-SM-T380,1,0,0.0,mobile,SM-T380
+mobile-SM-T520,4,0,0.0,mobile,SM-T520
+mobile-SM-T530,1,1,1.0,mobile,SM-T530
+mobile-SM-T530 Build/LRX22G,8,0,0.0,mobile,SM-T530 Build/LRX22G
+mobile-SM-T530NU Build/LRX22G,16,0,0.0,mobile,SM-T530NU Build/LRX22G
+mobile-SM-T537V,1,0,0.0,mobile,SM-T537V
+mobile-SM-T550,4,0,0.0,mobile,SM-T550
+mobile-SM-T550 Build/NMF26X,31,7,0.225806,mobile,SM-T550 Build/NMF26X
+mobile-SM-T555,3,0,0.0,mobile,SM-T555
+mobile-SM-T560 Build/KTU84P,41,4,0.097561,mobile,SM-T560 Build/KTU84P
+mobile-SM-T560NU Build/MMB29M,6,0,0.0,mobile,SM-T560NU Build/MMB29M
+mobile-SM-T560NU Build/NMF26X,9,0,0.0,mobile,SM-T560NU Build/NMF26X
+mobile-SM-T580,1,0,0.0,mobile,SM-T580
+mobile-SM-T580 Build/NRD90M,21,0,0.0,mobile,SM-T580 Build/NRD90M
+mobile-SM-T585,2,0,0.0,mobile,SM-T585
+mobile-SM-T587P,1,0,0.0,mobile,SM-T587P
+mobile-SM-T670,3,0,0.0,mobile,SM-T670
+mobile-SM-T700 Build/MMB29K,11,0,0.0,mobile,SM-T700 Build/MMB29K
+mobile-SM-T705,1,0,0.0,mobile,SM-T705
+mobile-SM-T710 Build/NRD90M,28,0,0.0,mobile,SM-T710 Build/NRD90M
+mobile-SM-T713 Build/NRD90M,12,1,0.083333,mobile,SM-T713 Build/NRD90M
+mobile-SM-T800,7,0,0.0,mobile,SM-T800
+mobile-SM-T800 Build/MMB29K,22,0,0.0,mobile,SM-T800 Build/MMB29K
+mobile-SM-T807T,1,0,0.0,mobile,SM-T807T
+mobile-SM-T807V,2,0,0.0,mobile,SM-T807V
+mobile-SM-T810,1,0,0.0,mobile,SM-T810
+mobile-SM-T810 Build/NRD90M,26,0,0.0,mobile,SM-T810 Build/NRD90M
+mobile-SM-T813 Build/NRD90M,13,0,0.0,mobile,SM-T813 Build/NRD90M
+mobile-SM-T817T,1,0,0.0,mobile,SM-T817T
+mobile-SM-T817V Build/NRD90M,9,0,0.0,mobile,SM-T817V Build/NRD90M
+mobile-SM-T818V,1,0,0.0,mobile,SM-T818V
+mobile-SM-T820 Build/NRD90M,8,0,0.0,mobile,SM-T820 Build/NRD90M
+mobile-SM-T825 Build/NRD90M,4,0,0.0,mobile,SM-T825 Build/NRD90M
+mobile-SM-T827R4,1,0,0.0,mobile,SM-T827R4
+mobile-SM-T827V Build/NRD90M,11,0,0.0,mobile,SM-T827V Build/NRD90M
+mobile-SMART,1,0,0.0,mobile,SMART
+mobile-SOV33 Build/35.0.D.2.25,9,0,0.0,mobile,SOV33 Build/35.0.D.2.25
+mobile-SP7731G,1,0,0.0,mobile,SP7731G
+mobile-SPH-L720,1,0,0.0,mobile,SPH-L720
+mobile-SPH-L720T,1,0,0.0,mobile,SPH-L720T
+mobile-STELLAR,1,0,0.0,mobile,STELLAR
+mobile-STF-L09 Build/HUAWEISTF-L09,20,0,0.0,mobile,STF-L09 Build/HUAWEISTF-L09
+mobile-STK_Sync_5e,3,0,0.0,mobile,STK_Sync_5e
+mobile-STUDIO_G_HD,1,0,0.0,mobile,STUDIO_G_HD
+mobile-STV100-1,3,0,0.0,mobile,STV100-1
+mobile-STV100-2 Build/MMB29M,4,0,0.0,mobile,STV100-2 Build/MMB29M
+mobile-STV100-3,1,0,0.0,mobile,STV100-3
+mobile-STV100-4 Build/LMY47V,6,0,0.0,mobile,STV100-4 Build/LMY47V
+mobile-Shift Build/LMY47I,1,0,0.0,mobile,Shift Build/LMY47I
+mobile-Stellar,1,0,0.0,mobile,Stellar
+mobile-Studio,6,0,0.0,mobile,Studio
+mobile-Swift,1,0,0.0,mobile,Swift
+mobile-T08,1,0,0.0,mobile,T08
+mobile-T1,2,0,0.0,mobile,T1
+mobile-TA-1003,1,0,0.0,mobile,TA-1003
+mobile-TA-1004,1,0,0.0,mobile,TA-1004
+mobile-TA-1020,1,0,0.0,mobile,TA-1020
+mobile-TA-1025,3,0,0.0,mobile,TA-1025
+mobile-TA-1025 Build/NMF26F,5,0,0.0,mobile,TA-1025 Build/NMF26F
+mobile-TA-1025 Build/OPR1.170623.026,3,0,0.0,mobile,TA-1025 Build/OPR1.170623.026
+mobile-TA-1027,3,0,0.0,mobile,TA-1027
+mobile-TA-1027 Build/N2G47H,4,0,0.0,mobile,TA-1027 Build/N2G47H
+mobile-TA-1027 Build/OPR1.170623.026,4,0,0.0,mobile,TA-1027 Build/OPR1.170623.026
+mobile-TA-1028 Build/NMF26O,5,0,0.0,mobile,TA-1028 Build/NMF26O
+mobile-TA-1028 Build/NRD90M,7,0,0.0,mobile,TA-1028 Build/NRD90M
+mobile-TA-1028 Build/O00623,4,0,0.0,mobile,TA-1028 Build/O00623
+mobile-TA-1032,1,0,0.0,mobile,TA-1032
+mobile-TA-1038,2,0,0.0,mobile,TA-1038
+mobile-TA-1038 Build/NMF26O,24,14,0.583333,mobile,TA-1038 Build/NMF26O
+mobile-TA-1038 Build/O00623,2,0,0.0,mobile,TA-1038 Build/O00623
+mobile-TA-1039 Build/N2G47H,17,14,0.823529,mobile,TA-1039 Build/N2G47H
+mobile-TA-1039 Build/NMF26F,32,27,0.84375,mobile,TA-1039 Build/NMF26F
+mobile-TA-1044,2,0,0.0,mobile,TA-1044
+mobile-TA-1044 Build/NMF26F,7,0,0.0,mobile,TA-1044 Build/NMF26F
+mobile-TA-1044 Build/OPR1.170623.026,4,0,0.0,mobile,TA-1044 Build/OPR1.170623.026
+mobile-TA-1052,4,0,0.0,mobile,TA-1052
+mobile-TAB7,2,2,1.0,mobile,TAB7
+mobile-TOMMY2,3,0,0.0,mobile,TOMMY2
+mobile-TR10CS1 Build/JDQ39,10,10,1.0,mobile,TR10CS1 Build/JDQ39
+mobile-TREKKER-M1,3,0,0.0,mobile,TREKKER-M1
+mobile-TREKKER-X3 Build/MMB29M,5,0,0.0,mobile,TREKKER-X3 Build/MMB29M
+mobile-TRT-L53 Build/HUAWEITRT-L53,122,17,0.139344,mobile,TRT-L53 Build/HUAWEITRT-L53
+mobile-TRT-LX3,3,0,0.0,mobile,TRT-LX3
+mobile-Tab2A7-10F,1,0,0.0,mobile,Tab2A7-10F
+mobile-Techpad,3,0,0.0,mobile,Techpad
+mobile-Tmovi Build/Vision,8,0,0.0,mobile,Tmovi Build/Vision
+mobile-Tornado,1,0,0.0,mobile,Tornado
+mobile-Trident/7.0,27,0,0.0,mobile,Trident/7.0
+mobile-Turbo C5 Build/LMY47I,8,0,0.0,mobile,Turbo C5 Build/LMY47I
+mobile-U,2,0,0.0,mobile,U
+mobile-U FEEL LITE Build/MRA58K,1,0,0.0,mobile,U FEEL LITE Build/MRA58K
+mobile-UL40,2,0,0.0,mobile,UL40
+mobile-V.40R,1,0,0.0,mobile,V.40R
+mobile-V502015,1,0,0.0,mobile,V502015
+mobile-VFD,2,0,0.0,mobile,VFD
+mobile-VK700 Build/LRX22G,3,0,0.0,mobile,VK700 Build/LRX22G
+mobile-VK810,1,0,0.0,mobile,VK810
+mobile-VK815,1,0,0.0,mobile,VK815
+mobile-VKY-L09 Build/HUAWEIVKY-L09,11,0,0.0,mobile,VKY-L09 Build/HUAWEIVKY-L09
+mobile-VS425,4,0,0.0,mobile,VS425
+mobile-VS425PP Build/LMY47V,28,23,0.821429,mobile,VS425PP Build/LMY47V
+mobile-VS500,1,0,0.0,mobile,VS500
+mobile-VS501 Build/NRD90U,7,0,0.0,mobile,VS501 Build/NRD90U
+mobile-VS5012 Build/NRD90M,34,34,1.0,mobile,VS5012 Build/NRD90M
+mobile-VS820,2,0,0.0,mobile,VS820
+mobile-VS835,3,0,0.0,mobile,VS835
+mobile-VS880,1,0,0.0,mobile,VS880
+mobile-VS880PP,1,0,0.0,mobile,VS880PP
+mobile-VS980 4G Build/LRX22G,6,0,0.0,mobile,VS980 4G Build/LRX22G
+mobile-VS985,2,0,0.0,mobile,VS985
+mobile-VS986 Build/MRA58K,6,0,0.0,mobile,VS986 Build/MRA58K
+mobile-VS987 Build/NRD90U,22,0,0.0,mobile,VS987 Build/NRD90U
+mobile-VS988 Build/NRD90U,28,0,0.0,mobile,VS988 Build/NRD90U
+mobile-VS990 Build/MRA58K,6,0,0.0,mobile,VS990 Build/MRA58K
+mobile-VS995 Build/NRD90M,30,1,0.033333,mobile,VS995 Build/NRD90M
+mobile-VS996,4,0,0.0,mobile,VS996
+mobile-VS996 Build/OPR1.170623.026,2,0,0.0,mobile,VS996 Build/OPR1.170623.026
+mobile-VT0701A08,1,0,0.0,mobile,VT0701A08
+mobile-VTR-AL00 Build/HUAWEIVTR-AL00,9,0,0.0,mobile,VTR-AL00 Build/HUAWEIVTR-AL00
+mobile-VTR-L09 Build/HUAWEIVTR-L09,19,1,0.052632,mobile,VTR-L09 Build/HUAWEIVTR-L09
+mobile-VTR-L29,4,0,0.0,mobile,VTR-L29
+mobile-Venue,1,0,0.0,mobile,Venue
+mobile-VerykoolS5030,1,0,0.0,mobile,VerykoolS5030
+mobile-Vivo,5,0,0.0,mobile,Vivo
+mobile-WAS-L03T Build/HUAWEIWAS-L03T,2,0,0.0,mobile,WAS-L03T Build/HUAWEIWAS-L03T
+mobile-WAS-LX1 Build/HUAWEIWAS-LX1,4,0,0.0,mobile,WAS-LX1 Build/HUAWEIWAS-LX1
+mobile-WAS-LX1A Build/HUAWEIWAS-LX1A,23,0,0.0,mobile,WAS-LX1A Build/HUAWEIWAS-LX1A
+mobile-WAS-LX2J,1,0,0.0,mobile,WAS-LX2J
+mobile-WAS-LX3 Build/HUAWEIWAS-LX3,108,28,0.259259,mobile,WAS-LX3 Build/HUAWEIWAS-LX3
+mobile-WAS-TL10 Build/HUAWEIWAS-TL10,5,0,0.0,mobile,WAS-TL10 Build/HUAWEIWAS-TL10
+mobile-Wileyfox,1,0,0.0,mobile,Wileyfox
+mobile-X10,1,0,0.0,mobile,X10
+mobile-X3402,4,0,0.0,mobile,X3402
+mobile-X78,1,0,0.0,mobile,X78
+mobile-X900+,1,0,0.0,mobile,X900+
+mobile-XT1003,4,0,0.0,mobile,XT1003
+mobile-XT1008,3,0,0.0,mobile,XT1008
+mobile-XT1008 Build/LPBS23.13-56-2,5,0,0.0,mobile,XT1008 Build/LPBS23.13-56-2
+mobile-XT1021,4,4,1.0,mobile,XT1021
+mobile-XT1021 Build/KXC21.5-40,7,0,0.0,mobile,XT1021 Build/KXC21.5-40
+mobile-XT1021 Build/LPCS23.13-34.8-3,7,5,0.714286,mobile,XT1021 Build/LPCS23.13-34.8-3
+mobile-XT1023,1,0,0.0,mobile,XT1023
+mobile-XT1030 Build/SU6-7.7,10,0,0.0,mobile,XT1030 Build/SU6-7.7
+mobile-XT1031,1,0,0.0,mobile,XT1031
+mobile-XT1032,5,0,0.0,mobile,XT1032
+mobile-XT1032 Build/KXB20.9-1.10-1.24-1.1,2,0,0.0,mobile,XT1032 Build/KXB20.9-1.10-1.24-1.1
+mobile-XT1032 Build/KXB21.14-L1.40,5,0,0.0,mobile,XT1032 Build/KXB21.14-L1.40
+mobile-XT1032 Build/LPBS23.13-56-2,46,6,0.130435,mobile,XT1032 Build/LPBS23.13-56-2
+mobile-XT1032 Build/LPBS23.13-57-2,5,0,0.0,mobile,XT1032 Build/LPBS23.13-57-2
+mobile-XT1033,3,3,1.0,mobile,XT1033
+mobile-XT1040,5,0,0.0,mobile,XT1040
+mobile-XT1053 Build/LPAS23.12-21.7-1,19,0,0.0,mobile,XT1053 Build/LPAS23.12-21.7-1
+mobile-XT1055,1,0,0.0,mobile,XT1055
+mobile-XT1058,1,0,0.0,mobile,XT1058
+mobile-XT1058 Build/LPAS23.12-21.7-1,4,0,0.0,mobile,XT1058 Build/LPAS23.12-21.7-1
+mobile-XT1060,1,0,0.0,mobile,XT1060
+mobile-XT1063,1,0,0.0,mobile,XT1063
+mobile-XT1063 Build/MPB24.65-34,10,0,0.0,mobile,XT1063 Build/MPB24.65-34
+mobile-XT1063 Build/MPB24.65-34-3,9,0,0.0,mobile,XT1063 Build/MPB24.65-34-3
+mobile-XT1064,3,0,0.0,mobile,XT1064
+mobile-XT1064 Build/MPB24.65-34-3,26,4,0.153846,mobile,XT1064 Build/MPB24.65-34-3
+mobile-XT1068,2,0,0.0,mobile,XT1068
+mobile-XT1072,1,0,0.0,mobile,XT1072
+mobile-XT1080,1,0,0.0,mobile,XT1080
+mobile-XT1080 Build/SU6-7.7,8,0,0.0,mobile,XT1080 Build/SU6-7.7
+mobile-XT1092,3,0,0.0,mobile,XT1092
+mobile-XT1094,1,0,0.0,mobile,XT1094
+mobile-XT1095,1,0,0.0,mobile,XT1095
+mobile-XT1096,2,0,0.0,mobile,XT1096
+mobile-XT1097,5,0,0.0,mobile,XT1097
+mobile-XT1225,3,0,0.0,mobile,XT1225
+mobile-XT1254,1,0,0.0,mobile,XT1254
+mobile-XT1254 Build/MCG24.251-5-5,22,0,0.0,mobile,XT1254 Build/MCG24.251-5-5
+mobile-XT1528,3,0,0.0,mobile,XT1528
+mobile-XT1563,2,0,0.0,mobile,XT1563
+mobile-XT1563 Build/MPD24.107-52,10,2,0.2,mobile,XT1563 Build/MPD24.107-52
+mobile-XT1563 Build/MPD24.65-25,6,0,0.0,mobile,XT1563 Build/MPD24.65-25
+mobile-XT1563 Build/MPDS24.107-52-5,10,4,0.4,mobile,XT1563 Build/MPDS24.107-52-5
+mobile-XT1565,6,0,0.0,mobile,XT1565
+mobile-XT1572 Build/NPHS25.200-15-8,5,0,0.0,mobile,XT1572 Build/NPHS25.200-15-8
+mobile-XT1575,2,0,0.0,mobile,XT1575
+mobile-XT1575 Build/NPHS25.200-23-1,2,0,0.0,mobile,XT1575 Build/NPHS25.200-23-1
+mobile-XT1580,3,0,0.0,mobile,XT1580
+mobile-XT1580 Build/NPKS25.200-12-9,1,0,0.0,mobile,XT1580 Build/NPKS25.200-12-9
+mobile-XT1580 Build/NPKS25.200-17-8,3,0,0.0,mobile,XT1580 Build/NPKS25.200-17-8
+mobile-XT1585 Build/NCK25.118-10.5,36,0,0.0,mobile,XT1585 Build/NCK25.118-10.5
+mobile-XT1609,2,2,1.0,mobile,XT1609
+mobile-XT1609 Build/MPIS24.241-2.35-1-17,2,0,0.0,mobile,XT1609 Build/MPIS24.241-2.35-1-17
+mobile-XT1609 Build/NPIS26.48-38-3,3,1,0.333333,mobile,XT1609 Build/NPIS26.48-38-3
+mobile-XT1635-01,8,0,0.0,mobile,XT1635-01
+mobile-XT1635-01 Build/NDNS26.118-23-12-3,15,4,0.266667,mobile,XT1635-01 Build/NDNS26.118-23-12-3
+mobile-XT1635-02,15,6,0.4,mobile,XT1635-02
+mobile-XT1635-02 Build/NPN26.118-22-2,94,20,0.212766,mobile,XT1635-02 Build/NPN26.118-22-2
+mobile-XT1635-02 Build/OPN27.76-12-22,1,0,0.0,mobile,XT1635-02 Build/OPN27.76-12-22
+mobile-XT1650,18,4,0.222222,mobile,XT1650
+mobile-XT1650 Build/NCLS26.118-23-13-3,26,0,0.0,mobile,XT1650 Build/NCLS26.118-23-13-3
+mobile-XT1650 Build/NCLS26.118-23-13-6-5,9,0,0.0,mobile,XT1650 Build/NCLS26.118-23-13-6-5
+mobile-XT1650 Build/NPLS26.118-20-5-11,10,3,0.3,mobile,XT1650 Build/NPLS26.118-20-5-11
+mobile-XT1650 Build/NPLS26.118-20-5-3,6,0,0.0,mobile,XT1650 Build/NPLS26.118-20-5-3
+mobile-XT1680,1,0,0.0,mobile,XT1680
+mobile-XT1710-02,1,0,0.0,mobile,XT1710-02
+mobile-XT1710-02 Build/NDSS26.118-23-15,9,0,0.0,mobile,XT1710-02 Build/NDSS26.118-23-15
+mobile-XT1710-02 Build/NDSS26.118-23-19-6,13,0,0.0,mobile,XT1710-02 Build/NDSS26.118-23-19-6
+mobile-XT890 Build/9.8.2I-50_SML-25,8,8,1.0,mobile,XT890 Build/9.8.2I-50_SML-25
+mobile-Y550-L02,1,0,0.0,mobile,Y550-L02
+mobile-Y635-L03 Build/HuaweiY635-L03,32,7,0.21875,mobile,Y635-L03 Build/HuaweiY635-L03
+mobile-YOGA,1,0,0.0,mobile,YOGA
+mobile-YOLO,1,0,0.0,mobile,YOLO
+mobile-Z,2,1,0.5,mobile,Z
+mobile-Z2,1,0,0.0,mobile,Z2
+mobile-Z410,3,1,0.333333,mobile,Z410
+mobile-Z557BL,2,1,0.5,mobile,Z557BL
+mobile-Z798BL Build/MMB29M,5,4,0.8,mobile,Z798BL Build/MMB29M
+mobile-Z799VL,2,0,0.0,mobile,Z799VL
+mobile-Z812,1,0,0.0,mobile,Z812
+mobile-Z813 Build/LMY47O,2,2,1.0,mobile,Z813 Build/LMY47O
+mobile-Z831,1,0,0.0,mobile,Z831
+mobile-Z832 Build/MMB29M,6,5,0.833333,mobile,Z832 Build/MMB29M
+mobile-Z833,2,0,0.0,mobile,Z833
+mobile-Z835 Build/NMF26V,25,25,1.0,mobile,Z835 Build/NMF26V
+mobile-Z836BL,1,0,0.0,mobile,Z836BL
+mobile-Z837VL,3,2,0.666667,mobile,Z837VL
+mobile-Z839,2,0,0.0,mobile,Z839
+mobile-Z9 PLUS Build/NRD90M,7,0,0.0,mobile,Z9 PLUS Build/NRD90M
+mobile-Z955A,1,0,0.0,mobile,Z955A
+mobile-Z956 Build/MMB29M,13,0,0.0,mobile,Z956 Build/MMB29M
+mobile-Z959 Build/LMY47V,1,0,0.0,mobile,Z959 Build/LMY47V
+mobile-Z963VL,2,0,0.0,mobile,Z963VL
+mobile-Z965 Build/NMF26V,5,5,1.0,mobile,Z965 Build/NMF26V
+mobile-Z970,1,0,0.0,mobile,Z970
+mobile-Z971,4,0,0.0,mobile,Z971
+mobile-Z981 Build/MMB29M,32,6,0.1875,mobile,Z981 Build/MMB29M
+mobile-Z982 Build/NMF26V,13,0,0.0,mobile,Z982 Build/NMF26V
+mobile-Z983 Build/NMF26F,8,1,0.125,mobile,Z983 Build/NMF26F
+mobile-ZA409,1,0,0.0,mobile,ZA409
+mobile-ZA509,1,0,0.0,mobile,ZA509
+mobile-ZA990,1,0,0.0,mobile,ZA990
+mobile-ZEIA8,2,2,1.0,mobile,ZEIA8
+mobile-ZTE,7,0,0.0,mobile,ZTE
+mobile-ZTE A2017U Build/NRD90M,5,0,0.0,mobile,ZTE A2017U Build/NRD90M
+mobile-ZTE BLADE A321 Build/NMF26F,1,0,0.0,mobile,ZTE BLADE A321 Build/NMF26F
+mobile-ZTE BLADE A512 Build/MMB29M,5,0,0.0,mobile,ZTE BLADE A512 Build/MMB29M
+mobile-ZTE BLADE A6 Build/NMF26F,3,0,0.0,mobile,ZTE BLADE A6 Build/NMF26F
+mobile-ZTE BLADE V8 MINI Build/NRD90M,5,0,0.0,mobile,ZTE BLADE V8 MINI Build/NRD90M
+mobile-ZTE Blade A511 Build/MRA58K,6,5,0.833333,mobile,ZTE Blade A511 Build/MRA58K
+mobile-ZTE Blade L5 Build/LMY47I,10,0,0.0,mobile,ZTE Blade L5 Build/LMY47I
+mobile-ZTE-Z835,3,3,1.0,mobile,ZTE-Z835
+mobile-ZTE-Z956,1,1,1.0,mobile,ZTE-Z956
+mobile-ZUR70016,2,0,0.0,mobile,ZUR70016
+mobile-en-gb,4,2,0.5,mobile,en-gb
+mobile-en-us,5,0,0.0,mobile,en-us
+mobile-es-mx,8,3,0.375,mobile,es-mx
+mobile-es-us,47,2,0.042553,mobile,es-us
+mobile-gxq6580_weg_l Build/LMY47I,21,0,0.0,mobile,gxq6580_weg_l Build/LMY47I
+mobile-hi6210sft Build/MRA58K,190,180,0.947368,mobile,hi6210sft Build/MRA58K
+mobile-iOS Device,19781,1240,0.062686,mobile,iOS Device
+mobile-iPhone,1,1,1.0,mobile,iPhone
+mobile-iris 820 Build/MRA58K,4,0,0.0,mobile,iris 820 Build/MRA58K
+mobile-iris 870 Build/MRA58K,5,0,0.0,mobile,iris 870 Build/MRA58K
+mobile-iris50,3,0,0.0,mobile,iris50
+mobile-iris702,1,0,0.0,mobile,iris702
+mobile-iris80,1,0,0.0,mobile,iris80
+mobile-m3,2,0,0.0,mobile,m3
+mobile-moto,6,0,0.0,mobile,moto
+mobile-moto g(6) play Build/OPP27.61-14-4,2,0,0.0,mobile,moto g(6) play Build/OPP27.61-14-4
+mobile-moto x4 Build/NPW26.83-18-2-0-4,18,5,0.277778,mobile,moto x4 Build/NPW26.83-18-2-0-4
+mobile-moto x4 Build/NPW26.83-42,8,0,0.0,mobile,moto x4 Build/NPW26.83-42
+mobile-moto x4 Build/OPW27.57-40,11,0,0.0,mobile,moto x4 Build/OPW27.57-40
+mobile-moto x4 Build/OPWS27.57-40-14,6,0,0.0,mobile,moto x4 Build/OPWS27.57-40-14
+mobile-moto x4 Build/OPWS27.57-40-6,32,17,0.53125,mobile,moto x4 Build/OPWS27.57-40-6
+mobile-orbis,4,0,0.0,mobile,orbis
+mobile-rv:14.0,5,5,1.0,mobile,rv:14.0
+mobile-rv:51.0,1,0,0.0,mobile,rv:51.0
+mobile-rv:53.0,1,0,0.0,mobile,rv:53.0
+mobile-rv:55.0,1,0,0.0,mobile,rv:55.0
+mobile-rv:56.0,6,0,0.0,mobile,rv:56.0
+mobile-rv:57.0,91,9,0.098901,mobile,rv:57.0
+mobile-rv:58.0,32,12,0.375,mobile,rv:58.0
+mobile-rv:59.0,88,29,0.329545,mobile,rv:59.0
+mobile-rv:60.0,13,5,0.384615,mobile,rv:60.0
+mobile-rv:61.0,2,1,0.5,mobile,rv:61.0
+mobile-verykool,1,0,0.0,mobile,verykool
+mobile-verykoolS5005,3,0,0.0,mobile,verykoolS5005
+mobile-verykoolS5019,1,0,0.0,mobile,verykoolS5019
+mobile-verykoolS5524,1,0,0.0,mobile,verykoolS5524
+mobile-verykoolS5525,3,0,0.0,mobile,verykoolS5525
+mobile-verykoolS5530 Build/LMY47I,4,0,0.0,mobile,verykoolS5530 Build/LMY47I
+mobile-verykools4009,2,0,0.0,mobile,verykools4009
+mobile-verykools5004,2,0,0.0,mobile,verykools5004
+mobile-verykools5034,1,0,0.0,mobile,verykools5034
+mobile-verykools5035,1,0,0.0,mobile,verykools5035
+mobile-vivo,5,0,0.0,mobile,vivo
