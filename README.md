@@ -454,5 +454,4 @@ MIT — see `LICENSE`.
 
 ## Author
 
-Thayaananthan Kanagaraj  
-[thayaa1903@gmail.com](mailto:thayaa1903@gmail.com)
+Thayaananthan Kanagaraj
