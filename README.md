@@ -89,23 +89,28 @@ Holdout: 118,108 transactions (4,133 fraud) from the IEEE-CIS dataset.
 This installs Python dependencies, starts Docker services (Kafka, Neo4j, Redis,
 Postgres), initialises the Postgres schema, and installs frontend packages.
 
-### 2. Start the API
+### 2. Start everything
 
 ```bash
-./run_api.sh
+./start.sh
 ```
 
-FastAPI available at `http://localhost:8000`. Interactive docs at
-`http://localhost:8000/docs`.
+Starts Docker services, FastAPI (port 8001), Kafka consumer/producer, and the React dashboard in the correct order. Each step waits for the previous to be healthy.
 
-### 3. Start the frontend
+| Service | URL |
+|---|---|
+| React dashboard | http://localhost:5173 |
+| FastAPI | http://localhost:8001 |
+| Swagger docs | http://localhost:8001/docs |
+| Grafana | http://localhost:3000 (admin/admin) |
+| Prometheus | http://localhost:9090 |
+| Neo4j Browser | http://localhost:7474 |
+
+### 3. Stop everything
 
 ```bash
-cd frontend
-npm run dev
+./stop.sh
 ```
-
-Dashboard at `http://localhost:5173`.
 
 ### 4. Run a quick demo
 
@@ -115,17 +120,18 @@ Dashboard at `http://localhost:5173`.
 
 Sends sample transactions and prints scored results.
 
-### 5. Start the streaming pipeline (optional)
+### 5. Start components individually (optional)
 
 ```bash
-# Consumer: scores transactions from Kafka → Postgres
-python -m src.streaming.kafka_consumer
+# API only
+./run_api.sh
 
-# Producer: replay holdout data at 200 txns/sec
+# Kafka consumer + producer
+python -m src.streaming.kafka_consumer
 python -m src.streaming.kafka_producer --rate 200 --count 1000
 
-# Alert feed monitor
-python -m src.streaming.monitor
+# Frontend only
+cd frontend && npm run dev
 ```
 
 ---
@@ -136,26 +142,51 @@ python -m src.streaming.monitor
 atlas-x/
 ├── data/
 │   ├── raw/                        # IEEE-CIS CSV files (not committed)
-│   └── processed/                  # Parquet feature files
+│   ├── processed/                  # Parquet feature files
+│   └── neo4j/                      # Graph CSV files (cards, devices, emails, addresses)
+├── deployment/
+│   ├── argocd-app.yaml             # ArgoCD GitOps application
+│   └── k8s/                        # Kubernetes manifests (API, Kafka, Neo4j, Postgres)
 ├── docker/
-│   ├── docker-compose.yml          # Kafka, Neo4j, Redis, Postgres, Grafana
-│   └── prometheus/
+│   ├── docker-compose.yml          # Kafka, Neo4j, Redis, Postgres, Grafana, Prometheus
+│   ├── prometheus/
+│   └── grafana/                    # Dashboard provisioning
+├── docs/
+│   ├── API.md                      # endpoint reference
+│   ├── ARCHITECTURE.md             # detailed architecture
+│   ├── BUSINESS_OVERVIEW.md        # business context
+│   └── TECHNICAL_INTERVIEW.md      # technical deep-dive
 ├── frontend/
 │   ├── src/
 │   │   ├── api/client.ts           # axios API wrapper
-│   │   ├── components/             # React dashboard panels
+│   │   ├── components/
+│   │   │   ├── AlertFeed.tsx       # WebSocket live alerts
+│   │   │   ├── BackendDashboard.tsx # Grafana/ops metrics panel
+│   │   │   ├── EvaluationPanel.tsx  # model evaluation metrics
+│   │   │   ├── FinancialImpactPanel.tsx # financial impact view
+│   │   │   ├── FraudRingGraph.tsx   # Neo4j force graph
+│   │   │   ├── MetricsDashboard.tsx # KPIs + pie chart
+│   │   │   ├── ShapExplainer.tsx    # SHAP bar chart + LLM explanation
+│   │   │   ├── ThresholdBar.tsx     # threshold visualisation
+│   │   │   ├── ThresholdOptimizer.tsx # per-segment threshold tuning
+│   │   │   ├── TransactionFeed.tsx  # live transaction table
+│   │   │   └── WebSocketMonitor.tsx # WS connection status
 │   │   └── utils/mockData.ts       # offline mock data
 │   ├── package.json
 │   └── vite.config.ts
+├── monitoring/
+│   ├── README.md                   # Grafana setup instructions
+│   └── backend-ops-dashboard.json  # Grafana dashboard definition
 ├── results/
 │   ├── v4_graph_metrics.json
 │   └── model_comparison.png
 ├── src/
 │   ├── api/
-│   │   ├── main.py                 # FastAPI app (6 v1 endpoints)
+│   │   ├── main.py                 # FastAPI app (11 v1 endpoints)
 │   │   ├── model_loader.py         # singleton model + SHAP loader
 │   │   ├── monitoring.py           # in-memory StatsTracker
-│   │   └── schemas.py              # Pydantic request/response models
+│   │   ├── schemas.py              # Pydantic request/response models
+│   │   └── sql_validator.py        # SQL injection prevention (Feature 2)
 │   ├── evaluation/
 │   │   └── compare_models.py       # v3 vs v4 comparison
 │   ├── features/
@@ -175,20 +206,20 @@ atlas-x/
 │   └── streaming/
 │       ├── kafka_producer.py
 │       ├── kafka_consumer.py
+│       ├── data_augmentor.py       # synthetic fraud generation (Feature 9)
 │       ├── alert_consumer.py
 │       ├── init_db.py
 │       └── monitor.py
 ├── tests/
-│   ├── test_api_endpoints.py       # 8 API integration tests
+│   ├── test_api_endpoints.py       # API integration tests
 │   ├── test_streaming.py           # end-to-end Kafka test
-│   └── sample_transactions.json    # 6 holdout samples for tests
-├── docs/
-│   ├── API.md                      # endpoint reference
-│   └── ARCHITECTURE.md             # detailed architecture
+│   └── sample_transactions.json    # holdout samples for tests
 ├── README.md
 ├── requirements.txt
 ├── setup.sh
-├── run_api.sh
+├── start.sh                        # start all services in order
+├── stop.sh                         # stop all services cleanly
+├── run_api.sh                      # start API only
 └── demo.sh
 ```
 
