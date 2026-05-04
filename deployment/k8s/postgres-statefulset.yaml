@@ -1,0 +1,65 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: postgres
+  namespace: fraud-detection
+  labels:
+    app: atlas-x
+    component: postgres
+spec:
+  serviceName: postgres
+  replicas: 1
+  selector:
+    matchLabels:
+      app: atlas-x
+      component: postgres
+  template:
+    metadata:
+      labels:
+        app: atlas-x
+        component: postgres
+    spec:
+      containers:
+        - name: postgres
+          # Use pgvector-enabled image for Feature 6
+          image: pgvector/pgvector:pg16
+          ports:
+            - containerPort: 5432
+          env:
+            - name: POSTGRES_DB
+              value: atlasx
+            - name: POSTGRES_USER
+              value: postgres
+            - name: POSTGRES_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: atlas-x-secrets
+                  key: POSTGRES_PASSWORD
+          resources:
+            requests: { cpu: "500m", memory: "1Gi" }
+            limits:   { cpu: "2000m", memory: "4Gi" }
+          volumeMounts:
+            - name: postgres-data
+              mountPath: /var/lib/postgresql/data
+  volumeClaimTemplates:
+    - metadata:
+        name: postgres-data
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        resources:
+          requests:
+            storage: 50Gi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgres
+  namespace: fraud-detection
+spec:
+  selector:
+    app: atlas-x
+    component: postgres
+  ports:
+    - port: 5432
+      targetPort: 5432
+  clusterIP: None

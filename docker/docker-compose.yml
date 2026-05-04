@@ -54,7 +54,7 @@ services:
       context: ..
       dockerfile: docker/Dockerfile.neo4j
     environment:
-     - NEO4J_AUTH=${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-password123}
+      - NEO4J_AUTH=${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-password123}
       - NEO4J_dbms_default__database=neo4j
     ports:
       - "7474:7474"
@@ -78,7 +78,7 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
 

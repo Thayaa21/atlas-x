@@ -1,0 +1,114 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: atlas-x-api
+  namespace: fraud-detection
+  labels:
+    app: atlas-x
+    component: api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: atlas-x
+      component: api
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0   # Zero-downtime deployments
+  template:
+    metadata:
+      labels:
+        app: atlas-x
+        component: api
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/path: "/api/metrics/prometheus"
+        prometheus.io/port: "8000"
+    spec:
+      containers:
+        - name: api
+          image: atlas-x-api:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000
+              name: http
+          envFrom:
+            - configMapRef:
+                name: atlas-x-config
+            - secretRef:
+                name: atlas-x-secrets
+          resources:
+            requests:
+              cpu: "500m"
+              memory: "1Gi"
+            limits:
+              cpu: "2000m"
+              memory: "4Gi"
+          readinessProbe:
+            httpGet:
+              path: /api/v1/health
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 10
+            failureThreshold: 3
+          livenessProbe:
+            httpGet:
+              path: /api/v1/health
+              port: 8000
+            initialDelaySeconds: 60
+            periodSeconds: 30
+            failureThreshold: 5
+          volumeMounts:
+            - name: model-storage
+              mountPath: /app/src/models
+              readOnly: true
+      volumes:
+        - name: model-storage
+          persistentVolumeClaim:
+            claimName: atlas-x-models-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: atlas-x-api
+  namespace: fraud-detection
+  labels:
+    app: atlas-x
+    component: api
+spec:
+  selector:
+    app: atlas-x
+    component: api
+  ports:
+    - name: http
+      port: 80
+      targetPort: 8000
+  type: ClusterIP
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: atlas-x-api-hpa
+  namespace: fraud-detection
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: atlas-x-api
+  minReplicas: 2
+  maxReplicas: 10
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type: Utilization
+          averageUtilization: 80

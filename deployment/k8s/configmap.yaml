@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: atlas-x-config
+  namespace: fraud-detection
+  labels:
+    app: atlas-x
+data:
+  KAFKA_BOOTSTRAP_SERVERS: "kafka:9092"
+  KAFKA_TOPIC_TRANSACTIONS: "transactions"
+  KAFKA_TOPIC_FRAUD_ALERTS: "fraud-alerts"
+  NEO4J_URI: "neo4j://neo4j:7687"
+  POSTGRES_DSN: "postgresql://postgres:postgres@postgres:5432/atlasx"
+  OLLAMA_URL: "http://ollama:11434"
+  OMP_NUM_THREADS: "1"
+  MKL_NUM_THREADS: "1"
+  NUMEXPR_NUM_THREADS: "1"

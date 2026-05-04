@@ -48,6 +48,7 @@ IN_FLIGHT_MAX   = 50      # max concurrent API calls
 async def _log_to_postgres(
     pg: Optional[asyncpg.Connection],
     result: dict,
+    is_fraud_label: Optional[bool] = None,
 ) -> None:
     if pg is None:
         return
@@ -56,15 +57,17 @@ async def _log_to_postgres(
             """
             INSERT INTO predictions
                 (transaction_id, fraud_probability, graph_risk_score,
-                 decision, latency_ms)
-            VALUES ($1, $2, $3, $4, $5)
-            ON CONFLICT DO NOTHING
+                 decision, latency_ms, is_fraud_label)
+            VALUES ($1, $2, $3, $4, $5, $6)
+            ON CONFLICT (transaction_id) DO UPDATE
+                SET is_fraud_label = COALESCE(EXCLUDED.is_fraud_label, predictions.is_fraud_label)
             """,
             result["transaction_id"],
             result["fraud_probability"],
             result["graph_risk_score"],
             result["decision"],
             result["latency_ms"],
+            is_fraud_label,
         )
     except Exception as e:
         print(f"[DB] write error: {e}", flush=True)
@@ -80,6 +83,8 @@ async def _call_predict(
         "card_id":        message.get("card_id", "?-?-?"),
         "amount":         float(message.get("amount", 0.0)),
         "features":       message.get("features", {}),
+        "is_fraud_label": message.get("is_fraud"),   # ground truth → stored in embedding
+        "store_embedding": True,                      # full features → meaningful embedding
     }
     try:
         async with session.post(
@@ -177,7 +182,22 @@ async def consume() -> None:
             elif decision == "BLOCK":
                 await producer.send_and_wait(TOPIC_BLOCKS, alert_payload)
 
-            await _log_to_postgres(pg, result)
+            await _log_to_postgres(pg, result, is_fraud_label=message.get("is_fraud"))
+
+            # Update embedding ground truth label if we have it
+            if pg is not None and message.get("is_fraud") is not None:
+                try:
+                    await pg.execute(
+                        """
+                        UPDATE transaction_embeddings
+                        SET is_fraud = $1
+                        WHERE transaction_id = $2
+                        """,
+                        bool(message["is_fraud"]),
+                        result["transaction_id"],
+                    )
+                except Exception:
+                    pass
 
             # Progress log
             if processed % LOG_INTERVAL == 0:
