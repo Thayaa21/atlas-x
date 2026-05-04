@@ -38,3 +38,14 @@ flwr
 # Training utilities
 joblib
 aiohttp>=3.9
+
+# Feature 7: Dual LLM (Qwen via Ollama + OpenAI)
+# httpx already listed above (used for async Ollama calls)
+# openai already listed above
+
+# Feature 6: pgvector similarity search
+# pgvector extension is installed in PostgreSQL (see docker/Dockerfile.postgres)
+# Python client uses asyncpg (already listed) with raw SQL
+
+# Feature 9: Data augmentation
+# numpy already listed above

@@ -161,13 +161,11 @@ class ModelLoader:
 
     def _infer_cat_cols(self) -> set:
         """
-        Read the first 1 000 rows of the training parquet to identify which
+        Read the first 500 rows of the training parquet to identify which
         columns are object/category dtype → those need `category` cast at
         inference time.
         """
         try:
-            sample = pd.read_parquet(V4_DATA, columns=self.feature_names[:50])  # partial read
-            # read all feature columns in one shot for dtype inference
             sample = pd.read_parquet(V4_DATA).head(500)
             cat_cols = set(
                 sample.select_dtypes(include=["object", "category"]).columns

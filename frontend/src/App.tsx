@@ -5,13 +5,15 @@ import TransactionFeed from "./components/TransactionFeed";
 import FraudRingGraph from "./components/FraudRingGraph";
 import ShapExplainer from "./components/ShapExplainer";
 import AlertFeed from "./components/AlertFeed";
+import BackendDashboard from "./components/BackendDashboard";
+import ThresholdBar from "./components/ThresholdBar";
 import type { RecentTxn } from "./api/client";
 
-// Set USE_MOCK=true to run the UI without a backend
 const USE_MOCK = false;
 
 export default function App() {
   const [selectedTxn, setSelectedTxn] = useState<RecentTxn | null>(null);
+  const [showBackend, setShowBackend]  = useState(false);
 
   return (
     <div className="layout">
@@ -22,16 +24,43 @@ export default function App() {
           <span className="logo-x">-X</span>
         </div>
         <div className="topbar-sub">Real-Time Fraud Detection Dashboard</div>
-        {USE_MOCK && <div className="topbar-mock-badge">MOCK DATA</div>}
+
+        <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: 12 }}>
+          {USE_MOCK && <div className="topbar-mock-badge">MOCK DATA</div>}
+
+          {/* Live threshold control */}
+          {!USE_MOCK && <ThresholdBar />}
+
+          {/* Backend dashboard button */}
+          <button
+            onClick={() => setShowBackend(true)}
+            style={{
+              fontSize: 12,
+              fontWeight: 600,
+              padding: "6px 16px",
+              borderRadius: 6,
+              border: "1px solid #3b82f6",
+              background: "rgba(59,130,246,0.12)",
+              color: "#60a5fa",
+              cursor: "pointer",
+              display: "flex",
+              alignItems: "center",
+              gap: 6,
+              transition: "background 0.15s",
+            }}
+            onMouseEnter={e => (e.currentTarget.style.background = "rgba(59,130,246,0.25)")}
+            onMouseLeave={e => (e.currentTarget.style.background = "rgba(59,130,246,0.12)")}
+          >
+            ⚙ Backend Dashboard
+          </button>
+        </div>
       </header>
 
       {/* ── Main grid ───────────────────────────────────────────────── */}
       <main className="grid">
-        {/* Row 1: metrics (left) + alert feed (right) */}
-        <MetricsDashboard useMock={USE_MOCK} refreshMs={5000} />
+        <MetricsDashboard useMock={USE_MOCK} refreshMs={3000} />
         <AlertFeed onAlertClick={setSelectedTxn} />
 
-        {/* Row 2: transaction feed (spans 2 cols) */}
         <div className="col-span-2">
           <TransactionFeed
             useMock={USE_MOCK}
@@ -40,10 +69,14 @@ export default function App() {
           />
         </div>
 
-        {/* Row 3: fraud ring graph (left) + SHAP explainer (right) */}
         <FraudRingGraph useMock={USE_MOCK} />
         <ShapExplainer selectedTxn={selectedTxn} useMock={USE_MOCK} />
       </main>
+
+      {/* ── Backend Dashboard overlay ────────────────────────────────── */}
+      {showBackend && (
+        <BackendDashboard onClose={() => setShowBackend(false)} />
+      )}
     </div>
   );
 }

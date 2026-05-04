@@ -1,0 +1,44 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: atlas-x
+  namespace: argocd
+  labels:
+    app: atlas-x
+    team: fraud-detection
+  annotations:
+    # Notify on sync failures
+    notifications.argoproj.io/subscribe.on-sync-failed.slack: fraud-alerts
+spec:
+  project: default
+
+  source:
+    repoURL: https://github.com/USER/atlas-x
+    targetRevision: HEAD
+    path: deployment/k8s
+
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: fraud-detection
+
+  syncPolicy:
+    automated:
+      prune: true        # Remove resources deleted from Git
+      selfHeal: true     # Revert manual changes in cluster
+    syncOptions:
+      - CreateNamespace=true
+      - PrunePropagationPolicy=foreground
+      - RespectIgnoreDifferences=true
+    retry:
+      limit: 5
+      backoff:
+        duration: 5s
+        factor: 2
+        maxDuration: 3m
+
+  # Ignore differences in fields managed by the cluster
+  ignoreDifferences:
+    - group: apps
+      kind: Deployment
+      jsonPointers:
+        - /spec/replicas   # Allow HPA to manage replicas

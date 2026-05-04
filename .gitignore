@@ -33,3 +33,10 @@ frontend/.vite/
 # Editor
 .idea/
 .vscode/
+.claude/
+.kiro/
+.kiro_tmp/
+
+# ATLAS-X runtime
+.atlas_pids
+.atlas_logs/

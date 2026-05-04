@@ -37,12 +37,13 @@
   │                                                         │
   └─────────────────────────────────────────────────────────┘
 
-                        INFERENCE PATH
+                        INFERENCE PATH (v3.0 – Enterprise)
   ┌─────────────────────────────────────────────────────────┐
   │                                                         │
   │  HTTP POST /api/v1/predict                              │
   │             │                                           │
   │             ▼                                           │
+  │  sql_validator.validate_query()  ← Feature 2            │
   │  ModelLoader.prepare_features()                         │
   │  • Build DataFrame from features dict                   │
   │  • Cast categorical columns                             │
@@ -61,19 +62,59 @@
   │    ▼           ▼                  ▼                     │
   │  APPROVE     FLAG              BLOCK                    │
   │             │                                           │
-  │             ▼                                           │
-  │  StatsTracker.record()  (in-memory ring buffer)         │
+  │    ┌────────┴────────────────────────────┐              │
+  │    ▼                                     ▼              │
+  │  StatsTracker.record()          _persist_prediction()   │
+  │  (in-memory ring buffer)        → predictions table     │
+  │                                 → transaction_events    │
+  │                                   (Feature 1: audit)    │
   │             │                                           │
   │             ▼                                           │
   │  PredictResponse (JSON)                                 │
   │                                                         │
   └─────────────────────────────────────────────────────────┘
 
+                        ENTERPRISE FEATURES
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │  Feature 1: Event-Sourced Memory                        │
+  │  GET /api/v1/events/{txn_id}                            │
+  │  → PostgreSQL transaction_events table                  │
+  │  → Chronological audit trail for compliance             │
+  │                                                         │
+  │  Feature 3: Human-in-the-Loop Checkpoints               │
+  │  GET /api/v1/flagged                                     │
+  │  → PostgreSQL predictions WHERE decision='FLAG'         │
+  │  → Sorted by fraud_probability DESC                     │
+  │  → Includes minutes_waiting + flag_reason               │
+  │                                                         │
+  │  Feature 4: MCP Enterprise Integration                  │
+  │  POST /api/v1/mcp/slack/alert                           │
+  │  → Mock MCP protocol pattern                            │
+  │  → Future: Slack / Drive / Salesforce / PagerDuty       │
+  │                                                         │
+  │  Feature 6: pgvector Similarity Search                  │
+  │  GET /api/v1/similar/{txn_id}                           │
+  │  → PostgreSQL transaction_embeddings (vector(498))      │
+  │  → HNSW cosine similarity index                         │
+  │  → "Show me frauds that look like this one"             │
+  │                                                         │
+  │  Feature 7: Dual LLM Explanation                        │
+  │  POST /api/v1/explain?model=qwen|openai|compare=true    │
+  │  → Qwen 2.5:7b via Ollama (free, local, default)        │
+  │  → GPT-4o-mini via OpenAI API (optional)                │
+  │  → Side-by-side comparison in React dashboard           │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+
                         STREAMING PATH
   ┌─────────────────────────────────────────────────────────┐
   │                                                         │
-  │  kafka_producer.py                                      │
+  │  kafka_producer.py [--augment]  ← Feature 9             │
   │  • Loads holdout parquet                                │
+  │  • --augment: 80% real + 20% synthetic frauds           │
+  │    Patterns: high_amount, device_sharing, rapid,        │
+  │              cross_border, round_number                 │
   │  • Rate-controlled publish (default 200 txns/sec)       │
   │             │                                           │
   │             ▼                                           │
@@ -87,7 +128,7 @@
   │    ┌────────┴────────────────┐                          │
   │    ▼                         ▼                          │
   │  Kafka: fraud-alerts       Postgres: predictions        │
-  │  Kafka: fraud-blocks       (all scored transactions)    │
+  │  Kafka: fraud-blocks       + transaction_events         │
   │    │                                                    │
   │    ▼                                                    │
   │  alert_consumer.py                                      │
@@ -97,6 +138,50 @@
   │    ▼                                                    │
   │  WS /ws/alerts  (Kafka → WebSocket bridge)              │
   │  • React AlertFeed panel subscribes                     │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+
+                        MONITORING PATH
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │  FastAPI /api/metrics/prometheus                        │
+  │             │                                           │
+  │             ▼                                           │
+  │  Prometheus (scrapes every 15s)                         │
+  │             │                                           │
+  │             ▼                                           │
+  │  Grafana Backend Ops Dashboard  ← Feature 5             │
+  │  http://localhost:3000                                  │
+  │  ├── ROW 1: System Health                               │
+  │  │   API Uptime, HTTP Codes, Error Rate, Containers     │
+  │  ├── ROW 2: Performance                                 │
+  │  │   Latency p50/p95/p99, Kafka Lag, PG Connections     │
+  │  ├── ROW 3: Business Metrics                            │
+  │  │   TPS, Decision Distribution, Hourly Trend           │
+  │  └── ROW 4: Model Monitoring                            │
+  │      Predict vs SHAP Latency, Feature Usage             │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+
+                        DEPLOYMENT PATH (GitOps)
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │  Git Push → GitHub main branch  ← Feature 8             │
+  │             │                                           │
+  │             ▼                                           │
+  │  ArgoCD watches repo (poll 3min or webhook)             │
+  │             │                                           │
+  │             ▼                                           │
+  │  kubectl apply -f deployment/k8s/                       │
+  │  ├── api-deployment.yaml  (FastAPI + HPA 2–10 pods)     │
+  │  ├── kafka-deployment.yaml                              │
+  │  ├── neo4j-statefulset.yaml                             │
+  │  ├── postgres-statefulset.yaml  (pgvector:pg16)         │
+  │  └── ingress.yaml                                       │
+  │             │                                           │
+  │             ▼                                           │
+  │  Rolling update (zero-downtime, maxUnavailable=0)       │
+  │  Readiness probe gates traffic until healthy            │
   │                                                         │
   └─────────────────────────────────────────────────────────┘
 ```

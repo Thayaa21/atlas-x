@@ -244,15 +244,166 @@ Used for: fraud ring detection, live graph risk override, SHAP graph explanation
 ## Testing
 
 ```bash
-# API endpoint tests (requires API running on :8000)
+# API endpoint tests (requires API running on :8001)
 python tests/test_api_endpoints.py
+
+# SQL validator tests (no API required)
+python tests/test_sql_validator.py
+
+# MCP integration tests (requires API running on :8001)
+python tests/test_mcp_integration.py
 
 # Kafka streaming integration test (requires Kafka + Postgres)
 python tests/test_streaming.py
 ```
 
-Test suite: 8 API tests (predict fraud, predict legit, SHAP explain, graph rings,
-graph card, stats, health, latency benchmark). All 8 pass with API latency p50 ≈ 15 ms.
+Test suite: 8 API tests + 35 SQL validator tests + 6 MCP tests.
+
+---
+
+## Enterprise Features
+
+### 1. Event-Sourced Memory (Audit Trail)
+
+Every prediction is persisted to PostgreSQL with a full event history.
+
+```bash
+# Get complete audit trail for a transaction
+curl http://localhost:8001/api/v1/events/txn-001
+```
+
+Returns chronological array of all events: `[{event_type, data, timestamp}, ...]`.
+Enables time-travel debugging and compliance auditing.
+
+### 2. SQL Injection Prevention
+
+All PostgreSQL queries are pre-validated by `src/api/sql_validator.py` before execution:
+- SELECT-only (no DML/DDL)
+- Whitelisted tables: `predictions`, `fraud_alerts`, `transaction_events`
+- No injection patterns: semicolons, comments, UNION, pg_sleep, hex encoding
+
+```python
+from src.api.sql_validator import validate_query, ValidationError
+validate_query("SELECT * FROM predictions WHERE decision = 'FLAG'")  # ✅
+validate_query("SELECT * FROM users; DROP TABLE predictions")         # ❌ raises
+```
+
+### 3. Human-in-the-Loop Checkpoints
+
+Fraud analyst review queue — all FLAG decisions sorted by risk:
+
+```bash
+curl http://localhost:8001/api/v1/flagged
+```
+
+Returns: transaction details + flag reason + minutes waiting for review.
+
+### 4. MCP Enterprise Integration
+
+Mock implementation of the Model Context Protocol pattern for Slack/Drive/Salesforce:
+
+```bash
+curl -X POST http://localhost:8001/api/v1/mcp/slack/alert \
+  -H "Content-Type: application/json" \
+  -d '{"transaction_id": "txn-001", "message": "High risk detected", "channel": "#fraud-alerts"}'
+```
+
+---
+
+## Monitoring & Observability
+
+### Backend Ops Dashboard (Grafana)
+
+Access: **http://localhost:3000** (admin/admin)
+
+4-row dashboard auto-provisioned from `monitoring/backend-ops-dashboard.json`:
+
+| Row | Panels |
+|-----|--------|
+| System Health | API Uptime, HTTP Response Codes, Error Rate, Containers Up |
+| Performance | Latency p50/p95/p99, Kafka Lag, PostgreSQL Connections |
+| Business Metrics | Transactions/sec, Decision Distribution (pie), Hourly Trend |
+| Model Monitoring | Predict vs SHAP Latency, Feature Usage |
+
+See [monitoring/README.md](monitoring/README.md) for full instructions.
+
+### Prometheus Metrics
+
+Scrape target: `http://localhost:8001/api/metrics/prometheus`
+
+---
+
+## AI/ML Enhancements
+
+### Dual LLM Explanations (Qwen vs GPT-4o-mini)
+
+```bash
+# Default: Qwen 2.5 (free, local via Ollama)
+curl -X POST http://localhost:8001/api/v1/explain \
+  -d '{"transaction_id": "txn-001", "features": {...}}'
+
+# OpenAI GPT-4o-mini
+curl -X POST "http://localhost:8001/api/v1/explain?model=openai" \
+  -d '{"transaction_id": "txn-001", "features": {...}}'
+
+# Side-by-side comparison (both models)
+curl -X POST "http://localhost:8001/api/v1/explain?compare=true" \
+  -d '{"transaction_id": "txn-001", "features": {...}}'
+```
+
+The React dashboard shows a "Compare with GPT-4o-mini" button in the SHAP Explainer panel.
+Click once to load both explanations side-by-side. Result is cached (button disabled after use).
+
+### pgvector Similarity Search
+
+Find past frauds that look like the current transaction:
+
+```bash
+curl http://localhost:8001/api/v1/similar/txn-001
+```
+
+Uses HNSW cosine similarity on 498-dimensional feature embeddings stored in PostgreSQL.
+Requires pgvector extension (included in `docker/Dockerfile.postgres`).
+
+### Data Augmentation for Robustness
+
+```bash
+# Mix 80% real + 20% synthetic frauds in the Kafka stream
+python -m src.streaming.kafka_producer --augment --rate 200 --count 1000
+```
+
+Generates 5 fraud patterns: `high_amount`, `device_sharing`, `rapid_sequence`,
+`cross_border`, `round_number`. Synthetic messages are tagged with `metadata.synthetic=true`.
+
+---
+
+## Production Deployment
+
+### GitOps with ArgoCD
+
+```bash
+# Register with ArgoCD
+kubectl apply -f deployment/argocd-app.yaml
+
+# ArgoCD watches main branch and auto-deploys on every merge
+argocd app sync atlas-x
+```
+
+See [deployment/README.md](deployment/README.md) for full GitOps workflow,
+rollback procedure, and secrets management.
+
+### Kubernetes Manifests
+
+```
+deployment/k8s/
+├── api-deployment.yaml      # FastAPI + HPA (2–10 replicas)
+├── kafka-deployment.yaml
+├── neo4j-statefulset.yaml
+├── postgres-statefulset.yaml  # pgvector/pgvector:pg16
+├── ingress.yaml
+├── configmap.yaml
+└── secrets.yaml             # TEMPLATE – use Sealed Secrets in production
+```
 
 ---
 
@@ -260,7 +411,7 @@ graph card, stats, health, latency benchmark). All 8 pass with API latency p50 �
 
 See [docs/API.md](docs/API.md) for full endpoint reference with curl examples.
 
-Interactive Swagger UI: `http://localhost:8000/docs`
+Interactive Swagger UI: `http://localhost:8001/docs`
 
 ---
 

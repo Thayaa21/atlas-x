@@ -167,6 +167,16 @@ def _parse_args():
     p.add_argument("--rate",      type=float, default=100.0, help="txns/sec")
     p.add_argument("--count",     type=int,   default=500,   help="txns per batch (0=all)")
     p.add_argument("--loop",      action="store_true",       help="Loop forever, sending batches every 10s")
+    p.add_argument(
+        "--augment",
+        action="store_true",
+        help=(
+            "Mix 80%% real transactions with 20%% synthetic frauds. "
+            "Synthetic messages are tagged with metadata.synthetic=true "
+            "and a pattern label (high_amount, device_sharing, rapid_sequence, "
+            "cross_border, round_number)."
+        ),
+    )
     return p.parse_args()
 
 
@@ -179,6 +189,11 @@ def run_producer(bootstrap: str, topic: str, messages: list[dict],
 if __name__ == "__main__":
     args = _parse_args()
     msgs = load_holdout()
+
+    if args.augment:
+        from src.streaming.data_augmentor import augment_batch
+        msgs, aug_stats = augment_batch(msgs, synthetic_ratio=0.20)
+        print(f"🧬 Augmentation enabled: {aug_stats.log()}")
 
     if args.loop:
         print(f"🔁 Infinite mode: {args.count} txns/batch at {args.rate}/sec, 10s between batches")
